@@ -1,13 +1,14 @@
 # Versiones disponibles
 # forge, mohist, fabric, vanilla, paper
 
-# Puedes instalar mohist después de instalar forge desde el menú de gestionar
-# Puedes instalar paper después de instalar vanilla desde el menú de gestionar
-# Puedes instalar purpur después de instalar fabric desde el menú de gestionar
+# instalar mohist después de instalar forge
+# instalar paper después de instalar vanilla
+# instalar purpur después de instalar fabric
 
 # Regiones de ngrok
+
 # Código          Lugar
-#-----------      ---------------------------
+# --------------  ---------------------------
 # ap	          Asia / Pacífico (Singapore)
 # au		      Australia (Sydney)
 # eu		      Europa (Frankfurt)
@@ -17,20 +18,6 @@
 # us		      Estados unidos (Ohio)
 # us-cal-1	      Estados unidos (California)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-# No toques nada de aquí para abajo, puedes dañarlo
 import requests,os,base64,glob,time
 if os.path.exists("servidor.py"):
 	os.remove("servidor.py")
