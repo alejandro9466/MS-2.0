@@ -1,1 +1,1 @@
-# minecraft server para la masturbanda
+# server para la masturbanda
