@@ -1,14 +1,11 @@
-# Versiones disponibles
 # forge, mohist, fabric, vanilla, paper
 
-# instalar mohist después de instalar forge
-# instalar paper después de instalar vanilla
-# instalar purpur después de instalar fabric
+# mohist después de instalar forge
+# paper después de instalar vanilla
+# purpur después de instalar fabric
 
-# Regiones de ngrok
+# ngrok
 
-# Código          Lugar
-# --------------  ---------------------------
 # ap	          Asia / Pacífico (Singapore)
 # au		      Australia (Sydney)
 # eu		      Europa (Frankfurt)
