@@ -1,19 +1,10 @@
-# forge, mohist, fabric, vanilla, paper
+# forge-mohist-fabric-vanilla-paper
 
 # mohist después de instalar forge
 # paper después de instalar vanilla
 # purpur después de instalar fabric
 
-# ngrok
-
-# ap	          Asia / Pacífico (Singapore)
-# au		      Australia (Sydney)
-# eu		      Europa (Frankfurt)
-# in		      India (Mumbai)
-# jp		      Japón (Tokyo)
-# sa		      Sudamérica (São Paulo)
-# us		      Estados unidos (Ohio)
-# us-cal-1	      Estados unidos (California)
+# tailscare-zerotier
 
 import requests,os,base64,glob,time
 if os.path.exists("servidor.py"):
