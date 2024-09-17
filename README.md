@@ -1,1 +1,1 @@
-# server para la masturbanda
+# Para el planeta de la masturband
