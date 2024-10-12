@@ -25,7 +25,7 @@ def download_latest_release(download_path='.'):
 			return version
 		else:
 			os.system("rm *.msp")
-			print("Actualizando versión de MSP...")
+			print("Actualizando...")
 			time.sleep(1.5)
 		pathto = os.path.join(download_path, version)
 		with open(pathto, 'wb') as archivo:
