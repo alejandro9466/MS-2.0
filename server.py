@@ -1,10 +1,7 @@
 # forge-mohist-fabric-vanilla-paper
 
-# mohist después de instalar forge
 # paper después de instalar vanilla
-# purpur después de instalar fabric
-
-# tailscare-zerotier
+# purpur de
 
 import requests,os,base64,glob,time
 if os.path.exists("servidor.py"):
