@@ -4347,15 +4347,45 @@
     },
     "done": true
   },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2025-02-13 21:36:36 +0000"
+    },
+    "done": true
+  },
   "stellarity:dragons_den/cursed_tome/root": {
     "criteria": {
       "requirement": "2025-02-13 21:29:36 +0000"
     },
     "done": true
   },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2025-02-13 21:30:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-02-13 21:36:36 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/sabrewing": {
     "criteria": {
       "requirement": "2025-02-13 21:29:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-02-13 21:36:36 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2025-02-13 21:36:36 +0000"
     },
     "done": true
   },

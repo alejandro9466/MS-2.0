@@ -770,3 +770,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [13Feb2025 21:29:35.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dercsas[/127.172.56.231:39875] logged in with entity id 20167 at (-209.5, 84.0, -1332.5)
 [13Feb2025 21:29:35.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas joined the game
 [13Feb2025 21:29:36.178] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Dercsas.
+[13Feb2025 21:30:37.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandro946[/127.160.163.203:42987] logged in with entity id 21068 at (-215.57228343280715, 80.81374978299944, -1293.4205486098729)
+[13Feb2025 21:30:37.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 joined the game
+[13Feb2025 21:30:37.509] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to alejandro946.
+[13Feb2025 21:30:58.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas was slain by peter_rola14
+[13Feb2025 21:31:11.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[13Feb2025 21:31:12.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[13Feb2025 21:39:08.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by peter_rola14
