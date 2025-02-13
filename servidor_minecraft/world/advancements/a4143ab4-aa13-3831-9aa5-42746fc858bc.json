@@ -896,6 +896,7 @@
       "minecraft:piglin": "2025-02-06 21:03:36 +0000",
       "minecraft:silverfish": "2025-02-06 19:46:13 +0000",
       "minecraft:enderman": "2025-02-12 04:02:57 +0000",
+      "minecraft:endermite": "2025-02-13 23:34:55 +0000",
       "minecraft:zombie": "2025-02-06 20:07:30 +0000",
       "minecraft:zombie_villager": "2025-02-06 20:08:44 +0000"
     },
@@ -7682,8 +7683,13 @@
   "stellarity:exploration/ender_adventurer": {
     "criteria": {
       "end_midlands": "2025-02-13 22:57:49 +0000",
+      "flesh_tundra": "2025-02-13 23:21:41 +0000",
+      "warped_marsh": "2025-02-13 23:31:46 +0000",
+      "end_wilds": "2025-02-13 23:31:30 +0000",
       "frosted_hills": "2025-02-13 23:06:31 +0000",
       "small_end_islands": "2025-02-13 22:56:55 +0000",
+      "ashfall_delta": "2025-02-13 23:28:02 +0000",
+      "ender_waste": "2025-02-13 23:35:59 +0000",
       "end_barrens": "2025-02-13 23:07:10 +0000"
     },
     "done": false
@@ -7724,9 +7730,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-13 23:26:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
       "has_end_stone_bricks": "2025-02-13 23:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-13 23:22:25 +0000"
     },
     "done": true
   },
@@ -7739,6 +7757,12 @@
   "stellarity:dragons_den/cursed_tome/items/unlock_zephyr": {
     "criteria": {
       "requirement": "2025-02-13 23:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-13 23:26:32 +0000"
     },
     "done": true
   },
@@ -7766,9 +7790,21 @@
     },
     "done": true
   },
+  "stellarity:end_city/portable_storage": {
+    "criteria": {
+      "craft_shulker_box": "2025-02-13 23:44:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-02-13 23:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-13 23:26:32 +0000"
     },
     "done": true
   },
@@ -7778,9 +7814,27 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-02-13 23:38:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-02-13 23:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 23:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-13 23:53:39 +0000"
     },
     "done": true
   },
@@ -7802,15 +7856,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-13 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-02-13 23:38:00 +0000"
+    },
+    "done": true
+  },
   "stellarity:dragons_den/cursed_tome/items/unlock_frigid_harvester": {
     "criteria": {
       "requirement2": "2025-02-13 23:06:31 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 23:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-13 23:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 23:26:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
       "has_end_stone_bricks": "2025-02-13 23:14:22 +0000"
+    },
+    "done": true
+  },
+  "stellarity:exploration/enter_end_village": {
+    "criteria": {
+      "find_a_town_in_a_complete_shithole": "2025-02-13 23:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-13 23:26:32 +0000"
     },
     "done": true
   },
@@ -7832,15 +7928,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-02-13 23:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 23:26:04 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/ancient_armor": {
     "criteria": {
       "requirement3": "2025-02-13 23:10:46 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-02-13 23:46:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-02-13 23:14:22 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2025-02-13 23:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-13 23:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-13 23:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 23:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-13 23:53:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-02-13 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-02-13 23:22:25 +0000"
     },
     "done": true
   },
@@ -7864,9 +8020,17 @@
   },
   "stellarity:end_city/headhunter": {
     "criteria": {
+      "45": "2025-02-13 23:38:05 +0000",
+      "31": "2025-02-13 23:37:41 +0000",
       "36": "2025-02-13 23:16:54 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-02-13 23:29:20 +0000"
+    },
+    "done": true
   },
   "stellarity:cursed_tome/shulker_things": {
     "criteria": {
@@ -7889,6 +8053,12 @@
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
       "has_planks": "2025-02-13 23:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-13 23:33:35 +0000"
     },
     "done": true
   },
@@ -7934,6 +8104,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-13 23:37:08 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/pandoras_barrel": {
     "criteria": {
       "requirement2": "2025-02-13 23:10:46 +0000"
@@ -7943,6 +8119,12 @@
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2025-02-13 23:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-13 23:26:32 +0000"
     },
     "done": true
   },
@@ -7970,6 +8152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-02-13 23:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-02-13 23:17:38 +0000"
@@ -7982,9 +8170,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 23:26:04 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/zephyr": {
     "criteria": {
       "requirement": "2025-02-13 23:10:46 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/glass_from_end_stone": {
+    "criteria": {
+      "has_item": "2025-02-13 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-13 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-13 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-13 23:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-13 23:37:08 +0000"
     },
     "done": true
   },

@@ -992,6 +992,7 @@
       "minecraft:witch": "2025-02-07 01:12:49 +0000",
       "minecraft:wither_skeleton": "2025-02-07 02:12:58 +0000",
       "minecraft:husk": "2025-02-06 21:25:29 +0000",
+      "minecraft:shulker": "2025-02-13 23:21:41 +0000",
       "minecraft:cave_spider": "2025-02-07 03:05:01 +0000",
       "minecraft:piglin": "2025-02-07 19:43:20 +0000",
       "minecraft:enderman": "2025-02-07 19:56:18 +0000",
@@ -10642,9 +10643,33 @@
     },
     "done": true
   },
+  "stellarity:dragons_den/cursed_tome/items/unlock_zephyr": {
+    "criteria": {
+      "requirement": "2025-02-13 23:21:26 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_chorusling": {
     "criteria": {
       "chorusling": "2025-02-13 22:59:16 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/whos_the_thief_now": {
+    "criteria": {
+      "open_chest_1": "2025-02-13 23:21:54 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/defeat_shulker": {
+    "criteria": {
+      "defeat_shulkers": "2025-02-13 23:21:41 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_ancient_armor": {
+    "criteria": {
+      "requirement3": "2025-02-13 23:21:26 +0000"
     },
     "done": true
   },
@@ -10654,9 +10679,27 @@
     },
     "done": true
   },
+  "stellarity:adventure/kill_large_phantom": {
+    "criteria": {
+      "size_doesnt_matter": "2025-02-13 23:32:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-02-13 22:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:23:06 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-02-13 23:52:33 +0000"
     },
     "done": true
   },
@@ -10690,9 +10733,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-02-13 23:29:37 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/capsid": {
     "criteria": {
       "capsid": "2025-02-13 22:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:23:06 +0000"
     },
     "done": true
   },
@@ -10714,6 +10769,12 @@
     },
     "done": true
   },
+  "stellarity:aota/pandoras_barrel/place": {
+    "criteria": {
+      "requirement": "2025-02-13 23:53:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-02-13 22:57:05 +0000"
@@ -10723,6 +10784,12 @@
   "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
     "criteria": {
       "has_item": "2025-02-13 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-02-13 23:52:33 +0000"
     },
     "done": true
   },
@@ -10756,15 +10823,33 @@
     },
     "done": true
   },
+  "stellarity:exploration/enter_end_village": {
+    "criteria": {
+      "find_a_town_in_a_complete_shithole": "2025-02-13 23:38:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-02-13 22:41:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-02-13 21:40:02 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_hallowed_armor": {
+    "criteria": {
+      "requirement3": "2025-02-13 23:21:26 +0000"
     },
     "done": true
   },
@@ -10798,6 +10883,12 @@
     },
     "done": true
   },
+  "stellarity:dragons_den/cursed_tome/items/unlock_spirit_dagger": {
+    "criteria": {
+      "requirement2": "2025-02-13 23:32:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-02-13 22:46:53 +0000"
@@ -10813,6 +10904,12 @@
   "legendary_monsters:locate_mossy_temple": {
     "criteria": {
       "mossy_temple": "2025-02-13 22:31:46 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/ancient_armor": {
+    "criteria": {
+      "requirement3": "2025-02-13 23:21:26 +0000"
     },
     "done": true
   },
@@ -10837,6 +10934,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-02-13 21:40:02 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spirit_dagger": {
+    "criteria": {
+      "requirement2": "2025-02-13 23:32:25 +0000"
     },
     "done": true
   },
@@ -10894,6 +10997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
       "has_end_stone_bricks": "2025-02-13 23:02:06 +0000"
@@ -10924,9 +11033,45 @@
     },
     "done": true
   },
+  "stellarity:nether/charge_anchor_end": {
+    "criteria": {
+      "1": "2025-02-13 23:38:47 +0000"
+    },
+    "done": true
+  },
   "stellarity:recipes/purple_dye_from_chorus_fruit": {
     "criteria": {
       "has_item": "2025-02-13 23:06:21 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/hallowed_armor": {
+    "criteria": {
+      "requirement3": "2025-02-13 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:23:06 +0000"
     },
     "done": true
   },
@@ -10966,6 +11111,18 @@
     },
     "done": true
   },
+  "stellarity:story/cloud_save": {
+    "criteria": {
+      "requirement": "2025-02-13 23:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-02-13 23:22:40 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/sharanga": {
     "criteria": {
       "requirement2": "2025-02-13 22:42:50 +0000"
@@ -10994,13 +11151,33 @@
     "criteria": {
       "end_midlands": "2025-02-13 23:10:47 +0000",
       "flesh_tundra": "2025-02-13 22:58:34 +0000",
+      "prismarine_forest": "2025-02-13 23:37:29 +0000",
       "frosted_hills": "2025-02-13 22:58:01 +0000",
       "small_end_islands": "2025-02-13 22:56:55 +0000",
       "the_hallow": "2025-02-13 23:10:14 +0000",
+      "amethyst_forest": "2025-02-13 23:29:14 +0000",
       "the_nest": "2025-02-13 23:09:10 +0000",
       "end_barrens": "2025-02-13 23:15:18 +0000"
     },
     "done": false
+  },
+  "stellarity:adventure/night_sky_stalkers": {
+    "criteria": {
+      "sleep_deprivation": "2025-02-13 23:32:25 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/pandoras_barrel": {
+    "criteria": {
+      "requirement2": "2025-02-13 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-02-13 23:21:26 +0000"
+    },
+    "done": true
   },
   "create_enchantment_industry:recipes/experience_rotor": {
     "criteria": {
@@ -11008,9 +11185,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:23:06 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:copiable_mystery": {
     "criteria": {
       "builtin": "2025-02-13 22:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-13 23:22:40 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_pandoras_barrel": {
+    "criteria": {
+      "requirement2": "2025-02-13 23:21:26 +0000"
     },
     "done": true
   },
@@ -11038,9 +11233,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/warped_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 23:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-02-13 23:02:05 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/zephyr": {
+    "criteria": {
+      "requirement": "2025-02-13 23:21:26 +0000"
     },
     "done": true
   },
@@ -11059,6 +11266,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-02-13 22:57:05 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_enderchest": {
+    "criteria": {
+      "has_enderchest": "2025-02-13 23:22:09 +0000"
     },
     "done": true
   },
