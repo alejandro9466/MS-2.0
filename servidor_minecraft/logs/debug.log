@@ -9048,3 +9048,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [13Feb2025 22:50:03.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Feb2025 22:50:40.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dercsas moved wrongly!
 [13Feb2025 22:51:02.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has reached the goal [Strengthened by Fire]
+[13Feb2025 22:52:11.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was killed by Ender Dragon using magic
+[13Feb2025 22:52:13.047] [Server thread/DEBUG] [twilightforest/]: Player alejandro946 (0a60586d-db66-34cc-9265-3e98c95744b8) respawned and received items held in storage
+[13Feb2025 22:52:51.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has completed the challenge [Free the End]
+[13Feb2025 22:52:51.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has completed the challenge [Free the End]
+[13Feb2025 22:52:51.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has completed the challenge [Free the End]
+[13Feb2025 22:52:51.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has completed the challenge [Free the End]
+[13Feb2025 22:53:07.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 moved too quickly! 1078.121670783737,24.392604549951344,1442.3059546535662
+[13Feb2025 22:53:29.953] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[13Feb2025 22:53:50.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas was slain by Enderman
+[13Feb2025 22:53:52.327] [Server thread/DEBUG] [twilightforest/]: Player Dercsas (e7c2df16-791a-3de2-8f19-13bc9f7b33e2) respawned and received items held in storage
+[13Feb2025 22:54:36.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has reached the goal [The Next Generation]
+[13Feb2025 22:54:42.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has reached the goal [The Next Generation]
+[13Feb2025 22:54:45.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has reached the goal [The Next Generation]
+[13Feb2025 22:54:51.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has reached the goal [The Next Generation]
+[13Feb2025 22:55:03.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Feb2025 22:55:03.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Feb2025 22:55:24.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied effect Glowing to 4 targets]
+[13Feb2025 22:56:00.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has reached the goal [Eye of Darkness]
+[13Feb2025 22:56:40.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has reached the goal [Remote Getaway]
+[13Feb2025 22:56:52.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has reached the goal [Remote Getaway]
+[13Feb2025 22:56:55.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has reached the goal [Remote Getaway]
+[13Feb2025 22:56:56.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has reached the goal [Remote Getaway]
+[13Feb2025 22:57:07.219] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[13Feb2025 22:59:01.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has reached the goal [Worsening Nightmares]
+[13Feb2025 22:59:01.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Night Sky Stalkers]
+[13Feb2025 22:59:16.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [The Chorus Infection]
+[13Feb2025 22:59:25.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 moved too quickly! -7.240603625507902,0.0,8.26165078132209
+[13Feb2025 22:59:32.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z moved wrongly!
+[13Feb2025 22:59:38.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Confusing Fruit]
+[13Feb2025 22:59:41.424] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1729, y=25, z=-643} but found not block entity block Block{minecraft:air} at location
+[13Feb2025 22:59:41.424] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1729, y=25, z=-643}
+[13Feb2025 22:59:43.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 moved too quickly! -3.925809126998047,-12.0,-5.027014707637591
+[13Feb2025 22:59:53.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Far Away From Home]
+[13Feb2025 23:00:03.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Feb2025 23:00:03.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Feb2025 23:00:38.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has reached the goal [Worsening Nightmares]
+[13Feb2025 23:00:38.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Night Sky Stalkers]
+[13Feb2025 23:00:40.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was killed by magic whilst trying to escape Endersent
+[13Feb2025 23:00:41.828] [Server thread/DEBUG] [twilightforest/]: Player peter_rola14 (a4143ab4-aa13-3831-9aa5-42746fc858bc) respawned and received items held in storage
+[13Feb2025 23:00:50.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has reached the goal [Worsening Nightmares]
+[13Feb2025 23:00:50.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [Night Sky Stalkers]

@@ -1517,6 +1517,7 @@
       "cooked_mutton": "2025-02-06 20:43:07 +0000",
       "sweet_berries": "2025-02-06 21:27:01 +0000",
       "cooked_beef": "2025-02-07 21:30:29 +0000",
+      "chorus_fruit": "2025-02-13 22:59:38 +0000",
       "beetroot_soup": "2025-02-06 21:29:56 +0000",
       "apple": "2025-02-06 20:35:30 +0000",
       "pumpkin_pie": "2025-02-06 21:34:07 +0000",
@@ -10752,6 +10753,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-02-13 22:54:42 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:recipes/disenchanter": {
     "criteria": {
       "has_item": "2025-02-13 21:37:50 +0000"
@@ -10767,6 +10774,12 @@
   "stellarity:dragons_den/final_showdown": {
     "criteria": {
       "spawn_dragon_first_time": "2025-02-13 22:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-02-13 22:56:55 +0000"
     },
     "done": true
   },
@@ -10806,6 +10819,12 @@
     },
     "done": true
   },
+  "stellarity:recipes/crying_obsidian_with_popped_chorus": {
+    "criteria": {
+      "has_item1": "2025-02-13 22:54:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-02-13 22:47:00 +0000"
@@ -10815,6 +10834,12 @@
   "legendary_monsters:locate_mossy_temple": {
     "criteria": {
       "mossy_temple": "2025-02-13 22:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "kill_dragon": "2025-02-13 22:52:51 +0000"
     },
     "done": true
   },
@@ -10842,11 +10867,24 @@
     },
     "done": true
   },
+  "stellarity:husbandry/eat_chorus_fruit": {
+    "criteria": {
+      "eat_chorus_fruit": "2025-02-13 22:59:38 +0000"
+    },
+    "done": true
+  },
   "stellarity:recipes/chorus_plant_from_fruit": {
     "criteria": {
       "has_item": "2025-02-13 22:49:54 +0000"
     },
     "done": true
+  },
+  "stellarity:exploration/ender_adventurer": {
+    "criteria": {
+      "end_midlands": "2025-02-13 22:57:42 +0000",
+      "small_end_islands": "2025-02-13 22:56:57 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
