@@ -996,6 +996,7 @@
       "minecraft:piglin": "2025-02-07 19:43:20 +0000",
       "minecraft:enderman": "2025-02-07 19:56:18 +0000",
       "minecraft:silverfish": "2025-02-07 22:56:09 +0000",
+      "minecraft:vex": "2025-02-13 22:44:54 +0000",
       "minecraft:zombie": "2025-02-06 20:08:18 +0000",
       "minecraft:drowned": "2025-02-12 05:00:30 +0000",
       "minecraft:zombie_villager": "2025-02-07 00:30:50 +0000"
@@ -10592,9 +10593,57 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-02-13 22:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-13 22:09:31 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2025-02-13 22:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-13 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-13 22:09:31 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_overgrown_colossus": {
+    "criteria": {
+      "colossus": "2025-02-13 22:31:58 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:experienced_engineer": {
     "criteria": {
       "have_experience_nugget": "2025-02-13 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-02-13 22:49:07 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/final_showdown": {
+    "criteria": {
+      "spawn_dragon_first_time": "2025-02-13 22:48:16 +0000"
     },
     "done": true
   },
@@ -10610,15 +10659,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-13 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-02-13 22:41:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-02-13 21:40:02 +0000"
     },
     "done": true
   },
+  "stellarity:dragons_den/sacrificial_ritual": {
+    "criteria": {
+      "requirement": "2025-02-13 22:47:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/experience_block": {
     "criteria": {
       "has_item": "2025-02-13 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2025-02-13 22:46:55 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/clockwork_crossbow": {
+    "criteria": {
+      "requirement2": "2025-02-13 22:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-13 22:46:53 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_mossy_temple": {
+    "criteria": {
+      "mossy_temple": "2025-02-13 22:31:46 +0000"
     },
     "done": true
   },
@@ -10634,9 +10725,57 @@
     },
     "done": true
   },
+  "stellarity:story/journeys_end": {
+    "criteria": {
+      "activate_portal": "2025-02-13 22:46:43 +0000"
+    },
+    "done": true
+  },
   "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
     "criteria": {
       "has_netherite_ingot": "2025-02-13 21:16:14 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/drop_rare_illager_loot": {
+    "criteria": {
+      "drop4": "2025-02-13 22:44:49 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_clockwork_crossbow": {
+    "criteria": {
+      "requirement2": "2025-02-13 22:43:25 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/updraft": {
+    "criteria": {
+      "requirement": "2025-02-13 22:44:49 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
+    "criteria": {
+      "requirement": "2025-02-13 22:44:49 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sharanga": {
+    "criteria": {
+      "requirement2": "2025-02-13 22:42:50 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/slime_ball_from_ender_eye": {
+    "criteria": {
+      "has_item": "2025-02-13 22:09:26 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sharanga": {
+    "criteria": {
+      "requirement2": "2025-02-13 22:42:50 +0000"
     },
     "done": true
   },
@@ -10646,9 +10785,27 @@
     },
     "done": true
   },
+  "stellarity:nether/a_step_to_the_end": {
+    "criteria": {
+      "criteria": "2025-02-13 22:09:31 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:recipes/experience_rotor": {
     "criteria": {
       "has_item": "2025-02-13 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:copiable_mystery": {
+    "criteria": {
+      "builtin": "2025-02-13 22:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-13 22:46:53 +0000"
     },
     "done": true
   },

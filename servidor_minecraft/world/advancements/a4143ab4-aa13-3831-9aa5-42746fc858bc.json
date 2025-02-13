@@ -885,6 +885,7 @@
       "minecraft:spider": "2025-02-06 20:14:25 +0000",
       "minecraft:piglin_brute": "2025-02-06 21:03:05 +0000",
       "minecraft:creeper": "2025-02-07 02:12:06 +0000",
+      "minecraft:evoker": "2025-02-13 22:44:48 +0000",
       "minecraft:phantom": "2025-02-12 02:13:11 +0000",
       "minecraft:witch": "2025-02-07 22:01:26 +0000",
       "minecraft:wither_skeleton": "2025-02-07 03:05:01 +0000",
@@ -7112,9 +7113,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-02-13 22:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-02-13 22:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-13 22:23:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-13 21:39:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-02-13 22:23:48 +0000"
     },
     "done": true
   },
@@ -7136,9 +7161,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_blue_dye": "2025-02-13 22:23:58 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/snow_queen_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-02-13 21:29:44 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+    "criteria": {
+      "requirement": "2025-02-13 22:45:27 +0000"
     },
     "done": true
   },
@@ -7160,15 +7197,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-13 22:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-13 22:24:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-13 21:48:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-02-13 22:24:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-13 21:48:09 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/final_showdown": {
+    "criteria": {
+      "spawn_dragon_first_time": "2025-02-13 22:48:16 +0000"
     },
     "done": true
   },
@@ -7181,6 +7242,18 @@
   "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
     "criteria": {
       "has_item": "2025-02-13 21:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-02-13 22:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-02-13 22:43:21 +0000"
     },
     "done": true
   },
@@ -7202,9 +7275,39 @@
     },
     "done": true
   },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2025-02-13 22:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-02-13 22:24:08 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/sacrificial_ritual": {
+    "criteria": {
+      "requirement": "2025-02-13 22:47:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/experience_block": {
     "criteria": {
       "has_item": "2025-02-13 21:33:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2025-02-13 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/clockwork_crossbow": {
+    "criteria": {
+      "requirement2": "2025-02-13 22:45:24 +0000"
     },
     "done": true
   },
@@ -7220,9 +7323,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2025-02-13 22:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-13 22:47:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-02-13 21:39:52 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_mossy_temple": {
+    "criteria": {
+      "mossy_temple": "2025-02-13 22:31:47 +0000"
     },
     "done": true
   },
@@ -7232,9 +7353,51 @@
     },
     "done": true
   },
+  "stellarity:story/journeys_end": {
+    "criteria": {
+      "activate_portal": "2025-02-13 22:46:43 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/drop_rare_illager_loot": {
+    "criteria": {
+      "drop1": "2025-02-13 22:45:27 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/conveyance": {
+    "criteria": {
+      "requirement2": "2025-02-13 22:44:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-13 21:48:09 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_clockwork_crossbow": {
+    "criteria": {
+      "requirement2": "2025-02-13 22:45:24 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/updraft": {
+    "criteria": {
+      "requirement2": "2025-02-13 22:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-13 22:23:48 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/light": {
+    "criteria": {
+      "requirement2": "2025-02-13 22:44:48 +0000"
     },
     "done": true
   },
@@ -7250,15 +7413,45 @@
     },
     "done": true
   },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
+    "criteria": {
+      "requirement2": "2025-02-13 22:44:48 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sharanga": {
+    "criteria": {
+      "requirement2": "2025-02-13 22:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-13 22:24:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-02-13 21:39:52 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-13 22:23:48 +0000"
+    },
+    "done": true
+  },
   "stellarity:recipes/purple_dye_from_chorus_fruit": {
     "criteria": {
       "has_item": "2025-02-13 21:14:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2025-02-13 22:23:48 +0000"
     },
     "done": true
   },
@@ -7286,9 +7479,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-13 22:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-02-13 22:24:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-13 21:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-13 22:23:58 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sharanga": {
+    "criteria": {
+      "requirement2": "2025-02-13 22:45:27 +0000"
     },
     "done": true
   },
@@ -7304,9 +7521,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-02-13 22:24:08 +0000"
+    },
+    "done": true
+  },
   "stellarity:adventure/anger_enderman": {
     "criteria": {
       "anger_enderman": "2025-02-13 21:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-13 22:23:58 +0000"
     },
     "done": true
   },
@@ -7328,9 +7557,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-02-13 22:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-13 22:47:00 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
+    "criteria": {
+      "requirement2": "2025-02-13 22:44:48 +0000"
+    },
+    "done": true
+  },
   "enchantinginfuser:recipes/decorations/enchanting_infuser": {
     "criteria": {
       "has_amethyst_shard": "2025-02-13 21:13:30 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
+    "criteria": {
+      "requirement2": "2025-02-13 22:44:48 +0000"
     },
     "done": true
   },

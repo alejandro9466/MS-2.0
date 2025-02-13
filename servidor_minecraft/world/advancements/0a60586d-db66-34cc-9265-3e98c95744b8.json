@@ -290,6 +290,7 @@
       "minecraft:snowy_slopes": "2025-02-07 03:11:28 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-07 02:08:06 +0000",
       "minecraft:taiga": "2025-02-07 02:14:58 +0000",
+      "minecraft:deep_ocean": "2025-02-13 22:38:16 +0000",
       "minecraft:cherry_grove": "2025-02-06 19:41:28 +0000",
       "minecraft:sunflower_plains": "2025-02-10 03:49:49 +0000",
       "minecraft:birch_forest": "2025-02-10 19:47:14 +0000",
@@ -314,8 +315,10 @@
       "minecraft:jungle": "2025-02-06 23:24:40 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-07 02:45:21 +0000",
       "minecraft:windswept_savanna": "2025-02-10 02:08:23 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-02-13 22:37:17 +0000",
       "minecraft:flower_forest": "2025-02-07 22:59:32 +0000",
       "minecraft:frozen_peaks": "2025-02-07 02:06:33 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-13 22:30:52 +0000",
       "minecraft:deep_dark": "2025-02-09 22:47:24 +0000",
       "minecraft:meadow": "2025-02-06 19:40:10 +0000",
       "minecraft:savanna": "2025-02-10 04:01:15 +0000",
@@ -1352,6 +1355,7 @@
       "minecraft:piglin": "2025-02-12 22:25:05 +0000",
       "minecraft:enderman": "2025-02-07 22:23:14 +0000",
       "minecraft:silverfish": "2025-02-12 04:35:30 +0000",
+      "minecraft:vex": "2025-02-13 22:44:51 +0000",
       "minecraft:zombie": "2025-02-06 20:09:05 +0000",
       "minecraft:drowned": "2025-02-06 23:28:58 +0000",
       "minecraft:zombie_villager": "2025-02-07 02:08:16 +0000"
@@ -10736,6 +10740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-13 22:44:20 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:recipes/printer": {
     "criteria": {
       "has_item": "2025-02-13 21:37:50 +0000"
@@ -10754,9 +10764,33 @@
     },
     "done": true
   },
+  "stellarity:dragons_den/final_showdown": {
+    "criteria": {
+      "spawn_dragon_first_time": "2025-02-13 22:48:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
     "criteria": {
       "has_item": "2025-02-13 21:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-02-13 22:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-02-13 22:43:08 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/sacrificial_ritual": {
+    "criteria": {
+      "requirement": "2025-02-13 22:47:55 +0000"
     },
     "done": true
   },
@@ -10766,15 +10800,81 @@
     },
     "done": true
   },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2025-02-13 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-13 22:47:00 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_mossy_temple": {
+    "criteria": {
+      "mossy_temple": "2025-02-13 22:31:56 +0000"
+    },
+    "done": true
+  },
   "create:encased_fan": {
     "criteria": {
       "0": "2025-02-13 21:32:26 +0000"
     },
     "done": true
   },
+  "stellarity:story/journeys_end": {
+    "criteria": {
+      "activate_portal": "2025-02-13 22:46:43 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/purple_dye_from_chorus_fruit": {
+    "criteria": {
+      "has_item": "2025-02-13 22:49:54 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2025-02-13 22:49:27 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/chorus_plant_from_fruit": {
+    "criteria": {
+      "has_item": "2025-02-13 22:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-02-13 22:44:20 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/anger_enderman": {
+    "criteria": {
+      "anger_enderman": "2025-02-13 22:49:22 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:recipes/experience_rotor": {
     "criteria": {
       "has_item": "2025-02-13 21:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-13 22:47:00 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-02-13 22:04:29 +0000"
     },
     "done": true
   },
