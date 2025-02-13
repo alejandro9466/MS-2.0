@@ -10724,5 +10724,11 @@
     },
     "done": true
   },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "lamp": "2025-02-13 21:17:44 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

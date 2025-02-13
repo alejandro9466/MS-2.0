@@ -3008,12 +3008,6 @@
     },
     "done": true
   },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-02-07 19:04:57 +0000"
-    },
-    "done": true
-  },
   "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2025-02-07 19:04:57 +0000"
@@ -4340,6 +4334,30 @@
       "phantom": "2025-02-10 22:08:41 +0000"
     },
     "done": false
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2025-02-13 21:29:36 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+    "criteria": {
+      "requirement": "2025-02-13 21:29:36 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2025-02-13 21:29:36 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2025-02-13 21:29:36 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

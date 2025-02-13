@@ -7050,6 +7050,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-13 21:29:44 +0000"
+    },
+    "done": true
+  },
   "stellarity:recipes/crying_obsidian_with_popped_chorus": {
     "criteria": {
       "has_item1": "2025-02-13 21:13:02 +0000"

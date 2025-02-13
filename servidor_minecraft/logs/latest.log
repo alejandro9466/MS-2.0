@@ -741,3 +741,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [13Feb2025 21:14:25.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Blindfolded]
 [13Feb2025 21:18:26.977] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60e65d8e[id=<null>,name=Dercsas,properties={},legacy=false] (/127.172.56.231:46223) lost connection: Disconnected
 [13Feb2025 21:18:33.470] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2dd4d2d9[id=<null>,name=Dercsas,properties={},legacy=false] (/127.172.56.231:46355) lost connection: Disconnected
+[13Feb2025 21:22:20.971] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@33a51477[id=<null>,name=Dercsas,properties={},legacy=false] (/127.172.56.231:50049) lost connection: Disconnected
+[13Feb2025 21:22:58.272] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47299c88[id=<null>,name=Dercsas,properties={},legacy=false] (/127.172.56.231:51385) lost connection: Disconnected
+[13Feb2025 21:25:02.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[13Feb2025 21:25:27.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[13Feb2025 21:25:29.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[13Feb2025 21:25:40.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[13Feb2025 21:25:44.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[13Feb2025 21:27:31.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Disconnected
+[13Feb2025 21:27:31.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
+[13Feb2025 21:27:31.632] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Feb2025 21:27:54.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z moved too quickly! 2458.5118807406984,116.07840000152588,8584.481473505213
+[13Feb2025 21:29:35.970] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e7c2df16-791a-3de2-8f19-13bc9f7b33e2.json: Don't know what dynamictrees:cherry_seed is
+[13Feb2025 21:29:35.971] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e7c2df16-791a-3de2-8f19-13bc9f7b33e2.json: Don't know what dynamictrees:oak_seed is
+[13Feb2025 21:29:35.971] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e7c2df16-791a-3de2-8f19-13bc9f7b33e2.json: Don't know what dynamictrees:jungle_seed is
+[13Feb2025 21:29:35.971] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e7c2df16-791a-3de2-8f19-13bc9f7b33e2.json: Don't know what dynamictrees:birch_seed is
+[13Feb2025 21:29:35.971] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e7c2df16-791a-3de2-8f19-13bc9f7b33e2.json: Don't know what dynamictrees:cherry_seed is
+[13Feb2025 21:29:35.972] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e7c2df16-791a-3de2-8f19-13bc9f7b33e2.json: Don't know what dynamictrees:dark_oak_seed is
+[13Feb2025 21:29:35.972] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e7c2df16-791a-3de2-8f19-13bc9f7b33e2.json: Don't know what dynamictrees:spruce_seed is
+[13Feb2025 21:29:35.972] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e7c2df16-791a-3de2-8f19-13bc9f7b33e2.json: Don't know what dynamictrees:cocoa_seed is
+[13Feb2025 21:29:35.972] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e7c2df16-791a-3de2-8f19-13bc9f7b33e2.json: Don't know what dynamictrees:oak_leaves is
+[13Feb2025 21:29:35.973] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e7c2df16-791a-3de2-8f19-13bc9f7b33e2.json: Don't know what dynamictrees:spruce_leaves is
+[13Feb2025 21:29:35.973] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e7c2df16-791a-3de2-8f19-13bc9f7b33e2.json: Don't know what dynamictrees:cocoa is
+[13Feb2025 21:29:35.973] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e7c2df16-791a-3de2-8f19-13bc9f7b33e2.json: Don't know what dynamictrees:oak_seed is
+[13Feb2025 21:29:35.973] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e7c2df16-791a-3de2-8f19-13bc9f7b33e2.json: Don't know what dynamictrees:spruce_seed is
+[13Feb2025 21:29:35.973] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e7c2df16-791a-3de2-8f19-13bc9f7b33e2.json: Don't know what dynamictrees:cherry_seed is
+[13Feb2025 21:29:35.978] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cataclysm:root' in progress file ./world/advancements/e7c2df16-791a-3de2-8f19-13bc9f7b33e2.json - it doesn't exist anymore?
+[13Feb2025 21:29:35.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dercsas[/127.172.56.231:39875] logged in with entity id 20167 at (-209.5, 84.0, -1332.5)
+[13Feb2025 21:29:35.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas joined the game
+[13Feb2025 21:29:36.178] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Dercsas.
