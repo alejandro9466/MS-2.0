@@ -996,6 +996,7 @@
       "minecraft:piglin": "2025-02-07 19:43:20 +0000",
       "minecraft:enderman": "2025-02-07 19:56:18 +0000",
       "minecraft:silverfish": "2025-02-07 22:56:09 +0000",
+      "minecraft:endermite": "2025-02-13 23:02:12 +0000",
       "minecraft:vex": "2025-02-13 22:44:54 +0000",
       "minecraft:zombie": "2025-02-06 20:08:18 +0000",
       "minecraft:drowned": "2025-02-12 05:00:30 +0000",
@@ -10587,6 +10588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-02-13 23:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
     "criteria": {
       "has_lapis_ore": "2025-02-13 21:40:00 +0000"
@@ -10614,6 +10621,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-02-13 22:57:05 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sariel": {
+    "criteria": {
+      "requirement2": "2025-02-13 23:10:23 +0000"
     },
     "done": true
   },
@@ -10653,9 +10666,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 23:02:05 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:experienced_engineer": {
     "criteria": {
       "have_experience_nugget": "2025-02-13 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-02-13 23:06:21 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_shulker_tower": {
+    "criteria": {
+      "tower": "2025-02-13 23:14:25 +0000"
     },
     "done": true
   },
@@ -10701,9 +10732,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 23:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 23:02:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-02-13 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-02-13 23:02:06 +0000"
     },
     "done": true
   },
@@ -10743,9 +10792,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-02-13 23:14:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-02-13 22:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 23:02:05 +0000"
     },
     "done": true
   },
@@ -10761,6 +10822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-02-13 23:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/kill_dragon": {
     "criteria": {
       "kill_dragon": "2025-02-13 22:52:51 +0000"
@@ -10770,6 +10837,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-02-13 21:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 23:02:05 +0000"
     },
     "done": true
   },
@@ -10791,9 +10864,21 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_shulker_mimic": {
+    "criteria": {
+      "shulker_mimic": "2025-02-13 23:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2025-02-13 22:57:05 +0000"
+    },
+    "done": true
+  },
+  "stellarity:exploration/enter_hallow": {
+    "criteria": {
+      "requirement": "2025-02-13 23:10:14 +0000"
     },
     "done": true
   },
@@ -10809,6 +10894,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-02-13 23:02:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/warped_banister": {
+    "criteria": {
+      "has_item": "2025-02-13 23:03:41 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/shulker_things": {
+    "criteria": {
+      "requirement": "2025-02-13 23:14:54 +0000"
+    },
+    "done": true
+  },
   "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
     "criteria": {
       "requirement": "2025-02-13 22:44:49 +0000"
@@ -10821,15 +10924,57 @@
     },
     "done": true
   },
+  "stellarity:recipes/purple_dye_from_chorus_fruit": {
+    "criteria": {
+      "has_item": "2025-02-13 23:06:21 +0000"
+    },
+    "done": true
+  },
   "stellarity:recipes/slime_ball_from_ender_eye": {
     "criteria": {
       "has_item": "2025-02-13 22:09:26 +0000"
     },
     "done": true
   },
+  "stellarity:recipes/bone_meal_from_chorus_flower": {
+    "criteria": {
+      "has_item": "2025-02-13 23:16:22 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_endersent": {
+    "criteria": {
+      "endersent": "2025-02-13 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_tower_remains": {
+    "criteria": {
+      "ancient_tower_remains": "2025-02-13 23:15:54 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/chorus_plant_from_fruit": {
+    "criteria": {
+      "has_item": "2025-02-13 23:06:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-02-13 23:02:06 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/sharanga": {
     "criteria": {
       "requirement2": "2025-02-13 22:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-02-13 23:02:06 +0000"
     },
     "done": true
   },
@@ -10847,9 +10992,13 @@
   },
   "stellarity:exploration/ender_adventurer": {
     "criteria": {
+      "end_midlands": "2025-02-13 23:10:47 +0000",
       "flesh_tundra": "2025-02-13 22:58:34 +0000",
       "frosted_hills": "2025-02-13 22:58:01 +0000",
-      "small_end_islands": "2025-02-13 22:56:55 +0000"
+      "small_end_islands": "2025-02-13 22:56:55 +0000",
+      "the_hallow": "2025-02-13 23:10:14 +0000",
+      "the_nest": "2025-02-13 23:09:10 +0000",
+      "end_barrens": "2025-02-13 23:15:18 +0000"
     },
     "done": false
   },
@@ -10862,6 +11011,12 @@
   "create_enchantment_industry:copiable_mystery": {
     "criteria": {
       "builtin": "2025-02-13 22:17:01 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_shulker_things": {
+    "criteria": {
+      "requirement": "2025-02-13 23:14:54 +0000"
     },
     "done": true
   },
@@ -10880,6 +11035,12 @@
   "enchantinginfuser:recipes/decorations/enchanting_infuser": {
     "criteria": {
       "has_amethyst_shard": "2025-02-13 21:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 23:02:05 +0000"
     },
     "done": true
   },

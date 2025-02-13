@@ -429,6 +429,7 @@
       "minecraft:witch": "2025-02-10 21:22:16 +0000",
       "minecraft:wither_skeleton": "2025-02-07 03:12:20 +0000",
       "minecraft:husk": "2025-02-06 21:33:24 +0000",
+      "minecraft:shulker": "2025-02-13 23:14:57 +0000",
       "minecraft:cave_spider": "2025-02-07 03:04:57 +0000",
       "minecraft:enderman": "2025-02-13 22:11:02 +0000",
       "minecraft:zombie": "2025-02-06 21:44:43 +0000"
@@ -4353,6 +4354,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-13 23:02:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-13 23:03:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2025-02-13 22:54:51 +0000"
@@ -4377,6 +4390,12 @@
     },
     "done": true
   },
+  "stellarity:dragons_den/cursed_tome/items/unlock_zephyr": {
+    "criteria": {
+      "requirement": "2025-02-13 23:14:33 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/root": {
     "criteria": {
       "requirement": "2025-02-13 21:29:36 +0000"
@@ -4389,6 +4408,30 @@
     },
     "done": true
   },
+  "stellarity:end_city/whos_the_thief_now": {
+    "criteria": {
+      "open_chest_1": "2025-02-13 23:14:44 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/defeat_shulker": {
+    "criteria": {
+      "defeat_shulkers": "2025-02-13 23:14:57 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_ancient_armor": {
+    "criteria": {
+      "requirement3": "2025-02-13 23:14:33 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/kill_large_phantom": {
+    "criteria": {
+      "size_doesnt_matter": "2025-02-13 23:00:50 +0000"
+    },
+    "done": true
+  },
   "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
     "criteria": {
       "requirement": "2025-02-13 21:29:36 +0000"
@@ -4398,6 +4441,12 @@
   "create_enchantment_industry:experienced_engineer": {
     "criteria": {
       "have_experience_nugget": "2025-02-13 21:36:36 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_shulker_tower": {
+    "criteria": {
+      "tower": "2025-02-13 23:05:40 +0000"
     },
     "done": true
   },
@@ -4443,6 +4492,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-13 23:12:33 +0000"
+    },
+    "done": true
+  },
+  "stellarity:exploration/enter_end_village": {
+    "criteria": {
+      "find_a_town_in_a_complete_shithole": "2025-02-13 23:08:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-02-13 22:43:17 +0000"
@@ -4452,6 +4513,12 @@
   "stellarity:cursed_tome/sabrewing": {
     "criteria": {
       "requirement": "2025-02-13 21:29:36 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_hallowed_armor": {
+    "criteria": {
+      "requirement3": "2025-02-13 23:14:33 +0000"
     },
     "done": true
   },
@@ -4485,6 +4552,12 @@
     },
     "done": true
   },
+  "stellarity:dragons_den/cursed_tome/items/unlock_spirit_dagger": {
+    "criteria": {
+      "requirement2": "2025-02-13 23:00:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-02-13 22:47:00 +0000"
@@ -4497,9 +4570,21 @@
     },
     "done": true
   },
+  "stellarity:cursed_tome/ancient_armor": {
+    "criteria": {
+      "requirement3": "2025-02-13 23:14:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/kill_dragon": {
     "criteria": {
       "kill_dragon": "2025-02-13 22:52:51 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spirit_dagger": {
+    "criteria": {
+      "requirement2": "2025-02-13 23:00:50 +0000"
     },
     "done": true
   },
@@ -4515,9 +4600,21 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_shulker_mimic": {
+    "criteria": {
+      "shulker_mimic": "2025-02-13 23:06:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2025-02-13 22:59:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-13 23:03:12 +0000"
     },
     "done": true
   },
@@ -4527,9 +4624,21 @@
     },
     "done": true
   },
+  "stellarity:cursed_tome/hallowed_armor": {
+    "criteria": {
+      "requirement3": "2025-02-13 23:14:33 +0000"
+    },
+    "done": true
+  },
   "stellarity:recipes/slime_ball_from_ender_eye": {
     "criteria": {
       "has_item": "2025-02-13 22:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-02-13 23:14:52 +0000"
     },
     "done": true
   },
@@ -4547,9 +4656,33 @@
     },
     "done": true
   },
+  "stellarity:adventure/night_sky_stalkers": {
+    "criteria": {
+      "sleep_deprivation": "2025-02-13 23:00:50 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/pandoras_barrel": {
+    "criteria": {
+      "requirement2": "2025-02-13 23:14:33 +0000"
+    },
+    "done": true
+  },
   "stellarity:adventure/anger_enderman": {
     "criteria": {
       "anger_enderman": "2025-02-13 22:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-02-13 23:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-13 23:03:12 +0000"
     },
     "done": true
   },
@@ -4559,15 +4692,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-13 23:14:52 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_pandoras_barrel": {
+    "criteria": {
+      "requirement2": "2025-02-13 23:14:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-02-13 22:47:00 +0000"
     },
     "done": true
   },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-13 23:14:46 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_umvuthi": {
     "criteria": {
       "barako": "2025-02-13 22:40:14 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/zephyr": {
+    "criteria": {
+      "requirement": "2025-02-13 23:14:33 +0000"
     },
     "done": true
   },
@@ -4586,6 +4743,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-02-13 22:59:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-13 23:03:12 +0000"
     },
     "done": true
   },
