@@ -10580,6 +10580,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2025-02-13 21:50:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
     "criteria": {
       "has_lapis_ore": "2025-02-13 21:40:00 +0000"
@@ -10604,6 +10610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-02-13 21:40:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/experience_block": {
     "criteria": {
       "has_item": "2025-02-13 21:33:29 +0000"
@@ -10613,6 +10625,12 @@
   "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
     "criteria": {
       "has_item": "2025-02-13 21:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-02-13 21:40:02 +0000"
     },
     "done": true
   },
