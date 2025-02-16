@@ -1,0 +1,1520 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "alexsmobs:skelewag_sword": [
+      6036,
+      0.7804518
+    ],
+    "alexsmobs:tendon_whip": [
+      6333,
+      0.0469
+    ],
+    "aquaculture:diamond_fillet_knife": [
+      4804,
+      2.3810277
+    ],
+    "aquaculture:gold_fillet_knife": [
+      6762,
+      0.0039999997
+    ],
+    "aquaculture:iron_fillet_knife": [
+      6480,
+      0.0322
+    ],
+    "aquaculture:neptunium_axe": [
+      3579,
+      5.9057183
+    ],
+    "aquaculture:neptunium_bow": [
+      2,
+      13.389866
+    ],
+    "aquaculture:neptunium_fillet_knife": [
+      6793,
+      8.999999E-4
+    ],
+    "aquaculture:neptunium_sword": [
+      3645,
+      5.767269
+    ],
+    "aquaculture:stone_fillet_knife": [
+      6634,
+      0.0168
+    ],
+    "aquaculture:wooden_fillet_knife": [
+      6728,
+      0.0074
+    ],
+    "deeperdarker:resonarium_axe": [
+      4622,
+      3.5768492
+    ],
+    "deeperdarker:resonarium_sword": [
+      4684,
+      3.385685
+    ],
+    "deeperdarker:warden_axe": [
+      2290,
+      8.592401
+    ],
+    "deeperdarker:warden_sword": [
+      2368,
+      8.429875
+    ],
+    "legendary_monsters:anchor_handle": [
+      6312,
+      0.049
+    ],
+    "legendary_monsters:axe_of_lightning": [
+      6258,
+      0.45638117
+    ],
+    "legendary_monsters:chorus_blade": [
+      5437,
+      1.5517184
+    ],
+    "legendary_monsters:chorus_cannon": [
+      4402,
+      4.129458
+    ],
+    "legendary_monsters:dinosaur_bone_club": [
+      3845,
+      5.345786
+    ],
+    "legendary_monsters:fiery_jaw": [
+      5462,
+      1.5193686
+    ],
+    "legendary_monsters:golden_halbert": [
+      6300,
+      0.26597553
+    ],
+    "legendary_monsters:knights_sword": [
+      6312,
+      0.049
+    ],
+    "legendary_monsters:monstrous_anchor": [
+      4696,
+      3.3439167
+    ],
+    "legendary_monsters:sand_cannon": [
+      4402,
+      4.129458
+    ],
+    "legendary_monsters:sharp_battle_axe": [
+      5437,
+      1.5517184
+    ],
+    "legendary_monsters:sharp_sai": [
+      6312,
+      0.049
+    ],
+    "legendary_monsters:soul_great_sword": [
+      2688,
+      7.763507
+    ],
+    "legendary_monsters:the_great_frost": [
+      5437,
+      1.5517184
+    ],
+    "legendary_monsters:void_sword": [
+      6312,
+      0.049
+    ],
+    "minecraft:bow": [
+      4234,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      4528,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      3997,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      4059,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      5202,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      6658,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      6721,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      6225,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      6312,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      5302,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      3161,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      3231,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      6252,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      5302,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      6428,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      6536,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      5102,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      4302,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      6612,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      6675,
+      0.0127
+    ],
+    "mowziesmobs:blowgun": [
+      4402,
+      4.129458
+    ],
+    "mowziesmobs:wrought_axe": [
+      6225,
+      0.51635593
+    ],
+    "pizzacraft:diamond_knife": [
+      4105,
+      4.790248
+    ],
+    "pizzacraft:golden_knife": [
+      6743,
+      0.0058999998
+    ],
+    "pizzacraft:iron_knife": [
+      6350,
+      0.045199998
+    ],
+    "pizzacraft:netherite_knife": [
+      3285,
+      6.5202
+    ],
+    "pizzacraft:stone_knife": [
+      6566,
+      0.023599999
+    ],
+    "samurai_dynasty:kama": [
+      4122,
+      4.753436
+    ],
+    "samurai_dynasty:kama_netherite": [
+      2405,
+      8.352797
+    ],
+    "samurai_dynasty:kamayari": [
+      4059,
+      4.889481
+    ],
+    "samurai_dynasty:kamayari_netherite": [
+      2330,
+      8.509048
+    ],
+    "samurai_dynasty:katana": [
+      4059,
+      4.889481
+    ],
+    "samurai_dynasty:katana_akaname": [
+      2330,
+      8.509048
+    ],
+    "samurai_dynasty:katana_jorogumo": [
+      2330,
+      8.509048
+    ],
+    "samurai_dynasty:katana_kitsune": [
+      2330,
+      8.509048
+    ],
+    "samurai_dynasty:katana_kitsune_blue": [
+      2330,
+      8.509048
+    ],
+    "samurai_dynasty:katana_netherite": [
+      2330,
+      8.509048
+    ],
+    "samurai_dynasty:katana_oni": [
+      2330,
+      8.509048
+    ],
+    "samurai_dynasty:kunai": [
+      4122,
+      4.753436
+    ],
+    "samurai_dynasty:kunai_netherite": [
+      2405,
+      8.352797
+    ],
+    "samurai_dynasty:nagamaki": [
+      4059,
+      4.889481
+    ],
+    "samurai_dynasty:nagamaki_netherite": [
+      2330,
+      8.509048
+    ],
+    "samurai_dynasty:naginata": [
+      4059,
+      4.889481
+    ],
+    "samurai_dynasty:naginata_netherite": [
+      2330,
+      8.509048
+    ],
+    "samurai_dynasty:odachi": [
+      4030,
+      4.951788
+    ],
+    "samurai_dynasty:odachi_netherite": [
+      2297,
+      8.577814
+    ],
+    "samurai_dynasty:sai": [
+      4122,
+      4.753436
+    ],
+    "samurai_dynasty:sai_netherite": [
+      2405,
+      8.352797
+    ],
+    "samurai_dynasty:shuko": [
+      4122,
+      4.753436
+    ],
+    "samurai_dynasty:shuko_netherite": [
+      2405,
+      8.352797
+    ],
+    "samurai_dynasty:tetsubo": [
+      3913,
+      5.201559
+    ],
+    "samurai_dynasty:tetsubo_netherite": [
+      2191,
+      8.798755
+    ],
+    "samurai_dynasty:tonbukiri": [
+      4059,
+      4.889481
+    ],
+    "samurai_dynasty:tonbukiri_netherite": [
+      2330,
+      8.509048
+    ],
+    "samurai_dynasty:wakizashi": [
+      4084,
+      4.8356147
+    ],
+    "samurai_dynasty:wakizashi_netherite": [
+      2359,
+      8.448627
+    ],
+    "twilightforest:diamond_minotaur_axe": [
+      3960,
+      5.1015
+    ],
+    "twilightforest:ender_bow": [
+      4234,
+      4.508568
+    ],
+    "twilightforest:fiery_sword": [
+      4943,
+      2.1972775
+    ],
+    "twilightforest:giant_sword": [
+      4826,
+      2.3518867
+    ],
+    "twilightforest:glass_sword": [
+      5763,
+      1.1319785
+    ],
+    "twilightforest:gold_minotaur_axe": [
+      6658,
+      0.014399999
+    ],
+    "twilightforest:ice_bow": [
+      4234,
+      4.508568
+    ],
+    "twilightforest:ice_sword": [
+      6644,
+      0.0158
+    ],
+    "twilightforest:ironwood_axe": [
+      5780,
+      1.1101819
+    ],
+    "twilightforest:ironwood_sword": [
+      5867,
+      0.9986282
+    ],
+    "twilightforest:knightmetal_axe": [
+      5743,
+      1.1576267
+    ],
+    "twilightforest:knightmetal_sword": [
+      5842,
+      1.030694
+    ],
+    "twilightforest:seeker_bow": [
+      4234,
+      4.508568
+    ],
+    "twilightforest:steeleaf_axe": [
+      6391,
+      0.0411
+    ],
+    "twilightforest:steeleaf_sword": [
+      6490,
+      0.031199997
+    ],
+    "twilightforest:triple_bow": [
+      4234,
+      4.508568
+    ]
+  },
+  "OFFHAND": {
+    "legendary_monsters:dinosaur_bone_shield": [
+      275,
+      12.230802
+    ],
+    "legendary_monsters:frostbitten_shield": [
+      5075,
+      1.6619366
+    ],
+    "legendary_monsters:shulker_shield": [
+      4875,
+      1.9226934
+    ],
+    "legendary_monsters:spiky_shield": [
+      5075,
+      1.6619366
+    ],
+    "minecraft:ender_pearl": [
+      5425,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      5397,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      5025,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      5103,
+      1.6255897
+    ],
+    "twilightforest:knightmetal_shield": [
+      3727,
+      5.0075016
+    ]
+  },
+  "FEET": {
+    "alexsmobs:flying_fish_boots": [
+      2808,
+      0.014099999
+    ],
+    "alexsmobs:roadrunner_boots": [
+      2246,
+      0.6972618
+    ],
+    "aquaculture:neptunium_boots": [
+      1030,
+      2.2764862
+    ],
+    "create:copper_diving_boots": [
+      2375,
+      0.5113901
+    ],
+    "create:netherite_diving_boots": [
+      1314,
+      1.9030677
+    ],
+    "deeperdarker:resonarium_boots": [
+      1393,
+      1.7998894
+    ],
+    "deeperdarker:warden_boots": [
+      108,
+      5.0993676
+    ],
+    "legendary_monsters:atmospheric_boots": [
+      888,
+      3.1585817
+    ],
+    "legendary_monsters:fiery_boots": [
+      874,
+      3.22291
+    ],
+    "minecraft:chainmail_boots": [
+      2357,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      1441,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      2423,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      2109,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      2705,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      1314,
+      1.9030677
+    ],
+    "mowziesmobs:geomancer_sandals": [
+      1064,
+      2.231581
+    ],
+    "pizzacraft:chef_boots": [
+      2697,
+      0.0252
+    ],
+    "pizzacraft:pizza_delivery_boots": [
+      2697,
+      0.0252
+    ],
+    "samurai_dynasty:amethyst_samurai_boots": [
+      972,
+      2.3532112
+    ],
+    "samurai_dynasty:blue_samurai_boots": [
+      1174,
+      2.0866673
+    ],
+    "samurai_dynasty:blue_samurai_boots_light": [
+      1174,
+      2.0866673
+    ],
+    "samurai_dynasty:blue_samurai_boots_master": [
+      1322,
+      1.8926052
+    ],
+    "samurai_dynasty:brass_samurai_boots": [
+      1214,
+      2.0341134
+    ],
+    "samurai_dynasty:diamond_ninja_boots": [
+      1634,
+      1.487049
+    ],
+    "samurai_dynasty:diamond_samurai_boots": [
+      1214,
+      2.0341134
+    ],
+    "samurai_dynasty:diamond_samurai_boots_light": [
+      1214,
+      2.0341134
+    ],
+    "samurai_dynasty:diamond_samurai_boots_master": [
+      1362,
+      1.8403403
+    ],
+    "samurai_dynasty:gold_ninja_boots": [
+      2463,
+      0.048599996
+    ],
+    "samurai_dynasty:gold_samurai_boots": [
+      2043,
+      0.96140397
+    ],
+    "samurai_dynasty:gold_samurai_boots_light": [
+      2043,
+      0.96140397
+    ],
+    "samurai_dynasty:gold_samurai_boots_master": [
+      2043,
+      0.96140397
+    ],
+    "samurai_dynasty:gray_samurai_boots": [
+      1174,
+      2.0866673
+    ],
+    "samurai_dynasty:gray_samurai_boots_light": [
+      1174,
+      2.0866673
+    ],
+    "samurai_dynasty:gray_samurai_boots_master": [
+      1322,
+      1.8926052
+    ],
+    "samurai_dynasty:green_samurai_boots": [
+      1174,
+      2.0866673
+    ],
+    "samurai_dynasty:green_samurai_boots_light": [
+      1174,
+      2.0866673
+    ],
+    "samurai_dynasty:green_samurai_boots_master": [
+      1322,
+      1.8926052
+    ],
+    "samurai_dynasty:iron_ninja_boots": [
+      2173,
+      0.7935043
+    ],
+    "samurai_dynasty:iron_samurai_boots": [
+      1849,
+      1.2102311
+    ],
+    "samurai_dynasty:iron_samurai_boots_light": [
+      1849,
+      1.2102311
+    ],
+    "samurai_dynasty:iron_samurai_boots_master": [
+      1849,
+      1.2102311
+    ],
+    "samurai_dynasty:neptunium_samurai_boots": [
+      972,
+      2.3532112
+    ],
+    "samurai_dynasty:netherite_ninja_boots": [
+      794,
+      3.5036063
+    ],
+    "samurai_dynasty:netherite_samurai_boots": [
+      794,
+      3.5036063
+    ],
+    "samurai_dynasty:netherite_samurai_boots_light": [
+      794,
+      3.5036063
+    ],
+    "samurai_dynasty:netherite_samurai_boots_master": [
+      803,
+      3.4761367
+    ],
+    "samurai_dynasty:quartz_samurai_boots": [
+      972,
+      2.3532112
+    ],
+    "samurai_dynasty:red_samurai_boots": [
+      1174,
+      2.0866673
+    ],
+    "samurai_dynasty:red_samurai_boots_light": [
+      1174,
+      2.0866673
+    ],
+    "samurai_dynasty:red_samurai_boots_master": [
+      1322,
+      1.8926052
+    ],
+    "samurai_dynasty:sculk_samurai_boots": [
+      35,
+      5.254652
+    ],
+    "samurai_dynasty:steel_boots": [
+      1593,
+      1.5400689
+    ],
+    "samurai_dynasty:steel_ninja_boots": [
+      2073,
+      0.92284495
+    ],
+    "samurai_dynasty:white_samurai_boots": [
+      1849,
+      1.2102311
+    ],
+    "samurai_dynasty:white_samurai_boots_light": [
+      1849,
+      1.2102311
+    ],
+    "samurai_dynasty:white_samurai_boots_master": [
+      1849,
+      1.2102311
+    ],
+    "twilightforest:arctic_boots": [
+      1811,
+      1.2590272
+    ],
+    "twilightforest:fiery_boots": [
+      419,
+      4.4243336
+    ],
+    "twilightforest:ironwood_boots": [
+      1710,
+      1.3889769
+    ],
+    "twilightforest:knightmetal_boots": [
+      1169,
+      2.0932417
+    ],
+    "twilightforest:steeleaf_boots": [
+      1234,
+      2.0078652
+    ],
+    "twilightforest:yeti_boots": [
+      1121,
+      2.1564183
+    ]
+  },
+  "LEGS": {
+    "alexsmobs:centipede_leggings": [
+      669,
+      3.9059477
+    ],
+    "alexsmobs:emu_leggings": [
+      1904,
+      1.173019
+    ],
+    "aquaculture:neptunium_leggings": [
+      1056,
+      2.2764862
+    ],
+    "deeperdarker:resonarium_leggings": [
+      1419,
+      1.7998894
+    ],
+    "deeperdarker:warden_leggings": [
+      134,
+      5.0993676
+    ],
+    "minecraft:chainmail_leggings": [
+      2383,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      1467,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      2449,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      2135,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      2731,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      1340,
+      1.9030677
+    ],
+    "mowziesmobs:geomancer_belt": [
+      1090,
+      2.231581
+    ],
+    "pizzacraft:chef_leggings": [
+      2723,
+      0.0252
+    ],
+    "pizzacraft:pizza_delivery_leggings": [
+      2723,
+      0.0252
+    ],
+    "samurai_dynasty:amethyst_samurai_leggings": [
+      998,
+      2.3532112
+    ],
+    "samurai_dynasty:blue_samurai_leggings": [
+      1200,
+      2.0866673
+    ],
+    "samurai_dynasty:blue_samurai_leggings_light": [
+      1200,
+      2.0866673
+    ],
+    "samurai_dynasty:blue_samurai_leggings_master": [
+      1348,
+      1.8926052
+    ],
+    "samurai_dynasty:brass_samurai_leggings": [
+      1240,
+      2.0341134
+    ],
+    "samurai_dynasty:diamond_samurai_leggings": [
+      1240,
+      2.0341134
+    ],
+    "samurai_dynasty:diamond_samurai_leggings_light": [
+      1240,
+      2.0341134
+    ],
+    "samurai_dynasty:diamond_samurai_leggings_master": [
+      1388,
+      1.8403403
+    ],
+    "samurai_dynasty:gold_samurai_leggings": [
+      2069,
+      0.96140397
+    ],
+    "samurai_dynasty:gold_samurai_leggings_light": [
+      2069,
+      0.96140397
+    ],
+    "samurai_dynasty:gold_samurai_leggings_master": [
+      2069,
+      0.96140397
+    ],
+    "samurai_dynasty:gray_samurai_leggings": [
+      1200,
+      2.0866673
+    ],
+    "samurai_dynasty:gray_samurai_leggings_light": [
+      1200,
+      2.0866673
+    ],
+    "samurai_dynasty:gray_samurai_leggings_master": [
+      1348,
+      1.8926052
+    ],
+    "samurai_dynasty:green_samurai_leggings": [
+      1200,
+      2.0866673
+    ],
+    "samurai_dynasty:green_samurai_leggings_light": [
+      1200,
+      2.0866673
+    ],
+    "samurai_dynasty:green_samurai_leggings_master": [
+      1348,
+      1.8926052
+    ],
+    "samurai_dynasty:iron_samurai_leggings": [
+      1875,
+      1.2102311
+    ],
+    "samurai_dynasty:iron_samurai_leggings_light": [
+      1875,
+      1.2102311
+    ],
+    "samurai_dynasty:iron_samurai_leggings_master": [
+      1875,
+      1.2102311
+    ],
+    "samurai_dynasty:neptunium_samurai_leggings": [
+      998,
+      2.3532112
+    ],
+    "samurai_dynasty:netherite_samurai_leggings": [
+      820,
+      3.5036063
+    ],
+    "samurai_dynasty:netherite_samurai_leggings_light": [
+      820,
+      3.5036063
+    ],
+    "samurai_dynasty:netherite_samurai_leggings_master": [
+      829,
+      3.4761367
+    ],
+    "samurai_dynasty:ninja_leggings": [
+      2614,
+      0.036099996
+    ],
+    "samurai_dynasty:quartz_samurai_leggings": [
+      998,
+      2.3532112
+    ],
+    "samurai_dynasty:red_samurai_leggings": [
+      1200,
+      2.0866673
+    ],
+    "samurai_dynasty:red_samurai_leggings_light": [
+      1200,
+      2.0866673
+    ],
+    "samurai_dynasty:red_samurai_leggings_master": [
+      1348,
+      1.8926052
+    ],
+    "samurai_dynasty:sculk_samurai_leggings": [
+      61,
+      5.254652
+    ],
+    "samurai_dynasty:steel_leggings": [
+      1619,
+      1.5400689
+    ],
+    "samurai_dynasty:white_samurai_leggings": [
+      1875,
+      1.2102311
+    ],
+    "samurai_dynasty:white_samurai_leggings_light": [
+      1875,
+      1.2102311
+    ],
+    "samurai_dynasty:white_samurai_leggings_master": [
+      1875,
+      1.2102311
+    ],
+    "twilightforest:arctic_leggings": [
+      1837,
+      1.2590272
+    ],
+    "twilightforest:fiery_leggings": [
+      445,
+      4.4243336
+    ],
+    "twilightforest:ironwood_leggings": [
+      1736,
+      1.3889769
+    ],
+    "twilightforest:knightmetal_leggings": [
+      1195,
+      2.0932417
+    ],
+    "twilightforest:naga_leggings": [
+      1457,
+      1.7503701
+    ],
+    "twilightforest:steeleaf_leggings": [
+      1260,
+      2.0078652
+    ],
+    "twilightforest:yeti_leggings": [
+      1147,
+      2.1564183
+    ]
+  },
+  "CHEST": {
+    "alexsmobs:crocodile_chestplate": [
+      1693,
+      1.4444326
+    ],
+    "alexsmobs:rocky_chestplate": [
+      1772,
+      1.3426114
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      2120,
+      0.89580816
+    ],
+    "alexsmobs:unsettling_kimono": [
+      2343,
+      0.59963983
+    ],
+    "aquaculture:neptunium_chestplate": [
+      1056,
+      2.2764862
+    ],
+    "create:copper_backtank": [
+      2401,
+      0.5113901
+    ],
+    "create:netherite_backtank": [
+      1340,
+      1.9030677
+    ],
+    "deeperdarker:resonarium_chestplate": [
+      1419,
+      1.7998894
+    ],
+    "deeperdarker:warden_chestplate": [
+      134,
+      5.0993676
+    ],
+    "legendary_monsters:mossy_chestplate": [
+      167,
+      5.028895
+    ],
+    "legendary_monsters:withered_ribcage": [
+      797,
+      3.571134
+    ],
+    "minecraft:chainmail_chestplate": [
+      2383,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      1467,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      2449,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      2135,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      2731,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      1340,
+      1.9030677
+    ],
+    "mowziesmobs:geomancer_robe": [
+      1090,
+      2.231581
+    ],
+    "pizzacraft:chef_shirt": [
+      2723,
+      0.0252
+    ],
+    "pizzacraft:pizza_delivery_shirt": [
+      2723,
+      0.0252
+    ],
+    "samurai_dynasty:amethyst_samurai_chestplate": [
+      998,
+      2.3532112
+    ],
+    "samurai_dynasty:blue_samurai_chestplate": [
+      1200,
+      2.0866673
+    ],
+    "samurai_dynasty:blue_samurai_chestplate_light": [
+      1200,
+      2.0866673
+    ],
+    "samurai_dynasty:blue_samurai_chestplate_master": [
+      1348,
+      1.8926052
+    ],
+    "samurai_dynasty:brass_samurai_chestplate": [
+      1240,
+      2.0341134
+    ],
+    "samurai_dynasty:diamond_ninja_chestplate": [
+      1660,
+      1.487049
+    ],
+    "samurai_dynasty:diamond_samurai_chestplate": [
+      1240,
+      2.0341134
+    ],
+    "samurai_dynasty:diamond_samurai_chestplate_light": [
+      1240,
+      2.0341134
+    ],
+    "samurai_dynasty:diamond_samurai_chestplate_master": [
+      1388,
+      1.8403403
+    ],
+    "samurai_dynasty:gold_ninja_chestplate": [
+      2489,
+      0.048599996
+    ],
+    "samurai_dynasty:gold_samurai_chestplate": [
+      2069,
+      0.96140397
+    ],
+    "samurai_dynasty:gold_samurai_chestplate_light": [
+      2069,
+      0.96140397
+    ],
+    "samurai_dynasty:gold_samurai_chestplate_master": [
+      2069,
+      0.96140397
+    ],
+    "samurai_dynasty:gray_samurai_chestplate": [
+      1200,
+      2.0866673
+    ],
+    "samurai_dynasty:gray_samurai_chestplate_light": [
+      1200,
+      2.0866673
+    ],
+    "samurai_dynasty:gray_samurai_chestplate_master": [
+      1348,
+      1.8926052
+    ],
+    "samurai_dynasty:green_samurai_chestplate": [
+      1200,
+      2.0866673
+    ],
+    "samurai_dynasty:green_samurai_chestplate_light": [
+      1200,
+      2.0866673
+    ],
+    "samurai_dynasty:green_samurai_chestplate_master": [
+      1348,
+      1.8926052
+    ],
+    "samurai_dynasty:iron_ninja_chestplate": [
+      2199,
+      0.7935043
+    ],
+    "samurai_dynasty:iron_samurai_chestplate": [
+      1875,
+      1.2102311
+    ],
+    "samurai_dynasty:iron_samurai_chestplate_light": [
+      1875,
+      1.2102311
+    ],
+    "samurai_dynasty:iron_samurai_chestplate_master": [
+      1875,
+      1.2102311
+    ],
+    "samurai_dynasty:kimono": [
+      2614,
+      0.036099996
+    ],
+    "samurai_dynasty:neptunium_samurai_chestplate": [
+      998,
+      2.3532112
+    ],
+    "samurai_dynasty:netherite_ninja_chestplate": [
+      820,
+      3.5036063
+    ],
+    "samurai_dynasty:netherite_samurai_chestplate": [
+      820,
+      3.5036063
+    ],
+    "samurai_dynasty:netherite_samurai_chestplate_light": [
+      820,
+      3.5036063
+    ],
+    "samurai_dynasty:netherite_samurai_chestplate_master": [
+      829,
+      3.4761367
+    ],
+    "samurai_dynasty:quartz_samurai_chestplate": [
+      998,
+      2.3532112
+    ],
+    "samurai_dynasty:red_samurai_chestplate": [
+      1200,
+      2.0866673
+    ],
+    "samurai_dynasty:red_samurai_chestplate_light": [
+      1200,
+      2.0866673
+    ],
+    "samurai_dynasty:red_samurai_chestplate_master": [
+      1348,
+      1.8926052
+    ],
+    "samurai_dynasty:sculk_samurai_chestplate": [
+      61,
+      5.254652
+    ],
+    "samurai_dynasty:steel_chestplate": [
+      1619,
+      1.5400689
+    ],
+    "samurai_dynasty:steel_ninja_chestplate": [
+      2099,
+      0.92284495
+    ],
+    "samurai_dynasty:white_samurai_chestplate": [
+      1875,
+      1.2102311
+    ],
+    "samurai_dynasty:white_samurai_chestplate_light": [
+      1875,
+      1.2102311
+    ],
+    "samurai_dynasty:white_samurai_chestplate_master": [
+      1875,
+      1.2102311
+    ],
+    "twilightforest:arctic_chestplate": [
+      1837,
+      1.2590272
+    ],
+    "twilightforest:fiery_chestplate": [
+      445,
+      4.4243336
+    ],
+    "twilightforest:ironwood_chestplate": [
+      1736,
+      1.3889769
+    ],
+    "twilightforest:knightmetal_chestplate": [
+      1195,
+      2.0932417
+    ],
+    "twilightforest:naga_chestplate": [
+      1457,
+      1.7503701
+    ],
+    "twilightforest:phantom_chestplate": [
+      1118,
+      2.1946402
+    ],
+    "twilightforest:steeleaf_chestplate": [
+      1260,
+      2.0078652
+    ],
+    "twilightforest:yeti_chestplate": [
+      1147,
+      2.1564183
+    ]
+  },
+  "HEAD": {
+    "alexsmobs:fedora": [
+      2514,
+      0.043899998
+    ],
+    "alexsmobs:frontier_cap": [
+      2208,
+      0.75292885
+    ],
+    "alexsmobs:froststalker_helmet": [
+      2301,
+      0.62781405
+    ],
+    "alexsmobs:moose_headgear": [
+      2199,
+      0.7647448
+    ],
+    "alexsmobs:novelty_hat": [
+      2514,
+      0.043899998
+    ],
+    "alexsmobs:sombrero": [
+      2485,
+      0.0468
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      1949,
+      1.0871058
+    ],
+    "aquaculture:neptunium_helmet": [
+      1034,
+      2.2764862
+    ],
+    "create:copper_diving_helmet": [
+      2379,
+      0.5113901
+    ],
+    "create:netherite_diving_helmet": [
+      1318,
+      1.9030677
+    ],
+    "deeperdarker:resonarium_helmet": [
+      1397,
+      1.7998894
+    ],
+    "deeperdarker:warden_helmet": [
+      112,
+      5.0993676
+    ],
+    "legendary_monsters:blastproof_helmet": [
+      1111,
+      2.1748655
+    ],
+    "legendary_monsters:chorus_mask": [
+      1230,
+      2.0183623
+    ],
+    "legendary_monsters:dinosaur_bone_helmet": [
+      1023,
+      2.2910256
+    ],
+    "legendary_monsters:shulker_helmet": [
+      1198,
+      2.0603807
+    ],
+    "minecraft:chainmail_helmet": [
+      2361,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      1445,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      2427,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      2113,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      2709,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      1318,
+      1.9030677
+    ],
+    "minecraft:turtle_helmet": [
+      2057,
+      0.948558
+    ],
+    "mowziesmobs:geomancer_beads": [
+      1068,
+      2.231581
+    ],
+    "mowziesmobs:sol_visage": [
+      2523,
+      0.042999998
+    ],
+    "mowziesmobs:umvuthana_mask_bliss": [
+      2797,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_faith": [
+      2797,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_fear": [
+      2797,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_fury": [
+      2797,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_misery": [
+      2797,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_rage": [
+      2797,
+      0.015599999
+    ],
+    "mowziesmobs:wrought_helmet": [
+      2527,
+      0.0426
+    ],
+    "pizzacraft:chef_hat": [
+      2701,
+      0.0252
+    ],
+    "pizzacraft:pizza_delivery_cap": [
+      2701,
+      0.0252
+    ],
+    "samurai_dynasty:amethyst_samurai_helmet": [
+      976,
+      2.3532112
+    ],
+    "samurai_dynasty:blue_samurai_helmet": [
+      1178,
+      2.0866673
+    ],
+    "samurai_dynasty:blue_samurai_helmet_light": [
+      1178,
+      2.0866673
+    ],
+    "samurai_dynasty:blue_samurai_helmet_master": [
+      1326,
+      1.8926052
+    ],
+    "samurai_dynasty:brass_samurai_helmet": [
+      1218,
+      2.0341134
+    ],
+    "samurai_dynasty:diamond_ninja_helmet": [
+      1638,
+      1.487049
+    ],
+    "samurai_dynasty:diamond_samurai_helmet": [
+      1218,
+      2.0341134
+    ],
+    "samurai_dynasty:diamond_samurai_helmet_light": [
+      1218,
+      2.0341134
+    ],
+    "samurai_dynasty:diamond_samurai_helmet_master": [
+      1366,
+      1.8403403
+    ],
+    "samurai_dynasty:gold_ninja_helmet": [
+      2467,
+      0.048599996
+    ],
+    "samurai_dynasty:gold_samurai_helmet": [
+      2047,
+      0.96140397
+    ],
+    "samurai_dynasty:gold_samurai_helmet_light": [
+      2047,
+      0.96140397
+    ],
+    "samurai_dynasty:gold_samurai_helmet_master": [
+      2047,
+      0.96140397
+    ],
+    "samurai_dynasty:gray_samurai_helmet": [
+      1178,
+      2.0866673
+    ],
+    "samurai_dynasty:gray_samurai_helmet_light": [
+      1178,
+      2.0866673
+    ],
+    "samurai_dynasty:gray_samurai_helmet_master": [
+      1326,
+      1.8926052
+    ],
+    "samurai_dynasty:green_samurai_helmet": [
+      1178,
+      2.0866673
+    ],
+    "samurai_dynasty:green_samurai_helmet_light": [
+      1178,
+      2.0866673
+    ],
+    "samurai_dynasty:green_samurai_helmet_master": [
+      1326,
+      1.8926052
+    ],
+    "samurai_dynasty:iron_ninja_helmet": [
+      2177,
+      0.7935043
+    ],
+    "samurai_dynasty:iron_samurai_helmet": [
+      1853,
+      1.2102311
+    ],
+    "samurai_dynasty:iron_samurai_helmet_light": [
+      1853,
+      1.2102311
+    ],
+    "samurai_dynasty:iron_samurai_helmet_master": [
+      1853,
+      1.2102311
+    ],
+    "samurai_dynasty:neptunium_samurai_helmet": [
+      976,
+      2.3532112
+    ],
+    "samurai_dynasty:netherite_ninja_helmet": [
+      798,
+      3.5036063
+    ],
+    "samurai_dynasty:netherite_samurai_helmet": [
+      798,
+      3.5036063
+    ],
+    "samurai_dynasty:netherite_samurai_helmet_light": [
+      798,
+      3.5036063
+    ],
+    "samurai_dynasty:netherite_samurai_helmet_master": [
+      807,
+      3.4761367
+    ],
+    "samurai_dynasty:quartz_samurai_helmet": [
+      976,
+      2.3532112
+    ],
+    "samurai_dynasty:red_samurai_helmet": [
+      1178,
+      2.0866673
+    ],
+    "samurai_dynasty:red_samurai_helmet_light": [
+      1178,
+      2.0866673
+    ],
+    "samurai_dynasty:red_samurai_helmet_master": [
+      1326,
+      1.8926052
+    ],
+    "samurai_dynasty:sculk_samurai_helmet": [
+      39,
+      5.254652
+    ],
+    "samurai_dynasty:steel_helmet": [
+      1597,
+      1.5400689
+    ],
+    "samurai_dynasty:steel_ninja_helmet": [
+      2077,
+      0.92284495
+    ],
+    "samurai_dynasty:straw_hat": [
+      2749,
+      0.020399999
+    ],
+    "samurai_dynasty:white_samurai_helmet": [
+      1853,
+      1.2102311
+    ],
+    "samurai_dynasty:white_samurai_helmet_light": [
+      1853,
+      1.2102311
+    ],
+    "samurai_dynasty:white_samurai_helmet_master": [
+      1853,
+      1.2102311
+    ],
+    "twilightforest:arctic_helmet": [
+      1815,
+      1.2590272
+    ],
+    "twilightforest:fiery_helmet": [
+      423,
+      4.4243336
+    ],
+    "twilightforest:ironwood_helmet": [
+      1714,
+      1.3889769
+    ],
+    "twilightforest:knightmetal_helmet": [
+      1173,
+      2.0932417
+    ],
+    "twilightforest:phantom_helmet": [
+      1096,
+      2.1946402
+    ],
+    "twilightforest:steeleaf_helmet": [
+      1238,
+      2.0078652
+    ],
+    "twilightforest:yeti_helmet": [
+      1125,
+      2.1564183
+    ]
+  }
+}

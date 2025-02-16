@@ -12215,39 +12215,39 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/light_gray_valve_handle_from_other_valve_handle": {
+  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_copper_stonecutting": {
     "criteria": {
-      "has_valve": "2025-02-15 20:26:51 +0000"
+      "has_exposed_copper": "2025-02-15 19:55:49 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/brown_valve_handle_from_other_valve_handle": {
+  "minecraft:recipes/building_blocks/exposed_cut_copper_from_exposed_copper_stonecutting": {
     "criteria": {
-      "has_valve": "2025-02-15 20:26:51 +0000"
+      "has_exposed_copper": "2025-02-15 19:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_from_honeycomb": {
+    "criteria": {
+      "has_exposed_copper": "2025-02-15 19:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper": {
+    "criteria": {
+      "has_exposed_copper": "2025-02-15 19:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_slab_from_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_copper": "2025-02-15 19:55:49 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-02-15 19:56:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/green_valve_handle_from_other_valve_handle": {
-    "criteria": {
-      "has_valve": "2025-02-15 20:26:51 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/cicada_jar": {
-    "criteria": {
-      "has_item": "2025-02-15 20:00:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_copper_stonecutting": {
-    "criteria": {
-      "has_exposed_copper": "2025-02-15 19:55:49 +0000"
     },
     "done": true
   },
@@ -12263,6 +12263,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-15 19:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-15 19:56:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/cicada_jar": {
+    "criteria": {
+      "has_item": "2025-02-15 20:00:44 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/super_sonic": {
+    "criteria": {
+      "fly": "2025-02-15 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/light_gray_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-02-15 20:26:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brown_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-02-15 20:26:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/green_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-02-15 20:26:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/lime_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-02-15 20:26:51 +0000"
@@ -12272,18 +12314,6 @@
   "create:recipes/misc/crafting/kinetics/white_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-02-15 20:26:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/exposed_cut_copper_from_exposed_copper_stonecutting": {
-    "criteria": {
-      "has_exposed_copper": "2025-02-15 19:55:49 +0000"
-    },
-    "done": true
-  },
-  "stellarity:end_city/super_sonic": {
-    "criteria": {
-      "fly": "2025-02-15 20:13:05 +0000"
     },
     "done": true
   },
@@ -12299,24 +12329,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_exposed_copper_from_honeycomb": {
-    "criteria": {
-      "has_exposed_copper": "2025-02-15 19:55:49 +0000"
-    },
-    "done": true
-  },
-  "create:belt": {
-    "criteria": {
-      "0": "2025-02-15 20:28:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
-    "criteria": {
-      "has_oxidized_copper": "2025-02-15 19:56:09 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/black_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-02-15 20:26:51 +0000"
@@ -12326,12 +12338,6 @@
   "create:recipes/misc/crafting/kinetics/blue_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-02-15 20:26:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/exposed_cut_copper": {
-    "criteria": {
-      "has_exposed_copper": "2025-02-15 19:55:49 +0000"
     },
     "done": true
   },
@@ -12353,12 +12359,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_copper": "2025-02-15 19:56:09 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/magenta_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-02-15 20:26:51 +0000"
@@ -12371,12 +12371,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/exposed_cut_copper_slab_from_exposed_copper_stonecutting": {
-    "criteria": {
-      "has_exposed_copper": "2025-02-15 19:55:49 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/purple_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-02-15 20:26:51 +0000"
@@ -12386,6 +12380,36 @@
   "create:recipes/misc/crafting/kinetics/pink_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-02-15 20:26:51 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-02-15 20:28:41 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-02-15 20:52:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-02-16 02:03:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-02-16 02:04:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-02-16 02:03:01 +0000"
     },
     "done": true
   },

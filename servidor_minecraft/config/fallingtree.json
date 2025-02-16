@@ -7,7 +7,7 @@
     "deniedLeaves": [],
     "breakMode": "INSTANTANEOUS",
     "detectionMode": "WHOLE_TREE",
-    "maxScanSize": 500,
+    "maxScanSize": 1500,
     "maxSize": 1500,
     "maxLeafDistanceFromLog": 15,
     "maxSizeAction": "ABORT",

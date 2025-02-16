@@ -4636,6 +4636,7 @@
       "twilight_oak_sign": "2025-02-07 21:32:57 +0000",
       "twilight_oak_stairs": "2025-02-13 20:45:31 +0000",
       "mangrove_sapling": "2025-02-12 04:17:36 +0000",
+      "encased_towerwood": "2025-02-15 21:29:00 +0000",
       "twilight_oak_slab": "2025-02-13 20:46:44 +0000",
       "canopy_planks": "2025-02-12 01:02:57 +0000",
       "towerwood": "2025-02-12 05:28:51 +0000",
@@ -8839,6 +8840,282 @@
   "twilightforest:recipes/misc/material/raw_ironwood": {
     "criteria": {
       "has_item": "2025-02-15 20:15:09 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/super_sonic": {
+    "criteria": {
+      "fly": "2025-02-15 21:04:39 +0000"
+    },
+    "done": true
+  },
+  "stellarity:nether/a_piece_of_otherworld": {
+    "criteria": {
+      "criteria": "2025-02-15 21:08:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_builder": {
+    "criteria": {
+      "has_item": "2025-02-15 21:44:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_reactor": {
+    "criteria": {
+      "has_item": "2025-02-15 21:44:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/carminite_block": {
+    "criteria": {
+      "has_item": "2025-02-15 21:44:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/carminite": {
+    "criteria": {
+      "has_item": "2025-02-15 21:45:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-15 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-15 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-15 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/jeb_": {
+    "criteria": {
+      "craft1": "2025-02-15 21:49:27 +0000"
+    },
+    "done": false
+  },
+  "stellarity:end_city/colorful_arsenal": {
+    "criteria": {
+      "color_shulker_box": "2025-02-15 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-02-15 22:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-02-15 22:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-02-15 22:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-02-15 22:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-02-15 22:09:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-02-15 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-02-15 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-02-15 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-02-15 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-02-15 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-02-15 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-02-15 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-02-15 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-02-15 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-02-15 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-02-15 22:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-02-15 22:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-02-15 22:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-02-15 22:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-02-15 22:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-02-15 22:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-02-15 22:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-02-15 22:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-02-15 22:26:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/encased_fire_jet": {
+    "criteria": {
+      "has_item": "2025-02-16 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-02-16 01:42:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_helmet": {
+    "criteria": {
+      "froststalker_helmet": "2025-02-16 01:45:17 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 02:07:34 +0000"
     },
     "done": true
   },
