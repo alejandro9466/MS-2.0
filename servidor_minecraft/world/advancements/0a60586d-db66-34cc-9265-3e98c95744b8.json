@@ -12499,21 +12499,99 @@
     },
     "done": true
   },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-02-16 19:24:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-02-16 19:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-02-16 19:28:02 +0000"
+    },
+    "done": true
+  },
+  "extermination:it_got_updated": {
+    "criteria": {
+      "it_got_updated": "2025-02-16 19:41:18 +0000"
+    },
+    "done": true
+  },
+  "extermination:i_got_your_arm": {
+    "criteria": {
+      "i_got_your_arm": "2025-02-16 19:45:25 +0000"
+    },
+    "done": true
+  },
+  "extermination:music_to_my_ears": {
+    "criteria": {
+      "music_to_my_ears": "2025-02-16 19:48:29 +0000"
+    },
+    "done": true
+  },
+  "extermination:reject_extermination_return_to_peace": {
+    "criteria": {
+      "reject_extermination_return_to_peace": "2025-02-16 19:49:12 +0000"
+    },
+    "done": true
+  },
   "extermination:have_a_grenade": {
     "criteria": {
       "have_a_grenade": "2025-02-16 19:50:33 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/redstone/wood/dark_gate": {
-    "criteria": {
-      "has_item": "2025-02-16 20:02:37 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
     "criteria": {
       "has_item": "2025-02-16 19:56:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/mossy_underbrick": {
+    "criteria": {
+      "has_item": "2025-02-16 19:56:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-02-16 19:58:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-02-16 19:58:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-02-16 19:58:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_wood": {
+    "criteria": {
+      "has_item": "2025-02-16 20:02:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_planks": {
+    "criteria": {
+      "has_item": "2025-02-16 20:02:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_gate": {
+    "criteria": {
+      "has_item": "2025-02-16 20:02:37 +0000"
     },
     "done": true
   },
@@ -12529,33 +12607,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2025-02-16 20:03:43 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/redstone/wood/dark_trapdoor": {
     "criteria": {
       "has_item": "2025-02-16 20:02:37 +0000"
-    },
-    "done": true
-  },
-  "extermination:it_got_updated": {
-    "criteria": {
-      "it_got_updated": "2025-02-16 19:41:18 +0000"
-    },
-    "done": true
-  },
-  "extermination:reject_extermination_return_to_peace": {
-    "criteria": {
-      "reject_extermination_return_to_peace": "2025-02-16 19:49:12 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_infested_temple_map": {
-    "criteria": {
-      "find_map": "2025-02-16 19:24:44 +0000"
     },
     "done": true
   },
@@ -12565,51 +12619,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/curiosities/cake": {
-    "criteria": {
-      "has_item": "2025-02-16 20:04:31 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/redstone/wood/dark_button": {
     "criteria": {
       "has_item": "2025-02-16 20:02:37 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/wood/dark_wood": {
-    "criteria": {
-      "has_item": "2025-02-16 20:02:36 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/redstone/wood/dark_door": {
     "criteria": {
       "has_item": "2025-02-16 20:02:37 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/mossy_underbrick": {
-    "criteria": {
-      "has_item": "2025-02-16 19:56:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-02-16 19:28:02 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_cooking_pot": {
-    "criteria": {
-      "cooking_pot": "2025-02-16 19:58:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bread_from_smelting": {
-    "criteria": {
-      "has_dough": "2025-02-16 20:04:31 +0000"
     },
     "done": true
   },
@@ -12625,33 +12643,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/bread_from_smoking": {
-    "criteria": {
-      "has_dough": "2025-02-16 20:04:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2025-02-16 19:58:58 +0000"
-    },
-    "done": true
-  },
-  "extermination:music_to_my_ears": {
-    "criteria": {
-      "music_to_my_ears": "2025-02-16 19:48:29 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/decorations/wood/dark_chest": {
     "criteria": {
       "has_item": "2025-02-16 20:02:37 +0000"
-    },
-    "done": true
-  },
-  "extermination:i_got_your_arm": {
-    "criteria": {
-      "i_got_your_arm": "2025-02-16 19:45:25 +0000"
     },
     "done": true
   },
@@ -12661,21 +12655,81 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/wood/dark_planks": {
+  "farmersdelight:main/place_campfire": {
     "criteria": {
-      "has_item": "2025-02-16 20:02:36 +0000"
+      "campfire": "2025-02-16 20:03:43 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
+  "create:recipes/misc/crafting/curiosities/cake": {
     "criteria": {
-      "has_rice": "2025-02-16 19:58:58 +0000"
+      "has_item": "2025-02-16 20:04:31 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_monasteries": {
+  "farmersdelight:recipes/food/bread_from_smelting": {
     "criteria": {
-      "location0": "2025-02-16 19:24:38 +0000"
+      "has_dough": "2025-02-16 20:04:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2025-02-16 20:04:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-02-16 20:18:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-02-16 20:18:38 +0000"
+    },
+    "done": true
+  },
+  "pizzacraft:chopping_board": {
+    "criteria": {
+      "chopping_board": "2025-02-16 20:10:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-02-16 20:18:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-16 20:15:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-16 20:15:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-16 20:15:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-02-16 20:18:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-02-16 20:15:22 +0000"
     },
     "done": true
   },
