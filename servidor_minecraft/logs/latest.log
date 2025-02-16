@@ -781,3 +781,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [16Feb2025 18:29:47.328] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:invasion_trigger but it was marked as removed already
 [16Feb2025 18:30:07.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
 [16Feb2025 18:30:43.328] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:tripod_trigger but it was marked as removed already
+[16Feb2025 18:31:18.627] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 18:32:19.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[16Feb2025 18:32:46.677] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:invasion_trigger but it was marked as removed already
+[16Feb2025 18:33:25.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[16Feb2025 18:35:08.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Reloading equipment.json]
+[16Feb2025 18:35:50.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Zombie
+[16Feb2025 18:35:52.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Zombie
+[16Feb2025 18:36:07.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 lost connection: Disconnected
+[16Feb2025 18:36:07.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 left the game
+[16Feb2025 18:36:18.507] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: peter_rola14[/127.227.82.151:58599] logged in with entity id 6750 at (-187.25708514258147, 84.0, -1315.5462854506427)
+[16Feb2025 18:36:18.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 joined the game
+[16Feb2025 18:36:18.589] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to peter_rola14.
+[16Feb2025 18:36:48.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 lost connection: Disconnected
+[16Feb2025 18:36:48.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 left the game
+[16Feb2025 18:36:48.590] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Feb2025 18:37:10.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: peter_rola14[/127.227.82.151:35481] logged in with entity id 7059 at (-187.25708514258147, 84.0, -1315.5462854506427)
+[16Feb2025 18:37:10.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 joined the game
+[16Feb2025 18:37:10.241] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to peter_rola14.
+[16Feb2025 18:38:41.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 experienced kinetic energy whilst trying to escape Skeleton
+[16Feb2025 18:38:44.228] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 18:39:59.027] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:tripod_trigger but it was marked as removed already
+[16Feb2025 18:40:59.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
