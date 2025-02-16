@@ -927,3 +927,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [16Feb2025 19:41:31.027] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:uberpod_trigger but it was marked as removed already
 [16Feb2025 19:42:17.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 moved too quickly! 0.4026727130725192,1.0,10.984700574369526
 [16Feb2025 19:42:17.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
+[16Feb2025 19:42:21.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 moved too quickly! 6.596816252484956,-7.221621411891348,-14.551934275498297
+[16Feb2025 19:43:17.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was shot by Skeleton
+[16Feb2025 19:43:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was struck by lightning
+[16Feb2025 19:44:13.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was shot by Uberpod
+[16Feb2025 19:44:33.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was blown up by Creeper
+[16Feb2025 19:45:08.729] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:45:24.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was blown up by Creeper
+[16Feb2025 19:45:25.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [I got your Arm]
+[16Feb2025 19:45:44.077] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:tripod_trigger but it was marked as removed already
+[16Feb2025 19:45:44.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was shot by Skeleton
+[16Feb2025 19:46:54.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was shot by Tripod
+[16Feb2025 19:46:57.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2295ms or 45 ticks behind
+[16Feb2025 19:47:40.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was shot by Tripod
+[16Feb2025 19:47:50.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 lost connection: Disconnected
+[16Feb2025 19:47:50.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 left the game
+[16Feb2025 19:48:08.703] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: peter_rola14[/127.227.82.151:42727] logged in with entity id 56875 at (-193.61020271831126, 84.0, -1306.158752983756)
+[16Feb2025 19:48:08.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 joined the game
+[16Feb2025 19:48:08.762] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to peter_rola14.
+[16Feb2025 19:48:29.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Music to my ears]
+[16Feb2025 19:48:43.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Music to my ears]
+[16Feb2025 19:48:58.577] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:tripod_trigger but it was marked as removed already
+[16Feb2025 19:49:12.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has completed the challenge [Reject Extermination, Return to peace]
+[16Feb2025 19:50:32.728] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:uberpod_trigger but it was marked as removed already
+[16Feb2025 19:50:33.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Have a Grenade]
+[16Feb2025 19:50:39.677] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:invasion_trigger but it was marked as removed already
+[16Feb2025 19:51:21.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Have a Grenade]
+[16Feb2025 19:52:22.328] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already

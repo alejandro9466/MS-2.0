@@ -12497,9 +12497,21 @@
     },
     "done": true
   },
+  "extermination:have_a_grenade": {
+    "criteria": {
+      "have_a_grenade": "2025-02-16 19:50:33 +0000"
+    },
+    "done": true
+  },
   "extermination:it_got_updated": {
     "criteria": {
       "it_got_updated": "2025-02-16 19:41:18 +0000"
+    },
+    "done": true
+  },
+  "extermination:reject_extermination_return_to_peace": {
+    "criteria": {
+      "reject_extermination_return_to_peace": "2025-02-16 19:49:12 +0000"
     },
     "done": true
   },
@@ -12512,6 +12524,18 @@
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-02-16 19:28:02 +0000"
+    },
+    "done": true
+  },
+  "extermination:music_to_my_ears": {
+    "criteria": {
+      "music_to_my_ears": "2025-02-16 19:48:29 +0000"
+    },
+    "done": true
+  },
+  "extermination:i_got_your_arm": {
+    "criteria": {
+      "i_got_your_arm": "2025-02-16 19:45:25 +0000"
     },
     "done": true
   },
