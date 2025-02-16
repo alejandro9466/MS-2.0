@@ -6072,10 +6072,12 @@
     "criteria": {
       "twilight_oak_planks": "2025-02-07 21:45:03 +0000",
       "twilight_oak_sign": "2025-02-07 21:40:27 +0000",
+      "dark_planks": "2025-02-16 20:02:37 +0000",
       "canopy_planks": "2025-02-07 21:49:29 +0000",
       "twilight_oak_chest": "2025-02-07 21:59:08 +0000",
       "twilight_oak_log": "2025-02-07 21:43:19 +0000",
       "twilight_oak_wood": "2025-02-07 21:45:01 +0000",
+      "dark_log": "2025-02-16 20:02:36 +0000",
       "twilight_oak_sapling": "2025-02-07 22:41:13 +0000",
       "liveroot": "2025-02-12 04:17:50 +0000",
       "hollow_oak_sapling": "2025-02-14 01:32:00 +0000",
@@ -12503,9 +12505,39 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/dark_gate": {
+    "criteria": {
+      "has_item": "2025-02-16 20:02:37 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
     "criteria": {
       "has_item": "2025-02-16 19:56:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_stairs": {
+    "criteria": {
+      "has_item": "2025-02-16 20:02:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_fence": {
+    "criteria": {
+      "has_item": "2025-02-16 20:02:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-02-16 20:03:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-16 20:02:37 +0000"
     },
     "done": true
   },
@@ -12527,6 +12559,36 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/dark_slab": {
+    "criteria": {
+      "has_item": "2025-02-16 20:02:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2025-02-16 20:04:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_button": {
+    "criteria": {
+      "has_item": "2025-02-16 20:02:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_wood": {
+    "criteria": {
+      "has_item": "2025-02-16 20:02:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_door": {
+    "criteria": {
+      "has_item": "2025-02-16 20:02:37 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/mossy_underbrick": {
     "criteria": {
       "has_item": "2025-02-16 19:56:09 +0000"
@@ -12545,6 +12607,30 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2025-02-16 20:04:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_plate": {
+    "criteria": {
+      "has_item": "2025-02-16 20:02:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_sign": {
+    "criteria": {
+      "has_item": "2025-02-16 20:02:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2025-02-16 20:04:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-02-16 19:58:58 +0000"
@@ -12557,9 +12643,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/dark_chest": {
+    "criteria": {
+      "has_item": "2025-02-16 20:02:37 +0000"
+    },
+    "done": true
+  },
   "extermination:i_got_your_arm": {
     "criteria": {
       "i_got_your_arm": "2025-02-16 19:45:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-02-16 20:03:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_planks": {
+    "criteria": {
+      "has_item": "2025-02-16 20:02:36 +0000"
     },
     "done": true
   },
