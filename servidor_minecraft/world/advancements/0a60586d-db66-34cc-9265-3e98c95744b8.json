@@ -12497,5 +12497,29 @@
     },
     "done": true
   },
+  "extermination:it_got_updated": {
+    "criteria": {
+      "it_got_updated": "2025-02-16 19:41:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-02-16 19:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-02-16 19:28:02 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-02-16 19:24:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

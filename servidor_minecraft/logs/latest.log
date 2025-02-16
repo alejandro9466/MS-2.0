@@ -871,3 +871,59 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [16Feb2025 19:15:14.252] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 [16Feb2025 19:15:14.255] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 [16Feb2025 19:16:46.627] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:23:24.629] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:24:49.642] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[16Feb2025 19:24:50.234] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[16Feb2025 19:24:50.279] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[16Feb2025 19:24:50.327] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[16Feb2025 19:24:50.493] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[16Feb2025 19:24:50.505] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[16Feb2025 19:24:51.666] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[16Feb2025 19:24:51.688] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[16Feb2025 19:24:51.698] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[16Feb2025 19:24:51.737] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[16Feb2025 19:24:52.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7534ms or 150 ticks behind
+[16Feb2025 19:26:02.280] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:27:01.440] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:tripod_trigger but it was marked as removed already
+[16Feb2025 19:27:03.771] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:27:19.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:invasion_trigger but it was marked as removed already
+[16Feb2025 19:27:45.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 moved too quickly! -0.20363392417809223,4.344387038790188,17.584126578187124
+[16Feb2025 19:27:47.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
+[16Feb2025 19:28:28.779] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:28:54.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:29:10.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 lost connection: Disconnected
+[16Feb2025 19:29:10.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 left the game
+[16Feb2025 19:30:05.541] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:invasion_trigger but it was marked as removed already
+[16Feb2025 19:30:07.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 moved too quickly! -18.199098364922634,-0.26287585138024383,11.247689329922821
+[16Feb2025 19:30:31.734] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:uberpod_trigger but it was marked as removed already
+[16Feb2025 19:30:37.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 moved too quickly! -0.22661223481713932,15.507573472297963,-9.541178962009155
+[16Feb2025 19:30:45.371] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:30:53.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 moved too quickly! 11.995791459679822,-2.1129586568121113,-15.261095727516533
+[16Feb2025 19:31:14.726] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:32:24.957] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: peter_rola14[/127.227.82.151:60369] logged in with entity id 49241 at (-200.2903495988604, 226.0, -657.3337983684074)
+[16Feb2025 19:32:24.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 joined the game
+[16Feb2025 19:32:24.973] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to peter_rola14.
+[16Feb2025 19:32:34.879] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:tripod_trigger but it was marked as removed already
+[16Feb2025 19:32:47.230] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:32:52.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported peter_rola14 to alejandro946]
+[16Feb2025 19:33:31.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Mimic Spawn Egg] to alejandro946]
+[16Feb2025 19:33:31.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Mimic Spawn Egg] to alejandro946]
+[16Feb2025 19:33:32.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Mimic Spawn Egg] to alejandro946]
+[16Feb2025 19:33:32.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Mimic Spawn Egg] to alejandro946]
+[16Feb2025 19:33:33.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Mimic Spawn Egg] to alejandro946]
+[16Feb2025 19:34:07.778] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:34:08.501] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[16Feb2025 19:34:32.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Mimic Spawn Egg] to alejandro946]
+[16Feb2025 19:34:41.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Mimic Spawn Egg] to alejandro946]
+[16Feb2025 19:34:44.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Mimic Spawn Egg] to alejandro946]
+[16Feb2025 19:36:01.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Mimic Spawn Egg] to alejandro946]
+[16Feb2025 19:38:18.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Mimic Spawn Egg] to alejandro946]
+[16Feb2025 19:38:39.327] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:uberpod_trigger but it was marked as removed already
+[16Feb2025 19:39:02.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Mimic Spawn Egg] to alejandro946]
+[16Feb2025 19:39:42.478] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:41:18.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has completed the challenge [It got updated]
+[16Feb2025 19:41:18.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has completed the challenge [It got updated]
+[16Feb2025 19:41:20.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [I got your Arm]
+[16Feb2025 19:41:31.027] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:uberpod_trigger but it was marked as removed already
+[16Feb2025 19:42:17.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 moved too quickly! 0.4026727130725192,1.0,10.984700574369526
+[16Feb2025 19:42:17.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
