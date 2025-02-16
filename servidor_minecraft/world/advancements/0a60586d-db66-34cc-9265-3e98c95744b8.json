@@ -12413,12 +12413,6 @@
     },
     "done": true
   },
-  "create:chute": {
-    "criteria": {
-      "0": "2025-02-16 03:32:06 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/tools/equipment/knightmetal_pickaxe": {
     "criteria": {
       "has_item": "2025-02-16 03:03:34 +0000"
@@ -12482,6 +12476,24 @@
   "twilightforest:recipes/misc/equipment/knightmetal_ring": {
     "criteria": {
       "has_item": "2025-02-16 03:03:34 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-02-16 03:32:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/rainy_cloud": {
+    "criteria": {
+      "has_item": "2025-02-16 18:25:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/snowy_cloud": {
+    "criteria": {
+      "has_item": "2025-02-16 18:25:56 +0000"
     },
     "done": true
   },

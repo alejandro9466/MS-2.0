@@ -9133,15 +9133,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/compressed_blocks/reversed/knightmetal_block_ingot": {
-    "criteria": {
-      "has_item": "2025-02-16 03:06:21 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/tools/charm_of_keeping_3": {
     "criteria": {
       "has_item": "2025-02-16 02:59:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/compressed_blocks/reversed/knightmetal_block_ingot": {
+    "criteria": {
+      "has_item": "2025-02-16 03:06:21 +0000"
     },
     "done": true
   },
