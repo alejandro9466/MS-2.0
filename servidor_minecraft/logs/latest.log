@@ -820,3 +820,54 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [16Feb2025 18:50:12.778] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
 [16Feb2025 18:50:52.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
 [16Feb2025 18:51:05.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[16Feb2025 18:52:39.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[16Feb2025 18:52:43.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[16Feb2025 18:54:01.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[16Feb2025 18:54:05.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[16Feb2025 18:54:53.027] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:tripod_trigger but it was marked as removed already
+[16Feb2025 18:57:55.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by alejandro946 using [Akaname]
+[16Feb2025 18:59:34.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[16Feb2025 18:59:39.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[16Feb2025 19:00:04.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-217, y=82, z=-1326} BlockPos{x=-213, y=81, z=-1324}
+[16Feb2025 19:00:27.076] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:01:25.477] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:03:13.678] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:invasion_trigger but it was marked as removed already
+[16Feb2025 19:03:52.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Timed out
+[16Feb2025 19:03:52.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
+[16Feb2025 19:04:08.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandro946[/127.160.163.203:60269] logged in with entity id 19022 at (-204.54706269339908, 84.0, -1326.1649728226967)
+[16Feb2025 19:04:08.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 joined the game
+[16Feb2025 19:04:08.656] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to alejandro946.
+[16Feb2025 19:07:00.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[16Feb2025 19:07:01.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[16Feb2025 19:07:02.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[16Feb2025 19:07:05.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[16Feb2025 19:09:28.547] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:09:43.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 moved too quickly! 14.989125126761223,-0.34468979543767375,-10.445568466477653
+[16Feb2025 19:10:08.833] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:10:27.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:invasion_trigger but it was marked as removed already
+[16Feb2025 19:10:43.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 lost connection: Timed out
+[16Feb2025 19:10:43.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 left the game
+[16Feb2025 19:10:45.328] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:10:48.328] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:tripod_trigger but it was marked as removed already
+[16Feb2025 19:11:37.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: peter_rola14[/127.227.82.151:39325] logged in with entity id 27147 at (-242.561093726844, 124.5730372137442, -1026.2068504681934)
+[16Feb2025 19:11:37.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 joined the game
+[16Feb2025 19:11:37.875] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to peter_rola14.
+[16Feb2025 19:11:39.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 moved too quickly! -18.666864754621912,-1.0184543548016336,-0.9427862647057736
+[16Feb2025 19:11:40.580] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:invasion_trigger but it was marked as removed already
+[16Feb2025 19:11:41.802] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:tripod_trigger but it was marked as removed already
+[16Feb2025 19:12:08.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Zombie
+[16Feb2025 19:12:25.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 lost connection: Disconnected
+[16Feb2025 19:12:25.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 left the game
+[16Feb2025 19:12:25.778] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:uberpod_trigger but it was marked as removed already
+[16Feb2025 19:12:40.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: peter_rola14[/127.227.82.151:42051] logged in with entity id 28344 at (-199.5, 84.0, -1301.5)
+[16Feb2025 19:12:40.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 joined the game
+[16Feb2025 19:12:40.821] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to peter_rola14.
+[16Feb2025 19:13:03.278] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:uberpod_trigger but it was marked as removed already
+[16Feb2025 19:13:13.879] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:invasion_trigger but it was marked as removed already
+[16Feb2025 19:13:25.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to peter_rola14]
+[16Feb2025 19:13:46.566] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:13:49.629] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:uberpod_trigger but it was marked as removed already
+[16Feb2025 19:13:52.228] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[16Feb2025 19:15:14.252] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[16Feb2025 19:15:14.255] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[16Feb2025 19:16:46.627] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
