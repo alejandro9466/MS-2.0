@@ -12503,6 +12503,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
+    "criteria": {
+      "has_item": "2025-02-16 19:56:09 +0000"
+    },
+    "done": true
+  },
   "extermination:it_got_updated": {
     "criteria": {
       "it_got_updated": "2025-02-16 19:41:18 +0000"
@@ -12521,9 +12527,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/mossy_underbrick": {
+    "criteria": {
+      "has_item": "2025-02-16 19:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-02-16 19:28:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-02-16 19:58:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-02-16 19:58:58 +0000"
     },
     "done": true
   },
@@ -12536,6 +12560,12 @@
   "extermination:i_got_your_arm": {
     "criteria": {
       "i_got_your_arm": "2025-02-16 19:45:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-02-16 19:58:58 +0000"
     },
     "done": true
   },

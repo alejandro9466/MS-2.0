@@ -9307,15 +9307,15 @@
     },
     "done": true
   },
-  "extermination:have_a_grenade": {
-    "criteria": {
-      "have_a_grenade": "2025-02-16 19:51:21 +0000"
-    },
-    "done": true
-  },
   "extermination:music_to_my_ears": {
     "criteria": {
       "music_to_my_ears": "2025-02-16 19:48:43 +0000"
+    },
+    "done": true
+  },
+  "extermination:have_a_grenade": {
+    "criteria": {
+      "have_a_grenade": "2025-02-16 19:51:21 +0000"
     },
     "done": true
   },
