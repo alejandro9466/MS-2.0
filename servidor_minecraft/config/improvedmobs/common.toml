@@ -18,7 +18,7 @@
 	#Wether difficulty should only increase with at least one online players or not
 	"Ignore Players" = false
 	#If true will increase difficulty by the amount of time skipped. Else will only increase difficulty once.
-	"Punish Time Skip" = true
+	"Punish Time Skip" = false
 	#Disable/Enable friendly fire for owned pets.
 	FriendlyFire = false
 	#Blacklist for pet you should't be able to give armor to. Pets from mods, which have custom armor already should be included here (for balancing reasons).
@@ -42,7 +42,6 @@
 	"Difficulty type" = "GLOBAL"
 	#Position used for DISTANCE difficulty type
 	"Center Position" = "0-0"
-
 #Black/Whitelist for various stuff
 [list]
 	#Entities added here will be blacklisted from their assigned flags. Usage:

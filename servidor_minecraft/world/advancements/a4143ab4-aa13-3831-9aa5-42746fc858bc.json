@@ -4645,6 +4645,7 @@
       "twilight_oak_pressure_plate": "2025-02-12 05:47:24 +0000",
       "twilight_oak_log": "2025-02-07 21:28:33 +0000",
       "twilight_oak_wood": "2025-02-07 21:28:32 +0000",
+      "dark_log": "2025-02-16 02:53:18 +0000",
       "canopy_stairs": "2025-02-12 04:19:45 +0000",
       "twilight_oak_sapling": "2025-02-07 22:32:47 +0000",
       "liveroot": "2025-02-15 20:15:09 +0000",
@@ -9117,6 +9118,30 @@
   "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 02:07:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_wood": {
+    "criteria": {
+      "has_item": "2025-02-16 02:53:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_planks": {
+    "criteria": {
+      "has_item": "2025-02-16 02:53:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/compressed_blocks/reversed/knightmetal_block_ingot": {
+    "criteria": {
+      "has_item": "2025-02-16 03:06:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_3": {
+    "criteria": {
+      "has_item": "2025-02-16 02:59:02 +0000"
     },
     "done": true
   },
