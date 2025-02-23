@@ -1,87 +1,954 @@
-[23Feb2025 00:29:42.605] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[23Feb2025 00:29:42.611] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
-[23Feb2025 00:29:43.247] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[23Feb2025 00:29:43.415] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/MS-2.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[23Feb2025 00:29:44.340] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[23Feb2025 00:29:44.498] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[23Feb2025 00:29:44.514] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[23Feb2025 00:29:46.629] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[23Feb2025 00:29:56.613] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[23Feb2025 00:29:56.622] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[23Feb2025 00:29:57.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[23Feb2025 00:29:58.224] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[23Feb2025 00:30:02.221] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23Feb2025 00:30:03.313] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23Feb2025 00:30:03.315] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23Feb2025 00:30:03.317] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23Feb2025 00:30:03.318] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23Feb2025 00:30:03.320] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23Feb2025 00:30:03.325] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar
-[23Feb2025 00:30:06.498] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
-[23Feb2025 00:30:07.862] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
-[23Feb2025 00:30:11.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[23Feb2025 00:30:11.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[23Feb2025 00:30:11.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[23Feb2025 00:30:11.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[23Feb2025 00:30:12.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[23Feb2025 00:30:12.138] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[23Feb2025 00:30:12.361] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23Feb2025 00:30:12.362] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[23Feb2025 00:30:12.362] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23Feb2025 00:30:12.362] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[23Feb2025 00:30:12.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[23Feb2025 00:30:12.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[23Feb2025 00:30:15.562] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[23Feb2025 00:30:15.563] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[23Feb2025 00:30:15.564] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[23Feb2025 00:30:15.564] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[23Feb2025 00:30:15.565] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[23Feb2025 00:30:15.569] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[23Feb2025 00:30:15.815] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[23Feb2025 00:30:20.172] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
-[23Feb2025 00:30:20.283] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
-[23Feb2025 00:30:20.285] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
-[23Feb2025 00:30:20.285] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
-[23Feb2025 00:30:20.296] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
-[23Feb2025 00:30:20.297] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
-[23Feb2025 00:30:20.297] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
-[23Feb2025 00:30:20.297] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
-[23Feb2025 00:30:20.298] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
-[23Feb2025 00:30:20.768] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[23Feb2025 00:30:21.273] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[23Feb2025 00:30:21.770] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[23Feb2025 00:30:22.268] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[23Feb2025 00:30:22.784] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[23Feb2025 00:30:23.274] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[23Feb2025 00:30:23.773] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[23Feb2025 00:30:24.270] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[23Feb2025 00:30:24.802] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[23Feb2025 00:30:25.307] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[23Feb2025 00:30:25.781] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
-[23Feb2025 00:30:26.276] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
-[23Feb2025 00:30:26.780] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
-[23Feb2025 00:30:27.281] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
-[23Feb2025 00:30:27.815] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 88%
-[23Feb2025 00:30:28.281] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 88%
-[23Feb2025 00:30:28.789] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 90%
-[23Feb2025 00:30:29.277] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
-[23Feb2025 00:30:29.778] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 93%
-[23Feb2025 00:30:30.277] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
-[23Feb2025 00:30:30.785] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 96%
-[23Feb2025 00:30:31.269] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
-[23Feb2025 00:30:31.781] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 99%
-[23Feb2025 00:30:31.812] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 19045 ms
-[23Feb2025 00:30:31.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.415s)! For help, type "help"
-[23Feb2025 00:30:38.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[23Feb2025 00:30:38.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[23Feb2025 00:30:38.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[23Feb2025 00:30:38.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[23Feb2025 00:30:38.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23Feb2025 00:30:41.089] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23Feb2025 00:30:41.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23Feb2025 00:30:41.094] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23Feb2025 00:30:41.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23Feb2025 00:30:41.097] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23Feb2025 00:30:41.190] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23Feb2025 00:30:41.207] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23Feb2025 00:30:41.208] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Feb2025 00:37:26.885] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[23Feb2025 00:37:26.888] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
+[23Feb2025 00:37:27.403] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[23Feb2025 00:37:27.581] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/MS-2.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[23Feb2025 00:37:28.750] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Feb2025 00:37:28.912] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Feb2025 00:37:28.940] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Feb2025 00:37:31.119] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[23Feb2025 00:37:32.168] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[23Feb2025 00:37:32.169] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [entityMemoriesLeak, biomeTemperatureLeak, drownedNavigationLeak]
+[23Feb2025 00:37:33.486] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via ca.fxco.memoryleakfix.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[23Feb2025 00:37:35.080] [main/INFO] [FerriteCore - class definer/]: Using Java 9+ class definer
+[23Feb2025 00:37:41.828] [modloading-worker-1/INFO] [JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[23Feb2025 00:37:41.922] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[23Feb2025 00:37:41.923] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[23Feb2025 00:37:42.154] [modloading-worker-1/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[23Feb2025 00:37:42.158] [modloading-worker-0/INFO] [expandability/]: ExpandAbility here, who dis?
+[23Feb2025 00:37:42.210] [modloading-worker-0/INFO] [Pixelmon/]: Patched lifecycle fields.
+[23Feb2025 00:37:46.487] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/MS-2.0/servidor_minecraft/config/fallingtree-common.toml is not correct. Correcting
+[23Feb2025 00:37:46.494] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:37:46.496] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.break_mode was corrected from null to its default, INSTANTANEOUS. 
+[23Feb2025 00:37:46.500] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.detection_mode was corrected from null to its default, WHOLE_TREE. 
+[23Feb2025 00:37:46.501] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.logs_whitelisted was corrected from null to its default, []. 
+[23Feb2025 00:37:46.503] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.logs_blacklisted was corrected from null to its default, []. 
+[23Feb2025 00:37:46.506] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.leaves_whitelisted was corrected from null to its default, []. 
+[23Feb2025 00:37:46.508] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.leaves_non_decay_whitelisted was corrected from null to its default, []. 
+[23Feb2025 00:37:46.511] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.leaves_blacklisted was corrected from null to its default, []. 
+[23Feb2025 00:37:46.512] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.logs_max_count was corrected from null to its default, 100. 
+[23Feb2025 00:37:46.514] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.tree_breaking was corrected from null to its default, true. 
+[23Feb2025 00:37:46.515] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.leaves_breaking was corrected from null to its default, true. 
+[23Feb2025 00:37:46.517] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.leaves_breaking_force_radius was corrected from null to its default, 0. 
+[23Feb2025 00:37:46.519] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.minimum_leaves_around_required was corrected from null to its default, 1. 
+[23Feb2025 00:37:46.521] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.allow_mixed_logs was corrected from null to its default, false. 
+[23Feb2025 00:37:46.523] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.break_nether_tree_warts was corrected from null to its default, true. 
+[23Feb2025 00:37:46.524] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.search_around_radius was corrected from null to its default, -1. 
+[23Feb2025 00:37:46.527] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.adjacent_blocks_whitelisted was corrected from null to its default, []. 
+[23Feb2025 00:37:46.529] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.adjacent_stop_mode was corrected from null to its default, STOP_ALL. 
+[23Feb2025 00:37:46.536] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:37:46.536] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.ignore_tools was corrected from null to its default, false. 
+[23Feb2025 00:37:46.537] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.whitelisted was corrected from null to its default, []. 
+[23Feb2025 00:37:46.537] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.blacklisted was corrected from null to its default, []. 
+[23Feb2025 00:37:46.538] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.damage_multiplicand was corrected from null to its default, 1. 
+[23Feb2025 00:37:46.538] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.speed_multiplicand was corrected from null to its default, 0.0. 
+[23Feb2025 00:37:46.539] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.preserve was corrected from null to its default, false. 
+[23Feb2025 00:37:46.541] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key reverse_sneaking was corrected from null to its default, false. 
+[23Feb2025 00:37:46.544] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key break_in_creative was corrected from null to its default, false. 
+[23Feb2025 00:37:46.555] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/MS-2.0/servidor_minecraft/config/usefulbackpacks-common.toml is not correct. Correcting
+[23Feb2025 00:37:46.555] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:37:46.556] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.allowStackingBackpacks was corrected from null to its default, true. 
+[23Feb2025 00:37:46.571] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/MS-2.0/servidor_minecraft/config/artifacts-common.toml is not correct. Correcting
+[23Feb2025 00:37:46.572] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key artifact_rarity was corrected from null to its default, 1.0. 
+[23Feb2025 00:37:46.573] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key campsite was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:37:46.574] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key campsite.biome_blacklist was corrected from null to its default, [minecraft:void, undergarden:*, the_bumblezone:*, twilightforest:*]. 
+[23Feb2025 00:37:46.575] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key campsite.rarity was corrected from null to its default, 12. 
+[23Feb2025 00:37:46.575] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key campsite.min_y was corrected from null to its default, 1. 
+[23Feb2025 00:37:46.576] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key campsite.max_y was corrected from null to its default, 45. 
+[23Feb2025 00:37:46.578] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key campsite.mimic_chance was corrected from null to its default, 0.3. 
+[23Feb2025 00:37:46.579] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key campsite.ore_chance was corrected from null to its default, 0.25. 
+[23Feb2025 00:37:46.580] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key campsite.use_modded_chests was corrected from null to its default, true. 
+[23Feb2025 00:37:46.628] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[23Feb2025 00:37:46.674] [modloading-worker-0/INFO] [Pixelmon TCG/]: Loading TCG version 9.1.12
+[23Feb2025 00:37:46.764] [modloading-worker-1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Registering forge reset packet
+[23Feb2025 00:37:46.777] [modloading-worker-1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Registered forge reset packet
+[23Feb2025 00:37:46.778] [modloading-worker-1/INFO] [Pixelmon/]: Loading Pixelmon version 9.1.12
+[23Feb2025 00:37:47.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 1.12.1.103 Target: null
+[23Feb2025 00:37:47.739] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/RakSrinaNa/FallingTree/1.16.5/update.json
+[23Feb2025 00:37:47.863] [modloading-worker-0/INFO] [Pixelmon TCG/]: Initializing Pixelmon TCG v9.1.12
+[23Feb2025 00:37:47.900] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+[23Feb2025 00:37:47.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23Feb2025 00:37:48.055] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[23Feb2025 00:37:48.056] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[23Feb2025 00:37:48.075] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 3.2.1.342 Target: null
+[23Feb2025 00:37:48.075] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
+[23Feb2025 00:37:48.367] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pixelmon] Found status: OUTDATED Current: 9.1.12 Target: 9.1.13
+[23Feb2025 00:37:48.367] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tcg] Starting version check at https://reforged.gg/forge/update.json
+[23Feb2025 00:37:48.461] [modloading-worker-1/INFO] [Pixelmon/]: Loaded Advancements
+[23Feb2025 00:37:48.508] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tcg] Found status: OUTDATED Current: 9.1.12 Target: 9.1.13
+[23Feb2025 00:37:48.561] [modloading-worker-1/INFO] [Pixelmon/]: Started the async storage scheduler.
+[23Feb2025 00:37:56.776] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23Feb2025 00:37:58.039] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [spectate, ] and [spectate, target] with inputs: [words with spaces, "and symbols", word]
+[23Feb2025 00:37:58.044] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [spectate, target] and [spectate, ] with inputs: [Player, 0123, @e, @e[type=foo], dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23Feb2025 00:37:58.064] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23Feb2025 00:37:58.071] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23Feb2025 00:37:58.079] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23Feb2025 00:37:58.092] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23Feb2025 00:37:58.099] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23Feb2025 00:37:58.713] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, useful_backpacks-1.16.5-1.12.1.103.jar, memoryleakfix-forge-pre1.17-1.1.5.jar, FallingTree-1.16.5-2.11.7.jar, forge-1.16.5-36.2.42-universal.jar, u_team_core-forge-1.16.5-3.2.1.342.jar, expandability-2.0.1-forge.jar, curios-forge-1.16.5-4.1.0.0.jar, ferritecore-2.1.1-forge.jar, Pixelmon-1.16.5-9.1.13-universal.jar, jei-1.16.5-7.8.0.1013.jar, Artifacts-1.16.5-2.10.5.jar
+[23Feb2025 00:38:06.213] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 8 recipes
+[23Feb2025 00:38:07.805] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2008 advancements
+[23Feb2025 00:38:13.042] [Worker-Main-2/INFO] [Pixelmon/]: Registering Better Spawner.
+[23Feb2025 00:38:13.472] [Worker-Main-2/INFO] [Pixelmon/]: Registering trades.
+[23Feb2025 00:38:13.662] [Worker-Main-2/INFO] [Pixelmon/]: Registering shop items.
+[23Feb2025 00:38:20.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[23Feb2025 00:38:20.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[23Feb2025 00:38:20.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[23Feb2025 00:38:20.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[23Feb2025 00:38:21.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[23Feb2025 00:38:21.378] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[23Feb2025 00:38:21.633] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23Feb2025 00:38:21.633] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[23Feb2025 00:38:21.633] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23Feb2025 00:38:21.633] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[23Feb2025 00:38:21.682] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/usefulbackpacks-server.toml is not correct. Correcting
+[23Feb2025 00:38:21.684] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.685] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.shareAllNBTData was corrected from null to its default, true. 
+[23Feb2025 00:38:21.692] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[23Feb2025 00:38:21.694] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.696] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[23Feb2025 00:38:21.697] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringTileEntities was corrected from null to its default, false. 
+[23Feb2025 00:38:21.698] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[23Feb2025 00:38:21.699] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[23Feb2025 00:38:21.700] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[23Feb2025 00:38:21.701] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.logCascadingWorldGeneration was corrected from null to its default, true. 
+[23Feb2025 00:38:21.702] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixVanillaCascading was corrected from null to its default, false. 
+[23Feb2025 00:38:21.703] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.dimensionUnloadQueueDelay was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.705] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.treatEmptyTagsAsAir was corrected from null to its default, false. 
+[23Feb2025 00:38:21.706] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixAdvancementLoading was corrected from null to its default, true. 
+[23Feb2025 00:38:21.720] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/curios-server.toml is not correct. Correcting
+[23Feb2025 00:38:21.723] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key curiosSettings was corrected from null to its default, []. 
+[23Feb2025 00:38:21.752] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/jei-server.toml is not correct. Correcting
+[23Feb2025 00:38:21.754] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.755] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForOp was corrected from null to its default, true. 
+[23Feb2025 00:38:21.756] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForCreative was corrected from null to its default, true. 
+[23Feb2025 00:38:21.762] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForGive was corrected from null to its default, false. 
+[23Feb2025 00:38:21.767] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/artifacts-server.toml is not correct. Correcting
+[23Feb2025 00:38:21.768] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.769] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.cosmetics was corrected from null to its default, []. 
+[23Feb2025 00:38:21.770] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.antidote_vessel was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.771] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.antidote_vessel.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.771] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.antidote_vessel.negative_effects was corrected from null to its default, [minecraft:slowness, minecraft:mining_fatigue, minecraft:nausea, minecraft:blindness, minecraft:hunger, minecraft:weakness, minecraft:poison, minecraft:wither, minecraft:levitation]. 
+[23Feb2025 00:38:21.772] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.antidote_vessel.max_effect_duration was corrected from null to its default, 120. 
+[23Feb2025 00:38:21.772] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.aqua_dashers was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.773] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.aqua_dashers.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.775] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.bunny_hoppers was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.775] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.bunny_hoppers.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.776] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.bunny_hoppers.should_cancel_fall_damage was corrected from null to its default, true. 
+[23Feb2025 00:38:21.777] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.bunny_hoppers.jump_boost_level was corrected from null to its default, 2. 
+[23Feb2025 00:38:21.777] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.charm_of_sinking was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.778] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.charm_of_sinking.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.780] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.cloud_in_a_bottle was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.780] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.cloud_in_a_bottle.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.781] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.cloud_in_a_bottle.sprint_jump_height_multiplier was corrected from null to its default, 1.5. 
+[23Feb2025 00:38:21.782] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.cloud_in_a_bottle.sprint_jump_distance_multiplier was corrected from null to its default, 0.5. 
+[23Feb2025 00:38:21.782] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.cross_necklace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.783] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.cross_necklace.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.785] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.cross_necklace.invincibility_bonus was corrected from null to its default, 20. 
+[23Feb2025 00:38:21.786] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.crystal_heart was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.787] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.crystal_heart.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.787] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.crystal_heart.health_bonus was corrected from null to its default, 10. 
+[23Feb2025 00:38:21.788] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.digging_claws was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.788] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.digging_claws.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.790] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.digging_claws.mining_speed_bonus was corrected from null to its default, 3.2. 
+[23Feb2025 00:38:21.790] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.digging_claws.harvest_level was corrected from null to its default, 2. 
+[23Feb2025 00:38:21.791] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.digging_claws.tool_types was corrected from null to its default, [*]. 
+[23Feb2025 00:38:21.792] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.eternal_steak was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.792] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.eternal_steak.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.793] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.eternal_steak.cooldown was corrected from null to its default, 300. 
+[23Feb2025 00:38:21.794] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.eternal_steak.use_duration was corrected from null to its default, 24. 
+[23Feb2025 00:38:21.795] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.everlasting_beef was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.796] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.everlasting_beef.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.797] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.everlasting_beef.cooldown was corrected from null to its default, 300. 
+[23Feb2025 00:38:21.797] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.everlasting_beef.use_duration was corrected from null to its default, 24. 
+[23Feb2025 00:38:21.798] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.feral_claws was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.800] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.feral_claws.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.800] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.feral_claws.attack_speed_bonus was corrected from null to its default, 0.75. 
+[23Feb2025 00:38:21.801] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.fire_gauntlet was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.801] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.fire_gauntlet.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.802] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.fire_gauntlet.fire_duration was corrected from null to its default, 8. 
+[23Feb2025 00:38:21.802] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.flame_pendant was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.803] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.flame_pendant.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.805] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.flame_pendant.strike_chance was corrected from null to its default, 0.4. 
+[23Feb2025 00:38:21.805] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.flame_pendant.fire_duration was corrected from null to its default, 10. 
+[23Feb2025 00:38:21.806] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.flippers was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.806] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.flippers.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.807] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.flippers.swim_speed_bonus was corrected from null to its default, 1.0. 
+[23Feb2025 00:38:21.808] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.golden_hook was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.808] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.golden_hook.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.810] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.golden_hook.tracked_entities was corrected from null to its default, 25. 
+[23Feb2025 00:38:21.810] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.golden_hook.maximum_kill_ratio was corrected from null to its default, 0.5. 
+[23Feb2025 00:38:21.811] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.golden_hook.max_experience_multiplier was corrected from null to its default, 5.0. 
+[23Feb2025 00:38:21.812] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.golden_hook.min_experience_multiplier was corrected from null to its default, 0.0. 
+[23Feb2025 00:38:21.812] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.golden_hook.max_experience was corrected from null to its default, 50. 
+[23Feb2025 00:38:21.813] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.helium_flamingo was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.813] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.helium_flamingo.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.815] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.helium_flamingo.max_flight_time was corrected from null to its default, 150. 
+[23Feb2025 00:38:21.815] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.helium_flamingo.recharge_time was corrected from null to its default, 300. 
+[23Feb2025 00:38:21.816] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.kitty_slippers was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.817] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.kitty_slippers.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.817] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.lucky_scarf was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.818] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.lucky_scarf.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.819] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.lucky_scarf.fortune_bonus was corrected from null to its default, 1. 
+[23Feb2025 00:38:21.820] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.night_vision_goggles was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.821] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.night_vision_goggles.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.821] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.novelty_drinking_hat was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.822] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.novelty_drinking_hat.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.822] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.novelty_drinking_hat.drinking_duration_multiplier was corrected from null to its default, 0.25. 
+[23Feb2025 00:38:21.824] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.novelty_drinking_hat.enable_fast_eating was corrected from null to its default, false. 
+[23Feb2025 00:38:21.825] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.obsidian_skull was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.826] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.obsidian_skull.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.826] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.obsidian_skull.cooldown was corrected from null to its default, 1200. 
+[23Feb2025 00:38:21.827] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.obsidian_skull.fire_resistance_duration was corrected from null to its default, 600. 
+[23Feb2025 00:38:21.827] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.panic_necklace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.828] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.panic_necklace.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.829] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.panic_necklace.speed_level was corrected from null to its default, 1. 
+[23Feb2025 00:38:21.831] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.panic_necklace.speed_duration was corrected from null to its default, 160. 
+[23Feb2025 00:38:21.833] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.plastic_drinking_hat was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.833] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.plastic_drinking_hat.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.835] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.plastic_drinking_hat.drinking_duration_multiplier was corrected from null to its default, 0.25. 
+[23Feb2025 00:38:21.835] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.plastic_drinking_hat.enable_fast_eating was corrected from null to its default, false. 
+[23Feb2025 00:38:21.836] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.pocket_piston was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.836] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.pocket_piston.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.837] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.pocket_piston.knockback_bonus was corrected from null to its default, 1.5. 
+[23Feb2025 00:38:21.838] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.power_glove was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.838] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.power_glove.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.840] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.power_glove.attack_damage_bonus was corrected from null to its default, 4. 
+[23Feb2025 00:38:21.840] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.running_shoes was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.841] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.running_shoes.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.842] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.running_shoes.speed_multiplier was corrected from null to its default, 0.4. 
+[23Feb2025 00:38:21.842] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.scarf_of_invisibility was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.843] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.scarf_of_invisibility.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.845] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.shock_pendant was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.845] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.shock_pendant.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.846] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.shock_pendant.strike_chance was corrected from null to its default, 0.25. 
+[23Feb2025 00:38:21.847] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.snorkel was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.847] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.snorkel.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.848] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.steadfast_spikes was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.850] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.steadfast_spikes.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.850] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.superstitious_hat was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.851] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.superstitious_hat.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.851] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.superstitious_hat.looting_bonus was corrected from null to its default, 1. 
+[23Feb2025 00:38:21.852] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.thorn_pendant was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.860] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.thorn_pendant.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.862] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.thorn_pendant.strike_chance was corrected from null to its default, 0.5. 
+[23Feb2025 00:38:21.862] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.thorn_pendant.min_damage was corrected from null to its default, 2. 
+[23Feb2025 00:38:21.863] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.thorn_pendant.max_damage was corrected from null to its default, 6. 
+[23Feb2025 00:38:21.864] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.umbrella was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.864] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.umbrella.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.865] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.umbrella.is_shield was corrected from null to its default, true. 
+[23Feb2025 00:38:21.865] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.universal_attractor was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.866] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.universal_attractor.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.868] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.universal_attractor.range was corrected from null to its default, 5. 
+[23Feb2025 00:38:21.868] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.universal_attractor.motionMultiplier was corrected from null to its default, 0.6. 
+[23Feb2025 00:38:21.869] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.universal_attractor.cooldown was corrected from null to its default, 200. 
+[23Feb2025 00:38:21.869] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.vampiric_glove was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.870] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.vampiric_glove.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.871] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.vampiric_glove.absorption_ratio was corrected from null to its default, 0.2. 
+[23Feb2025 00:38:21.871] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.vampiric_glove.max_health_absorbed was corrected from null to its default, 6. 
+[23Feb2025 00:38:21.873] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.villager_hat was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.873] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.villager_hat.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.874] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.villager_hat.reputation_bonus was corrected from null to its default, 100. 
+[23Feb2025 00:38:21.875] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.whoopee_cushion was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23Feb2025 00:38:21.875] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.whoopee_cushion.durability was corrected from null to its default, 0. 
+[23Feb2025 00:38:21.876] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.whoopee_cushion.flatulence was corrected from null to its default, 0.125. 
+[23Feb2025 00:38:21.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[23Feb2025 00:38:34.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[23Feb2025 00:38:35.045] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Feb2025 00:38:36.383] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Feb2025 00:38:36.418] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Feb2025 00:38:36.459] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Feb2025 00:38:36.819] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Feb2025 00:38:37.313] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Feb2025 00:38:37.824] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Feb2025 00:38:38.331] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Feb2025 00:38:38.935] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Feb2025 00:38:39.340] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Feb2025 00:38:39.961] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[23Feb2025 00:38:40.005] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=south,multipos=base] but failed at location BlockPos{x=12, y=84, z=129}
+[23Feb2025 00:38:40.006] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=south,multipos=top] but failed at location BlockPos{x=12, y=85, z=129}
+[23Feb2025 00:38:40.523] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[23Feb2025 00:38:40.840] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 2%
+[23Feb2025 00:38:41.426] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 2%
+[23Feb2025 00:38:41.812] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 2%
+[23Feb2025 00:38:41.814] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_rug}[facing=west,multipos=base] but failed at location BlockPos{x=18, y=79, z=125}
+[23Feb2025 00:38:41.814] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_vending_machine}[facing=north,multipos=top] but failed at location BlockPos{x=16, y=79, z=123}
+[23Feb2025 00:38:41.815] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_rug}[facing=north,multipos=bottom] but failed at location BlockPos{x=18, y=79, z=124}
+[23Feb2025 00:38:42.344] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 3%
+[23Feb2025 00:38:42.346] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=north,multipos=base] but failed at location BlockPos{x=12, y=84, z=123}
+[23Feb2025 00:38:42.346] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=north,multipos=top] but failed at location BlockPos{x=12, y=85, z=123}
+[23Feb2025 00:38:42.346] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_folding_chair}[facing=south] but failed at location BlockPos{x=13, y=83, z=123}
+[23Feb2025 00:38:42.346] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_folding_chair}[facing=east] but failed at location BlockPos{x=12, y=83, z=124}
+[23Feb2025 00:38:42.347] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_folding_chair}[facing=west] but failed at location BlockPos{x=14, y=83, z=124}
+[23Feb2025 00:38:42.347] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_folding_chair}[facing=north] but failed at location BlockPos{x=13, y=83, z=125}
+[23Feb2025 00:38:42.347] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_vending_machine}[facing=north,multipos=top] but failed at location BlockPos{x=12, y=79, z=123}
+[23Feb2025 00:38:42.348] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_vending_machine}[facing=north,multipos=top] but failed at location BlockPos{x=14, y=79, z=123}
+[23Feb2025 00:38:42.348] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=south,multipos=base] but failed at location BlockPos{x=15, y=78, z=126}
+[23Feb2025 00:38:42.348] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=west,multipos=bottom] but failed at location BlockPos{x=14, y=78, z=126}
+[23Feb2025 00:38:42.460] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=west,multipos=bottom] but failed at location BlockPos{x=-6, y=78, z=121}
+[23Feb2025 00:38:42.465] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=north,multipos=top] but failed at location BlockPos{x=-5, y=79, z=121}
+[23Feb2025 00:38:42.465] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_pc}[facing=west,multipos=top] but failed at location BlockPos{x=-10, y=79, z=126}
+[23Feb2025 00:38:42.466] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=west,multipos=top] but failed at location BlockPos{x=-6, y=79, z=121}
+[23Feb2025 00:38:42.466] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=east,multipos=bottom] but failed at location BlockPos{x=-4, y=78, z=121}
+[23Feb2025 00:38:42.466] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=north,multipos=base] but failed at location BlockPos{x=-7, y=78, z=124}
+[23Feb2025 00:38:42.467] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=east,multipos=top] but failed at location BlockPos{x=-4, y=79, z=121}
+[23Feb2025 00:38:42.467] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=east,multipos=bottom] but failed at location BlockPos{x=-6, y=78, z=124}
+[23Feb2025 00:38:42.468] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_cushion_chair}[facing=east] but failed at location BlockPos{x=-6, y=78, z=127}
+[23Feb2025 00:38:42.468] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_cushion_chair}[facing=east] but failed at location BlockPos{x=-7, y=78, z=127}
+[23Feb2025 00:38:42.468] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_cushion_chair}[facing=east] but failed at location BlockPos{x=-5, y=78, z=127}
+[23Feb2025 00:38:42.732] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=south,multipos=base,on=false] but failed at location BlockPos{x=16, y=83, z=128}
+[23Feb2025 00:38:42.733] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=south,multipos=top,on=true] but failed at location BlockPos{x=16, y=84, z=128}
+[23Feb2025 00:38:42.815] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 3%
+[23Feb2025 00:38:43.322] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 4%
+[23Feb2025 00:38:43.854] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 5%
+[23Feb2025 00:38:44.249] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cooking_pot}[facing=east,multipos=top] but failed at location BlockPos{x=44, y=71, z=123}
+[23Feb2025 00:38:44.340] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 6%
+[23Feb2025 00:38:44.892] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 6%
+[23Feb2025 00:38:45.013] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[23Feb2025 00:38:45.360] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 6%
+[23Feb2025 00:38:45.480] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[23Feb2025 00:38:45.729] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:pink_pc}[facing=north,multipos=top] but failed at location BlockPos{x=35, y=76, z=144}
+[23Feb2025 00:38:45.810] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 8%
+[23Feb2025 00:38:46.327] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 9%
+[23Feb2025 00:38:46.814] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[23Feb2025 00:38:47.322] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[23Feb2025 00:38:47.864] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 11%
+[23Feb2025 00:38:48.340] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 12%
+[23Feb2025 00:38:48.865] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 13%
+[23Feb2025 00:38:49.224] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[23Feb2025 00:38:49.357] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 14%
+[23Feb2025 00:38:49.825] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 15%
+[23Feb2025 00:38:50.312] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 16%
+[23Feb2025 00:38:50.437] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[23Feb2025 00:38:50.821] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 17%
+[23Feb2025 00:38:51.317] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 17%
+[23Feb2025 00:38:51.842] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 19%
+[23Feb2025 00:38:51.890] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[23Feb2025 00:38:52.362] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 20%
+[23Feb2025 00:38:52.816] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 20%
+[23Feb2025 00:38:53.367] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 22%
+[23Feb2025 00:38:53.849] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 23%
+[23Feb2025 00:38:54.311] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 24%
+[23Feb2025 00:38:54.829] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 25%
+[23Feb2025 00:38:55.312] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 26%
+[23Feb2025 00:38:55.870] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 27%
+[23Feb2025 00:38:56.353] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 28%
+[23Feb2025 00:38:56.843] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 30%
+[23Feb2025 00:38:57.312] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 31%
+[23Feb2025 00:38:57.848] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 32%
+[23Feb2025 00:38:58.385] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 33%
+[23Feb2025 00:38:58.887] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 33%
+[23Feb2025 00:38:59.310] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 34%
+[23Feb2025 00:38:59.826] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 35%
+[23Feb2025 00:39:00.317] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 37%
+[23Feb2025 00:39:00.834] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 39%
+[23Feb2025 00:39:01.306] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cooking_pot}[facing=east,multipos=top] but failed at location BlockPos{x=74, y=67, z=32}
+[23Feb2025 00:39:01.307] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cooking_pot}[facing=south,multipos=top] but failed at location BlockPos{x=73, y=67, z=40}
+[23Feb2025 00:39:01.331] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 40%
+[23Feb2025 00:39:01.822] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 41%
+[23Feb2025 00:39:02.315] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 43%
+[23Feb2025 00:39:02.810] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 44%
+[23Feb2025 00:39:03.328] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[23Feb2025 00:39:03.812] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 47%
+[23Feb2025 00:39:04.310] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 49%
+[23Feb2025 00:39:04.845] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[23Feb2025 00:39:05.315] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 52%
+[23Feb2025 00:39:05.676] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[23Feb2025 00:39:05.820] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 54%
+[23Feb2025 00:39:06.311] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 56%
+[23Feb2025 00:39:06.810] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 58%
+[23Feb2025 00:39:07.319] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 58%
+[23Feb2025 00:39:07.867] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 61%
+[23Feb2025 00:39:08.309] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 62%
+[23Feb2025 00:39:08.818] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 63%
+[23Feb2025 00:39:09.425] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 65%
+[23Feb2025 00:39:09.811] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 67%
+[23Feb2025 00:39:10.310] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 69%
+[23Feb2025 00:39:10.819] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 71%
+[23Feb2025 00:39:11.315] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 72%
+[23Feb2025 00:39:11.816] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 73%
+[23Feb2025 00:39:12.348] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 74%
+[23Feb2025 00:39:12.822] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 75%
+[23Feb2025 00:39:13.311] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 76%
+[23Feb2025 00:39:13.815] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 77%
+[23Feb2025 00:39:14.313] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 79%
+[23Feb2025 00:39:14.870] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 81%
+[23Feb2025 00:39:15.314] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[23Feb2025 00:39:15.812] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
+[23Feb2025 00:39:16.310] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
+[23Feb2025 00:39:16.817] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 87%
+[23Feb2025 00:39:17.316] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
+[23Feb2025 00:39:17.814] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 90%
+[23Feb2025 00:39:18.375] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 92%
+[23Feb2025 00:39:18.831] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
+[23Feb2025 00:39:19.355] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
+[23Feb2025 00:39:19.843] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 97%
+[23Feb2025 00:39:20.333] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 99%
+[23Feb2025 00:39:20.337] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 45528 ms
+[23Feb2025 00:39:20.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (58.680s)! For help, type "help"
+[23Feb2025 00:39:20.470] [Server thread/INFO] [Pixelmon/]: Datapacks found: vanilla,mod:usefulbackpacks,mod:memoryleakfix,mod:fallingtree,mod:forge,mod:uteamcore,mod:expandability,mod:curios,mod:ferritecore,mod:pixelmon,mod:jei,mod:artifacts
+[23Feb2025 00:39:28.509] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7d2ab2e
+[23Feb2025 00:39:28.550] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Och8Z[/127.185.47.129:39383] logged in with entity id 110 at (-5.5, 75.0, 135.5)
+[23Feb2025 00:39:28.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z joined the game
+[23Feb2025 00:39:30.004] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@69fac1d4
+[23Feb2025 00:39:30.015] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Peter_rola14[/127.227.82.151:47091] logged in with entity id 111 at (7.5, 76.0, 132.5)
+[23Feb2025 00:39:30.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Peter_rola14 joined the game
+[23Feb2025 00:39:40.898] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [usefulbackpacks:curios,tcg:main,uteamcore:network,artifacts:main,curios:main,pixelmon:main] rejected their client side version number
+[23Feb2025 00:39:40.902] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[23Feb2025 00:39:40.943] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@4af164c1[id=<null>,name=alejandro946,properties={},legacy=false] (/127.160.163.203:50251) lost connection: Connection closed - mismatched mod channel list
+[23Feb2025 00:39:44.678] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [usefulbackpacks:curios,tcg:main,uteamcore:network,artifacts:main,curios:main,pixelmon:main] rejected their client side version number
+[23Feb2025 00:39:44.679] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[23Feb2025 00:39:44.685] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@599d2585[id=<null>,name=alejandro946,properties={},legacy=false] (/127.160.163.203:37915) lost connection: Connection closed - mismatched mod channel list
+[23Feb2025 00:40:12.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Peter_rola14 has made the advancement [You picked a starter!]
+[23Feb2025 00:40:15.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z has made the advancement [You picked a starter!]
+[23Feb2025 00:40:50.896] [Server thread/WARN] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Attempting to add a Lambda listener with computed generic type of Event. Are you sure this is what you meant? NOTE : there are complex lambda forms where the generic type information is erased and cannot be recovered at runtime.
+[23Feb2025 00:41:18.576] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@539b2272
+[23Feb2025 00:41:18.584] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: alejandro946[/127.160.163.203:50721] logged in with entity id 239 at (-7.5, 75.0, 133.5)
+[23Feb2025 00:41:18.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: alejandro946 joined the game
+[23Feb2025 00:41:45.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: alejandro946 has made the advancement [You picked a starter!]
+[23Feb2025 00:43:33.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: alejandro946 has made the advancement [Stone Age]
+[23Feb2025 00:43:59.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: alejandro946 has made the advancement [Getting an Upgrade]
+[23Feb2025 00:44:07.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Peter_rola14 has made the advancement [Stone Age]
+[23Feb2025 00:44:23.646] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=north,multipos=base] but failed at location BlockPos{x=420, y=74, z=-139}
+[23Feb2025 00:44:23.650] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=east,multipos=bottom] but failed at location BlockPos{x=421, y=74, z=-139}
+[23Feb2025 00:44:23.749] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Och8Z moved too quickly! 9.790069092207773,-2.5736008785318063,-0.003936296629206026
+[23Feb2025 00:44:23.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3291ms or 65 ticks behind
+[23Feb2025 00:44:24.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made alejandro946 a server operator
+[23Feb2025 00:44:39.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [alejandro946: Applied effect Saturation to 3 targets]
+[23Feb2025 00:44:42.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Peter_rola14 has made the advancement [Getting an Upgrade]
+[23Feb2025 00:44:58.851] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=30, y=69, z=64} BlockPos{x=29, y=68, z=62}
+[23Feb2025 00:45:27.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z has made the advancement [Stone Age]
+[23Feb2025 00:45:46.055] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=south] but failed at location BlockPos{x=418, y=74, z=-145}
+[23Feb2025 00:45:50.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z has made the advancement [Getting an Upgrade]
+[23Feb2025 00:46:04.235] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=436, y=74, z=285}
+[23Feb2025 00:46:21.204] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=south,multipos=bottom,on=true] but failed at location BlockPos{x=319, y=74, z=295}
+[23Feb2025 00:46:21.204] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=north,multipos=top,on=true] but failed at location BlockPos{x=319, y=75, z=293}
+[23Feb2025 00:46:21.204] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:gray_armchair}[facing=east] but failed at location BlockPos{x=317, y=73, z=294}
+[23Feb2025 00:46:21.205] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=north,multipos=bottom,on=true] but failed at location BlockPos{x=319, y=74, z=293}
+[23Feb2025 00:46:21.205] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=east,multipos=top,on=true] but failed at location BlockPos{x=319, y=75, z=294}
+[23Feb2025 00:46:21.205] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=south,multipos=top,on=true] but failed at location BlockPos{x=319, y=75, z=295}
+[23Feb2025 00:46:21.240] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=319, y=73, z=297}
+[23Feb2025 00:46:21.745] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=south,multipos=top,on=true] but failed at location BlockPos{x=440, y=76, z=289}
+[23Feb2025 00:46:21.745] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=south,multipos=base,on=true] but failed at location BlockPos{x=440, y=75, z=289}
+[23Feb2025 00:46:32.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [alejandro946: Gave 1 [Large Backpack] to 3]
+[23Feb2025 00:48:14.923] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:14.924] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:14.938] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:14.939] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:14.939] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:14.949] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:14.968] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:14.969] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:14.969] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:14.986] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:14.986] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:14.991] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:15.004] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:15.005] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:15.005] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:15.006] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:15.006] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:15.007] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 00:48:16.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [alejandro946: Set the world border to 5000.0 blocks wide]
+[23Feb2025 00:48:59.837] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=west] but failed at location BlockPos{x=634, y=55, z=-175}
+[23Feb2025 00:48:59.837] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=south,multipos=bottom] but failed at location BlockPos{x=628, y=55, z=-172}
+[23Feb2025 00:48:59.838] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=east,multipos=base] but failed at location BlockPos{x=628, y=55, z=-173}
+[23Feb2025 00:49:19.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Peter_rola14 has made the advancement [Acquire Hardware]
+[23Feb2025 00:49:25.128] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=north,multipos=top,on=true] but failed at location BlockPos{x=329, y=85, z=315}
+[23Feb2025 00:49:25.129] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:yellow_couch}[facing=south,multipos=bottom] but failed at location BlockPos{x=331, y=83, z=317}
+[23Feb2025 00:49:25.129] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=west,multipos=top,on=true] but failed at location BlockPos{x=329, y=85, z=316}
+[23Feb2025 00:49:25.129] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=south,multipos=top,on=true] but failed at location BlockPos{x=329, y=85, z=317}
+[23Feb2025 00:49:25.130] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:yellow_couch}[facing=north,multipos=bottom] but failed at location BlockPos{x=331, y=83, z=315}
+[23Feb2025 00:49:25.130] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:yellow_couch}[facing=south,multipos=top] but failed at location BlockPos{x=331, y=84, z=317}
+[23Feb2025 00:49:25.130] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=north,multipos=bottom,on=true] but failed at location BlockPos{x=329, y=84, z=315}
+[23Feb2025 00:49:25.131] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:yellow_couch}[facing=north,multipos=top] but failed at location BlockPos{x=331, y=84, z=315}
+[23Feb2025 00:49:25.132] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=south,multipos=bottom,on=true] but failed at location BlockPos{x=329, y=84, z=317}
+[23Feb2025 00:49:25.132] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:yellow_couch}[facing=east,multipos=top] but failed at location BlockPos{x=331, y=84, z=316}
+[23Feb2025 00:49:26.526] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: alejandro946 moved too quickly! -6.516943524277657,1.1661092609382138,7.88468830111772
+[23Feb2025 00:49:26.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2844ms or 56 ticks behind
+[23Feb2025 00:49:26.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Peter_rola14 has made the advancement [Isn't It Iron Pick]
+[23Feb2025 00:49:34.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: alejandro946 has made the advancement [Hot Stuff]
+[23Feb2025 00:50:45.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Peter_rola14 has made the advancement [It's a Mystery!]
+[23Feb2025 00:50:45.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Peter_rola14 has made the advancement [Three to get Ready]
+[23Feb2025 00:50:45.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Peter_rola14 has made the advancement [A Pokémon of a different color.]
+[23Feb2025 00:50:45.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Peter_rola14 has made the advancement [What an Achieveement!]
+[23Feb2025 00:51:49.537] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=east] but failed at location BlockPos{x=416, y=63, z=-556}
+[23Feb2025 00:51:49.537] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=west,multipos=base] but failed at location BlockPos{x=422, y=63, z=-558}
+[23Feb2025 00:51:49.537] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=north,multipos=bottom] but failed at location BlockPos{x=422, y=63, z=-559}
+[23Feb2025 00:52:06.336] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:pink_pc}[facing=south,multipos=top] but failed at location BlockPos{x=610, y=69, z=-374}
+[23Feb2025 00:52:47.815] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=west] but failed at location BlockPos{x=410, y=61, z=-747}
+[23Feb2025 00:52:47.815] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=south,multipos=bottom] but failed at location BlockPos{x=404, y=61, z=-744}
+[23Feb2025 00:52:47.816] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=east,multipos=base] but failed at location BlockPos{x=404, y=61, z=-745}
+[23Feb2025 00:53:11.955] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=south,multipos=bottom] but failed at location BlockPos{x=618, y=66, z=-335}
+[23Feb2025 00:53:11.956] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=south,multipos=top] but failed at location BlockPos{x=618, y=67, z=-335}
+[23Feb2025 00:53:11.956] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=west,multipos=base] but failed at location BlockPos{x=621, y=66, z=-334}
+[23Feb2025 00:53:11.958] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=north,multipos=bottom] but failed at location BlockPos{x=621, y=66, z=-335}
+[23Feb2025 00:53:11.958] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=west,multipos=top] but failed at location BlockPos{x=618, y=67, z=-336}
+[23Feb2025 00:53:11.959] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_pc}[facing=south,multipos=top] but failed at location BlockPos{x=623, y=67, z=-331}
+[23Feb2025 00:53:16.676] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=north,multipos=top,on=true] but failed at location BlockPos{x=610, y=72, z=-348}
+[23Feb2025 00:53:16.677] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=north,multipos=top] but failed at location BlockPos{x=618, y=67, z=-337}
+[23Feb2025 00:53:16.677] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_vending_machine}[facing=south,multipos=top] but failed at location BlockPos{x=612, y=67, z=-343}
+[23Feb2025 00:53:16.677] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_vending_machine}[facing=south,multipos=top] but failed at location BlockPos{x=610, y=67, z=-343}
+[23Feb2025 00:53:16.677] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_vending_machine}[facing=south,multipos=top] but failed at location BlockPos{x=614, y=67, z=-343}
+[23Feb2025 00:53:16.678] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=north,multipos=top] but failed at location BlockPos{x=614, y=73, z=-349}
+[23Feb2025 00:53:16.678] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_folding_chair}[facing=north] but failed at location BlockPos{x=613, y=71, z=-343}
+[23Feb2025 00:53:16.678] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_folding_chair}[facing=west] but failed at location BlockPos{x=614, y=71, z=-344}
+[23Feb2025 00:53:16.679] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=south,multipos=top] but failed at location BlockPos{x=614, y=73, z=-343}
+[23Feb2025 00:53:16.679] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_rug}[facing=east,multipos=base] but failed at location BlockPos{x=608, y=67, z=-345}
+[23Feb2025 00:53:16.679] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_rug}[facing=south,multipos=bottom] but failed at location BlockPos{x=608, y=67, z=-344}
+[23Feb2025 00:53:16.679] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_folding_chair}[facing=east] but failed at location BlockPos{x=612, y=71, z=-344}
+[23Feb2025 00:53:16.680] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_folding_chair}[facing=south] but failed at location BlockPos{x=613, y=71, z=-345}
+[23Feb2025 00:53:16.680] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=north,multipos=base,on=false] but failed at location BlockPos{x=610, y=71, z=-348}
+[23Feb2025 00:53:16.680] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=north,multipos=bottom] but failed at location BlockPos{x=618, y=66, z=-337}
+[23Feb2025 00:53:16.681] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=east,multipos=bottom] but failed at location BlockPos{x=612, y=66, z=-346}
+[23Feb2025 00:53:16.681] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=north,multipos=base] but failed at location BlockPos{x=614, y=72, z=-349}
+[23Feb2025 00:53:16.683] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=south,multipos=base] but failed at location BlockPos{x=614, y=72, z=-343}
+[23Feb2025 00:53:16.683] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=north,multipos=base] but failed at location BlockPos{x=611, y=66, z=-346}
+[23Feb2025 00:53:36.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Peter_rola14 has made the advancement [Sweet Dreams]
+[23Feb2025 00:53:38.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Peter_rola14> zzz
+[23Feb2025 00:53:42.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z has made the advancement [Sweet Dreams]
+[23Feb2025 00:53:44.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: alejandro946 has made the advancement [Sweet Dreams]
+[23Feb2025 00:54:29.172] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Peter_rola14 moved too quickly! -3.1525736438235015,-2.176759275064242,-9.333142768781471
+[23Feb2025 00:54:29.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2658ms or 53 ticks behind
+[23Feb2025 00:55:06.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: alejandro946 has made the advancement [Acquire Hardware]
+[23Feb2025 00:55:09.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: alejandro946 has made the advancement [Isn't It Iron Pick]
+[23Feb2025 00:55:49.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z has made the advancement [Acquire Hardware]
+[23Feb2025 00:55:57.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z has made the advancement [Isn't It Iron Pick]
+[23Feb2025 00:57:11.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z has made the advancement [Only took me four tries *Fist pump*]
+[23Feb2025 00:59:01.555] [Worker-Main-2/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=683, y=77, z=-1409}
+[23Feb2025 00:59:01.556] [Worker-Main-2/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=683, y=77, z=-1409}
+[23Feb2025 00:59:18.642] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_cushion_chair}[facing=east] but failed at location BlockPos{x=667, y=72, z=-1393}
+[23Feb2025 00:59:18.642] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_cushion_chair}[facing=east] but failed at location BlockPos{x=666, y=72, z=-1393}
+[23Feb2025 00:59:18.643] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_cushion_chair}[facing=east] but failed at location BlockPos{x=665, y=72, z=-1393}
+[23Feb2025 00:59:18.643] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=west,multipos=bottom] but failed at location BlockPos{x=666, y=72, z=-1399}
+[23Feb2025 00:59:18.643] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=north,multipos=top] but failed at location BlockPos{x=667, y=73, z=-1399}
+[23Feb2025 00:59:18.643] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_pc}[facing=west,multipos=top] but failed at location BlockPos{x=662, y=73, z=-1394}
+[23Feb2025 00:59:18.644] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=west,multipos=top] but failed at location BlockPos{x=666, y=73, z=-1399}
+[23Feb2025 00:59:18.644] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=east,multipos=bottom] but failed at location BlockPos{x=666, y=72, z=-1396}
+[23Feb2025 00:59:18.644] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=east,multipos=bottom] but failed at location BlockPos{x=668, y=72, z=-1399}
+[23Feb2025 00:59:18.644] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=north,multipos=base] but failed at location BlockPos{x=665, y=72, z=-1396}
+[23Feb2025 00:59:18.644] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=east,multipos=top] but failed at location BlockPos{x=668, y=73, z=-1399}
+[23Feb2025 00:59:21.949] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_rug}[facing=west,multipos=bottom] but failed at location BlockPos{x=679, y=73, z=-1411}
+[23Feb2025 00:59:21.949] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=east,multipos=base,on=false] but failed at location BlockPos{x=683, y=77, z=-1409}
+[23Feb2025 00:59:21.950] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_vending_machine}[facing=west,multipos=top] but failed at location BlockPos{x=678, y=73, z=-1409}
+[23Feb2025 00:59:21.950] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_rug}[facing=south,multipos=base] but failed at location BlockPos{x=680, y=73, z=-1411}
+[23Feb2025 00:59:21.950] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=east,multipos=top,on=false] but failed at location BlockPos{x=683, y=78, z=-1409}
+[23Feb2025 00:59:22.092] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=south,multipos=bottom] but failed at location BlockPos{x=681, y=72, z=-1407}
+[23Feb2025 00:59:22.093] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=east,multipos=base] but failed at location BlockPos{x=684, y=77, z=-1405}
+[23Feb2025 00:59:22.093] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=east,multipos=base] but failed at location BlockPos{x=681, y=72, z=-1408}
+[23Feb2025 00:59:22.093] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=east,multipos=top] but failed at location BlockPos{x=684, y=78, z=-1405}
+[23Feb2025 00:59:22.093] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_vending_machine}[facing=west,multipos=top] but failed at location BlockPos{x=678, y=73, z=-1405}
+[23Feb2025 00:59:22.094] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=east,multipos=top] but failed at location BlockPos{x=684, y=79, z=-1405}
+[23Feb2025 00:59:22.094] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_folding_chair}[facing=east] but failed at location BlockPos{x=678, y=77, z=-1406}
+[23Feb2025 00:59:22.094] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_folding_chair}[facing=south] but failed at location BlockPos{x=679, y=77, z=-1407}
+[23Feb2025 00:59:22.094] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=west,multipos=top] but failed at location BlockPos{x=678, y=78, z=-1405}
+[23Feb2025 00:59:22.094] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=west,multipos=top] but failed at location BlockPos{x=678, y=79, z=-1405}
+[23Feb2025 00:59:22.095] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_vending_machine}[facing=west,multipos=top] but failed at location BlockPos{x=678, y=73, z=-1407}
+[23Feb2025 00:59:22.095] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_folding_chair}[facing=north] but failed at location BlockPos{x=679, y=77, z=-1405}
+[23Feb2025 00:59:22.095] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_folding_chair}[facing=west] but failed at location BlockPos{x=680, y=77, z=-1406}
+[23Feb2025 00:59:22.095] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=west,multipos=base] but failed at location BlockPos{x=678, y=77, z=-1405}
+[23Feb2025 00:59:25.660] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:pink_pc}[facing=east,multipos=top] but failed at location BlockPos{x=697, y=71, z=-1442}
+[23Feb2025 00:59:25.661] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_chair}[facing=west] but failed at location BlockPos{x=694, y=70, z=-1443}
+[23Feb2025 00:59:25.791] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:fossil_display}[facing=west,multipos=top] but failed at location BlockPos{x=703, y=75, z=-1340}
+[23Feb2025 00:59:25.792] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:fan}[facing=east] but failed at location BlockPos{x=703, y=77, z=-1337}
+[23Feb2025 00:59:25.794] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_cushion_chair}[facing=east] but failed at location BlockPos{x=703, y=74, z=-1339}
+[23Feb2025 00:59:25.794] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_armchair}[facing=south] but failed at location BlockPos{x=703, y=79, z=-1340}
+[23Feb2025 00:59:28.937] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_gray_rug}[facing=south,multipos=base] but failed at location BlockPos{x=708, y=74, z=-1338}
+[23Feb2025 00:59:28.938] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:gray_rug}[facing=north,multipos=base] but failed at location BlockPos{x=707, y=75, z=-1336}
+[23Feb2025 00:59:28.939] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:gray_rug}[facing=east,multipos=bottom] but failed at location BlockPos{x=708, y=75, z=-1336}
+[23Feb2025 00:59:28.939] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_cushion_chair}[facing=north] but failed at location BlockPos{x=704, y=74, z=-1338}
+[23Feb2025 00:59:28.939] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_cushion_chair}[facing=north] but failed at location BlockPos{x=705, y=74, z=-1338}
+[23Feb2025 00:59:28.940] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_cushion_chair}[facing=west] but failed at location BlockPos{x=706, y=74, z=-1339}
+[23Feb2025 00:59:28.940] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_gray_rug}[facing=west,multipos=bottom] but failed at location BlockPos{x=707, y=74, z=-1338}
+[23Feb2025 00:59:28.940] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_cushion_chair}[facing=south] but failed at location BlockPos{x=704, y=74, z=-1340}
+[23Feb2025 00:59:28.941] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_rug}[facing=north,multipos=base] but failed at location BlockPos{x=704, y=75, z=-1339}
+[23Feb2025 00:59:28.941] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_cushion_chair}[facing=south] but failed at location BlockPos{x=705, y=74, z=-1340}
+[23Feb2025 00:59:28.941] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_rug}[facing=east,multipos=bottom] but failed at location BlockPos{x=705, y=75, z=-1339}
+[23Feb2025 00:59:28.942] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_armchair}[facing=south] but failed at location BlockPos{x=705, y=79, z=-1340}
+[23Feb2025 00:59:32.166] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Och8Z moved too quickly! 7.838393033275679,-0.8322033533667508,-6.9245414804333905
+[23Feb2025 00:59:32.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3040ms or 60 ticks behind
+[23Feb2025 01:00:12.787] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID b08d6296-8a5d-4490-a37c-a2344ec8f046. Existing pixelmon:pixelmon#4385, new: pixelmon:pixelmon#4385
+[23Feb2025 01:00:50.179] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID b08d6296-8a5d-4490-a37c-a2344ec8f046. Existing pixelmon:pixelmon#4385, new: pixelmon:pixelmon#4385
+[23Feb2025 01:01:02.730] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID b08d6296-8a5d-4490-a37c-a2344ec8f046. Existing pixelmon:pixelmon#4385, new: pixelmon:pixelmon#4385
+[23Feb2025 01:05:21.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z has made the advancement [It's a Mystery!]
+[23Feb2025 01:05:21.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z has made the advancement [Got it! Got it! Got it! Got it!]
+[23Feb2025 01:05:21.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z has made the advancement [A Pokémon of a different color.]
+[23Feb2025 01:05:21.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z has made the advancement [What an Achieveement!]
+[23Feb2025 01:06:13.099] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=south] but failed at location BlockPos{x=773, y=79, z=32}
+[23Feb2025 01:06:13.100] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=north,multipos=base] but failed at location BlockPos{x=775, y=79, z=38}
+[23Feb2025 01:06:13.100] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=east,multipos=bottom] but failed at location BlockPos{x=776, y=79, z=38}
+[23Feb2025 01:09:34.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2669ms or 53 ticks behind
+[23Feb2025 01:09:50.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Peter_rola14> 855 -72
+[23Feb2025 01:13:01.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z has made the advancement [Chest Slayer]
+[23Feb2025 01:13:02.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z has made the advancement [Amateur Archaeologist]
+[23Feb2025 01:16:20.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Peter_rola14> 855 -72
+[23Feb2025 01:18:45.494] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=east,multipos=base] but failed at location BlockPos{x=770, y=82, z=211}
+[23Feb2025 01:18:45.495] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=west] but failed at location BlockPos{x=776, y=82, z=209}
+[23Feb2025 01:18:45.496] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=south,multipos=bottom] but failed at location BlockPos{x=770, y=82, z=212}
+[23Feb2025 01:19:16.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [alejandro946: Set own game mode to Creative Mode]
+[23Feb2025 01:19:28.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [alejandro946: Set own game mode to Survival Mode]
+[23Feb2025 01:19:36.991] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Och8Z moved too quickly! -6.270639459002496,-0.7421414341400236,7.831177530472701
+[23Feb2025 01:19:37.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[23Feb2025 01:19:54.377] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 22dae755-f70a-43c0-9ed0-5cfebdbdb218. Existing pixelmon:pixelmon#7604, new: pixelmon:pixelmon#7604
+[23Feb2025 01:20:16.431] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 22dae755-f70a-43c0-9ed0-5cfebdbdb218. Existing pixelmon:pixelmon#7604, new: pixelmon:pixelmon#7604
+[23Feb2025 01:22:08.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z was slain by Mimic
+[23Feb2025 01:23:24.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Peter_rola14 has made the advancement [Catch the Night]
+[23Feb2025 01:23:53.131] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=north] but failed at location BlockPos{x=1014, y=75, z=-569}
+[23Feb2025 01:23:53.132] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=south,multipos=base] but failed at location BlockPos{x=1012, y=75, z=-575}
+[23Feb2025 01:23:53.132] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=west,multipos=bottom] but failed at location BlockPos{x=1011, y=75, z=-575}
+[23Feb2025 01:27:31.278] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: alejandro946 lost connection: Disconnected
+[23Feb2025 01:27:31.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: alejandro946 left the game
+[23Feb2025 01:29:38.054] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=south] but failed at location BlockPos{x=612, y=67, z=240}
+[23Feb2025 01:29:38.055] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=east,multipos=bottom] but failed at location BlockPos{x=615, y=67, z=246}
+[23Feb2025 01:29:38.055] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=north,multipos=base] but failed at location BlockPos{x=614, y=67, z=246}
+[23Feb2025 01:38:30.476] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 9bbc9462-8e93-4d47-aa60-9178be27e052. Existing pixelmon:pixelmon#10046, new: pixelmon:pixelmon#10046
+[23Feb2025 01:38:33.926] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 9bbc9462-8e93-4d47-aa60-9178be27e052. Existing pixelmon:pixelmon#10046, new: pixelmon:pixelmon#10046
+[23Feb2025 02:02:32.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z has made the advancement [Diamonds!]
+[23Feb2025 02:08:09.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Peter_rola14> zzzz
+[23Feb2025 02:08:33.824] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Och8Z lost connection: Disconnected
+[23Feb2025 02:08:33.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z left the game
+[23Feb2025 02:08:41.201] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1738e830
+[23Feb2025 02:08:41.225] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Och8Z[/127.185.47.129:54883] logged in with entity id 12526 at (977.9035194320729, 65.0, 77.20763831131973)
+[23Feb2025 02:08:41.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z joined the game
+[23Feb2025 02:11:25.226] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.226] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.228] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.228] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.255] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.270] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.271] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.271] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.271] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.278] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.279] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.279] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.279] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.301] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.333] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.333] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.333] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.346] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.346] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.346] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.347] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.366] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.366] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.394] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.394] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.394] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.394] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.394] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.394] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.394] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.395] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.395] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.395] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:11:25.395] [Worker-Main-28/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 02:17:11.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Och8Z was slain by Mimic
+[23Feb2025 02:22:19.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Peter_rola14> 855 -72
+[23Feb2025 02:24:15.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Peter_rola14 has made the advancement [Get in the ball little one!]
+[23Feb2025 02:24:24.198] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=west,multipos=base] but failed at location BlockPos{x=1349, y=66, z=211}
+[23Feb2025 02:24:24.199] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=north,multipos=bottom] but failed at location BlockPos{x=1349, y=66, z=210}
+[23Feb2025 02:24:24.344] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=east] but failed at location BlockPos{x=1343, y=66, z=213}
+[23Feb2025 02:24:31.957] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=west] but failed at location BlockPos{x=1575, y=59, z=-1}
+[23Feb2025 02:24:31.958] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=east,multipos=base] but failed at location BlockPos{x=1569, y=59, z=1}
+[23Feb2025 02:24:31.958] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=south,multipos=bottom] but failed at location BlockPos{x=1569, y=59, z=2}
+[23Feb2025 02:30:40.490] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cooking_pot}[facing=west,multipos=top] but failed at location BlockPos{x=1312, y=66, z=279}
+[23Feb2025 02:30:40.490] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cooking_pot}[facing=south,multipos=top] but failed at location BlockPos{x=1320, y=66, z=280}
+[23Feb2025 02:30:57.004] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_chair}[facing=west] but failed at location BlockPos{x=1311, y=67, z=328}
+[23Feb2025 02:30:57.005] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:fan}[facing=north] but failed at location BlockPos{x=1305, y=68, z=334}
+[23Feb2025 02:30:57.006] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_chair}[facing=east] but failed at location BlockPos{x=1310, y=67, z=333}
+[23Feb2025 02:30:57.009] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_chair}[facing=east] but failed at location BlockPos{x=1270, y=70, z=335}
+[23Feb2025 02:30:57.009] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_chair}[facing=west] but failed at location BlockPos{x=1271, y=70, z=330}
+[23Feb2025 02:31:02.131] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:fan}[facing=north] but failed at location BlockPos{x=1265, y=71, z=336}
+[23Feb2025 02:31:02.148] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=west,multipos=top,on=true] but failed at location BlockPos{x=1308, y=73, z=340}
+[23Feb2025 02:31:02.149] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=east,multipos=top] but failed at location BlockPos{x=1310, y=72, z=343}
+[23Feb2025 02:31:02.149] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=west,multipos=bottom] but failed at location BlockPos{x=1308, y=71, z=343}
+[23Feb2025 02:31:02.149] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=south,multipos=top] but failed at location BlockPos{x=1309, y=72, z=343}
+[23Feb2025 02:31:02.149] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=east,multipos=bottom] but failed at location BlockPos{x=1310, y=71, z=343}
+[23Feb2025 02:31:02.149] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=east,multipos=top,on=true] but failed at location BlockPos{x=1310, y=73, z=340}
+[23Feb2025 02:31:02.149] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=west,multipos=bottom,on=true] but failed at location BlockPos{x=1308, y=72, z=340}
+[23Feb2025 02:31:02.149] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=north,multipos=top,on=false] but failed at location BlockPos{x=1309, y=73, z=340}
+[23Feb2025 02:31:02.149] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=west,multipos=top] but failed at location BlockPos{x=1308, y=72, z=343}
+[23Feb2025 02:31:02.150] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=east,multipos=bottom,on=true] but failed at location BlockPos{x=1310, y=72, z=340}
+[23Feb2025 02:31:11.532] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:fan}[facing=east] but failed at location BlockPos{x=1293, y=81, z=378}
+[23Feb2025 02:31:11.532] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_chair}[facing=south] but failed at location BlockPos{x=1294, y=80, z=383}
+[23Feb2025 02:31:15.452] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_chair}[facing=north] but failed at location BlockPos{x=1299, y=80, z=384}
+[23Feb2025 02:31:20.286] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:fan}[facing=north] but failed at location BlockPos{x=1296, y=82, z=424}
+[23Feb2025 02:31:20.287] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_chair}[facing=west] but failed at location BlockPos{x=1302, y=81, z=418}
+[23Feb2025 02:31:20.287] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_chair}[facing=east] but failed at location BlockPos{x=1301, y=81, z=423}
+[23Feb2025 02:32:01.792] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_chair}[facing=south] but failed at location BlockPos{x=1270, y=83, z=393}
+[23Feb2025 02:32:01.792] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=north,multipos=bottom] but failed at location BlockPos{x=1273, y=79, z=395}
+[23Feb2025 02:32:01.793] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=east,multipos=top] but failed at location BlockPos{x=1273, y=80, z=396}
+[23Feb2025 02:32:01.793] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=north,multipos=top] but failed at location BlockPos{x=1273, y=80, z=395}
+[23Feb2025 02:32:01.794] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=south,multipos=bottom] but failed at location BlockPos{x=1273, y=79, z=397}
+[23Feb2025 02:32:01.794] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=south,multipos=top] but failed at location BlockPos{x=1273, y=80, z=397}
+[23Feb2025 02:32:01.794] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_cushion_chair}[facing=east] but failed at location BlockPos{x=1276, y=83, z=394}
+[23Feb2025 02:32:03.964] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=east,multipos=bottom] but failed at location BlockPos{x=1249, y=68, z=425}
+[23Feb2025 02:32:03.964] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_cushion_chair}[facing=south] but failed at location BlockPos{x=1250, y=72, z=428}
+[23Feb2025 02:32:03.964] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=south,multipos=top] but failed at location BlockPos{x=1248, y=69, z=425}
+[23Feb2025 02:32:03.964] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=east,multipos=top] but failed at location BlockPos{x=1249, y=69, z=425}
+[23Feb2025 02:32:03.964] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_chair}[facing=west] but failed at location BlockPos{x=1251, y=72, z=422}
+[23Feb2025 02:32:06.452] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:gray_chair}[facing=north] but failed at location BlockPos{x=1245, y=73, z=356}
+[23Feb2025 02:32:06.494] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_trade_machine}[facing=north,multipos=top] but failed at location BlockPos{x=1237, y=76, z=382}
+[23Feb2025 02:32:06.495] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_trade_machine}[facing=east,multipos=top] but failed at location BlockPos{x=1243, y=76, z=382}
+[23Feb2025 02:32:06.495] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_trade_machine}[facing=north,multipos=top] but failed at location BlockPos{x=1243, y=76, z=381}
+[23Feb2025 02:32:06.495] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_pc}[facing=north,multipos=top] but failed at location BlockPos{x=1242, y=70, z=378}
+[23Feb2025 02:32:06.495] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_trade_machine}[facing=south,multipos=top] but failed at location BlockPos{x=1243, y=76, z=383}
+[23Feb2025 02:32:06.496] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=north,multipos=top] but failed at location BlockPos{x=1233, y=70, z=382}
+[23Feb2025 02:32:06.496] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_trade_machine}[facing=west,multipos=top] but failed at location BlockPos{x=1237, y=76, z=383}
+[23Feb2025 02:32:06.496] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=west,multipos=top] but failed at location BlockPos{x=1233, y=70, z=383}
+[23Feb2025 02:32:06.496] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_armchair}[facing=north] but failed at location BlockPos{x=1236, y=69, z=374}
+[23Feb2025 02:32:06.497] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_chair}[facing=north] but failed at location BlockPos{x=1240, y=75, z=377}
+[23Feb2025 02:32:06.497] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=north,multipos=bottom] but failed at location BlockPos{x=1234, y=69, z=372}
+[23Feb2025 02:32:06.497] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=west,multipos=base] but failed at location BlockPos{x=1234, y=69, z=373}
+[23Feb2025 02:32:06.497] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_trade_machine}[facing=north,multipos=bottom] but failed at location BlockPos{x=1243, y=75, z=381}
+[23Feb2025 02:32:06.504] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_trade_machine}[facing=south,multipos=bottom] but failed at location BlockPos{x=1243, y=75, z=383}
+[23Feb2025 02:32:06.504] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_chair}[facing=north] but failed at location BlockPos{x=1242, y=75, z=377}
+[23Feb2025 02:32:06.504] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_trade_machine}[facing=north,multipos=bottom] but failed at location BlockPos{x=1237, y=75, z=382}
+[23Feb2025 02:32:06.505] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=north,multipos=bottom] but failed at location BlockPos{x=1233, y=69, z=382}
+[23Feb2025 02:32:06.505] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:lime_rug}[facing=north,multipos=bottom] but failed at location BlockPos{x=1240, y=69, z=383}
+[23Feb2025 02:32:06.566] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=west,multipos=top] but failed at location BlockPos{x=1234, y=70, z=385}
+[23Feb2025 02:32:06.567] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=south,multipos=bottom] but failed at location BlockPos{x=1233, y=69, z=384}
+[23Feb2025 02:32:06.567] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=east,multipos=top] but failed at location BlockPos{x=1236, y=70, z=385}
+[23Feb2025 02:32:06.567] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_pc}[facing=south,multipos=top] but failed at location BlockPos{x=1239, y=76, z=388}
+[23Feb2025 02:32:06.567] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=west,multipos=bottom] but failed at location BlockPos{x=1234, y=69, z=385}
+[23Feb2025 02:32:06.567] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=south,multipos=top] but failed at location BlockPos{x=1235, y=70, z=385}
+[23Feb2025 02:32:06.567] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_trade_machine}[facing=south,multipos=top] but failed at location BlockPos{x=1237, y=76, z=384}
+[23Feb2025 02:32:06.567] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=south,multipos=top] but failed at location BlockPos{x=1233, y=70, z=384}
+[23Feb2025 02:32:06.567] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_trade_machine}[facing=south,multipos=bottom] but failed at location BlockPos{x=1237, y=75, z=384}
+[23Feb2025 02:32:06.567] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=east,multipos=bottom] but failed at location BlockPos{x=1236, y=69, z=385}
+[23Feb2025 02:32:06.567] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:lime_rug}[facing=west,multipos=base] but failed at location BlockPos{x=1240, y=69, z=384}
+[23Feb2025 02:32:06.568] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:fan}[facing=south] but failed at location BlockPos{x=1232, y=73, z=406}
+[23Feb2025 02:32:06.667] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=west,multipos=bottom] but failed at location BlockPos{x=1247, y=68, z=425}
+[23Feb2025 02:32:06.668] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=west,multipos=top] but failed at location BlockPos{x=1247, y=69, z=425}
+[23Feb2025 02:32:08.592] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_chair}[facing=east] but failed at location BlockPos{x=1226, y=72, z=412}
+[23Feb2025 02:32:08.593] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_chair}[facing=west] but failed at location BlockPos{x=1227, y=72, z=407}
+[23Feb2025 02:32:08.594] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_cushion_chair}[facing=south] but failed at location BlockPos{x=1231, y=72, z=431}
+[23Feb2025 02:32:08.594] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_chair}[facing=south] but failed at location BlockPos{x=1226, y=69, z=430}
+[23Feb2025 02:32:08.595] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_chair}[facing=north] but failed at location BlockPos{x=1220, y=64, z=433}
+[23Feb2025 02:32:08.595] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:fan}[facing=west] but failed at location BlockPos{x=1221, y=65, z=438}
+[23Feb2025 02:32:10.682] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=north,multipos=bottom,on=true] but failed at location BlockPos{x=1201, y=68, z=344}
+[23Feb2025 02:32:10.683] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=east,multipos=top,on=false] but failed at location BlockPos{x=1201, y=69, z=345}
+[23Feb2025 02:32:10.683] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=north,multipos=top,on=true] but failed at location BlockPos{x=1201, y=69, z=344}
+[23Feb2025 02:32:10.683] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=south,multipos=bottom,on=true] but failed at location BlockPos{x=1201, y=68, z=346}
+[23Feb2025 02:32:10.683] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=south,multipos=top,on=true] but failed at location BlockPos{x=1201, y=69, z=346}
+[23Feb2025 02:32:10.753] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_cushion_chair}[facing=west] but failed at location BlockPos{x=1200, y=69, z=437}
+[23Feb2025 02:32:10.753] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_chair}[facing=south] but failed at location BlockPos{x=1215, y=64, z=432}
+[23Feb2025 02:32:10.753] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_chair}[facing=west] but failed at location BlockPos{x=1201, y=66, z=432}
+[23Feb2025 02:32:13.142] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=south,multipos=bottom] but failed at location BlockPos{x=1198, y=67, z=346}
+[23Feb2025 02:32:13.143] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=south,multipos=top] but failed at location BlockPos{x=1198, y=68, z=346}
+[23Feb2025 02:32:13.143] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=north,multipos=bottom] but failed at location BlockPos{x=1198, y=67, z=344}
+[23Feb2025 02:32:13.143] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=west,multipos=top] but failed at location BlockPos{x=1198, y=68, z=345}
+[23Feb2025 02:32:13.143] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=north,multipos=top] but failed at location BlockPos{x=1198, y=68, z=344}
+[23Feb2025 02:34:54.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Peter_rola14 has made the advancement [Hot Stuff]
+[23Feb2025 02:37:57.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Peter_rola14 has made the advancement [We Need to Go Deeper]
+[23Feb2025 02:37:57.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
+[23Feb2025 02:38:52.002] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=east] but failed at location BlockPos{x=1151, y=83, z=616}
+[23Feb2025 02:38:52.291] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=west,multipos=base] but failed at location BlockPos{x=1157, y=83, z=614}
+[23Feb2025 02:38:52.291] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=north,multipos=bottom] but failed at location BlockPos{x=1157, y=83, z=613}
+[23Feb2025 02:38:57.983] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1156, y=80, z=497} BlockPos{x=1156, y=79, z=497}
+[23Feb2025 02:39:41.029] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Och8Z moved too quickly! -2.379003332667253,1.0,9.902834046610224
+[23Feb2025 02:40:05.149] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone Block'/16894, l='ServerLevel[world]', x=121.65, y=66.88, z=-10.42]
+[23Feb2025 02:41:43.533] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=east] but failed at location BlockPos{x=1343, y=71, z=1015}
+[23Feb2025 02:41:47.038] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=north] but failed at location BlockPos{x=1349, y=71, z=1009}
+[23Feb2025 02:41:55.532] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=south] but failed at location BlockPos{x=1361, y=70, z=1151}
+[23Feb2025 02:41:55.579] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=east] but failed at location BlockPos{x=1367, y=70, z=1157}
+[23Feb2025 02:41:57.590] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=south,multipos=bottom] but failed at location BlockPos{x=995, y=77, z=791}
+[23Feb2025 02:41:57.591] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=east,multipos=base] but failed at location BlockPos{x=995, y=77, z=790}
+[23Feb2025 02:41:57.591] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=west] but failed at location BlockPos{x=1001, y=77, z=788}
+[23Feb2025 02:42:50.183] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:pink_pc}[facing=east,multipos=top] but failed at location BlockPos{x=1257, y=70, z=1297}
+[23Feb2025 02:44:41.095] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Peter_rola14 moved too quickly! -0.8319044204231432,0.7531999805212024,-10.010943449275942
+[23Feb2025 02:47:39.260] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cooking_pot}[facing=west,multipos=top] but failed at location BlockPos{x=1330, y=71, z=1332}
+[23Feb2025 02:47:39.261] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cooking_pot}[facing=west,multipos=top] but failed at location BlockPos{x=1340, y=71, z=1332}
+[23Feb2025 02:47:39.263] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cooking_pot}[facing=west,multipos=top] but failed at location BlockPos{x=1352, y=71, z=1331}
+[23Feb2025 02:48:45.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Peter_rola14 has made the advancement [Only took me four tries *Fist pump*]
+[23Feb2025 02:49:39.875] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=north,multipos=bottom] but failed at location BlockPos{x=1304, y=65, z=1348}
+[23Feb2025 02:49:39.875] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=west,multipos=top] but failed at location BlockPos{x=1304, y=66, z=1349}
+[23Feb2025 02:49:39.876] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=north,multipos=top] but failed at location BlockPos{x=1304, y=66, z=1348}
+[23Feb2025 02:49:39.877] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=south,multipos=bottom] but failed at location BlockPos{x=1304, y=65, z=1350}
+[23Feb2025 02:49:39.877] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=south,multipos=top] but failed at location BlockPos{x=1304, y=66, z=1350}
+[23Feb2025 02:49:39.878] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_cushion_chair}[facing=north] but failed at location BlockPos{x=1310, y=65, z=1350}
+[23Feb2025 02:49:39.878] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_cushion_chair}[facing=north] but failed at location BlockPos{x=1310, y=65, z=1349}
+[23Feb2025 02:49:39.879] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=west,multipos=base] but failed at location BlockPos{x=1307, y=65, z=1351}
+[23Feb2025 02:49:39.879] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=north,multipos=bottom] but failed at location BlockPos{x=1307, y=65, z=1350}
+[23Feb2025 02:49:39.879] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_pc}[facing=south,multipos=top] but failed at location BlockPos{x=1309, y=66, z=1354}
+[23Feb2025 02:49:39.880] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_cushion_chair}[facing=north] but failed at location BlockPos{x=1310, y=65, z=1351}
+[23Feb2025 02:51:47.958] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_folding_chair}[facing=north] but failed at location BlockPos{x=1240, y=65, z=1373}
+[23Feb2025 02:51:47.959] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_folding_chair}[facing=west] but failed at location BlockPos{x=1241, y=65, z=1372}
+[23Feb2025 02:51:47.960] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=north,multipos=bottom] but failed at location BlockPos{x=1245, y=65, z=1371}
+[23Feb2025 02:51:47.960] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=west,multipos=bottom] but failed at location BlockPos{x=1246, y=65, z=1370}
+[23Feb2025 02:51:47.960] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_folding_chair}[facing=east] but failed at location BlockPos{x=1239, y=65, z=1372}
+[23Feb2025 02:51:47.961] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_folding_chair}[facing=south] but failed at location BlockPos{x=1240, y=65, z=1371}
+[23Feb2025 02:51:47.961] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=south,multipos=bottom] but failed at location BlockPos{x=1245, y=65, z=1373}
+[23Feb2025 02:51:47.961] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=west,multipos=bottom] but failed at location BlockPos{x=1246, y=65, z=1374}
+[23Feb2025 02:51:47.961] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:froggy_chair}[facing=west] but failed at location BlockPos{x=1241, y=73, z=1372}
+[23Feb2025 02:51:47.961] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=north,multipos=top] but failed at location BlockPos{x=1245, y=66, z=1371}
+[23Feb2025 02:51:47.962] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=west,multipos=top] but failed at location BlockPos{x=1246, y=66, z=1370}
+[23Feb2025 02:51:47.962] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=west,multipos=top] but failed at location BlockPos{x=1245, y=66, z=1372}
+[23Feb2025 02:51:47.962] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=north,multipos=top] but failed at location BlockPos{x=1247, y=66, z=1370}
+[23Feb2025 02:51:47.963] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=south,multipos=top] but failed at location BlockPos{x=1245, y=66, z=1373}
+[23Feb2025 02:51:47.963] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=west,multipos=top] but failed at location BlockPos{x=1246, y=66, z=1374}
+[23Feb2025 02:51:47.963] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=south,multipos=top] but failed at location BlockPos{x=1247, y=66, z=1374}
+[23Feb2025 02:51:47.982] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1240, y=65, z=1375}
+[23Feb2025 02:51:47.984] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=north,multipos=top,on=true] but failed at location BlockPos{x=1211, y=78, z=1367}
+[23Feb2025 02:51:47.984] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=north,multipos=base,on=true] but failed at location BlockPos{x=1211, y=77, z=1367}
+[23Feb2025 02:51:48.032] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1206, y=76, z=1371}
+[23Feb2025 02:51:48.047] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=east,multipos=top] but failed at location BlockPos{x=1248, y=66, z=1374}
+[23Feb2025 02:51:48.047] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=south,multipos=top,on=true] but failed at location BlockPos{x=1250, y=67, z=1373}
+[23Feb2025 02:51:48.048] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=east,multipos=bottom] but failed at location BlockPos{x=1248, y=65, z=1374}
+[23Feb2025 02:51:48.048] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=south,multipos=bottom,on=true] but failed at location BlockPos{x=1250, y=66, z=1373}
+[23Feb2025 02:51:48.048] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=east,multipos=top] but failed at location BlockPos{x=1248, y=66, z=1370}
+[23Feb2025 02:51:48.049] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=east,multipos=bottom] but failed at location BlockPos{x=1248, y=65, z=1370}
+[23Feb2025 02:51:48.049] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=north,multipos=top,on=true] but failed at location BlockPos{x=1250, y=67, z=1371}
+[23Feb2025 02:51:48.049] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=north,multipos=bottom,on=true] but failed at location BlockPos{x=1250, y=66, z=1371}
+[23Feb2025 02:51:48.050] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=east,multipos=top,on=true] but failed at location BlockPos{x=1250, y=67, z=1372}
+[23Feb2025 02:51:48.060] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=east,multipos=bottom,on=true] but failed at location BlockPos{x=1173, y=67, z=1374}
+[23Feb2025 02:51:48.060] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=west,multipos=top,on=true] but failed at location BlockPos{x=1171, y=68, z=1374}
+[23Feb2025 02:51:48.060] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:gray_armchair}[facing=south] but failed at location BlockPos{x=1172, y=66, z=1372}
+[23Feb2025 02:51:48.060] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=west,multipos=bottom,on=true] but failed at location BlockPos{x=1171, y=67, z=1374}
+[23Feb2025 02:51:48.060] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=south,multipos=top,on=true] but failed at location BlockPos{x=1172, y=68, z=1374}
+[23Feb2025 02:51:48.061] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=east,multipos=top,on=true] but failed at location BlockPos{x=1173, y=68, z=1374}
+[23Feb2025 02:51:48.083] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1169, y=66, z=1374}
+[23Feb2025 02:51:56.210] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_couch}[facing=west,multipos=top] but failed at location BlockPos{x=1201, y=81, z=1405}
+[23Feb2025 02:51:56.211] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_couch}[facing=west,multipos=bottom] but failed at location BlockPos{x=1201, y=80, z=1405}
+[23Feb2025 02:51:56.211] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_couch}[facing=north,multipos=top] but failed at location BlockPos{x=1202, y=81, z=1405}
+[23Feb2025 02:51:56.211] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_couch}[facing=east,multipos=top] but failed at location BlockPos{x=1203, y=81, z=1405}
+[23Feb2025 02:51:56.212] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_couch}[facing=east,multipos=bottom] but failed at location BlockPos{x=1207, y=80, z=1405}
+[23Feb2025 02:51:56.212] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_vending_machine}[facing=north,multipos=top] but failed at location BlockPos{x=1208, y=81, z=1405}
+[23Feb2025 02:51:56.212] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_vending_machine}[facing=north,multipos=top] but failed at location BlockPos{x=1209, y=81, z=1405}
+[23Feb2025 02:51:56.212] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_couch}[facing=east,multipos=bottom] but failed at location BlockPos{x=1203, y=80, z=1405}
+[23Feb2025 02:51:56.213] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_couch}[facing=west,multipos=top] but failed at location BlockPos{x=1205, y=81, z=1405}
+[23Feb2025 02:51:56.213] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_couch}[facing=west,multipos=bottom] but failed at location BlockPos{x=1205, y=80, z=1405}
+[23Feb2025 02:51:56.213] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_couch}[facing=north,multipos=top] but failed at location BlockPos{x=1206, y=81, z=1405}
+[23Feb2025 02:51:56.214] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_couch}[facing=east,multipos=top] but failed at location BlockPos{x=1207, y=81, z=1405}
+[23Feb2025 02:51:56.343] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_armchair}[facing=south] but failed at location BlockPos{x=1234, y=66, z=1399}
+[23Feb2025 02:51:56.343] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_armchair}[facing=south] but failed at location BlockPos{x=1240, y=66, z=1399}
+[23Feb2025 02:51:56.344] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_armchair}[facing=south] but failed at location BlockPos{x=1236, y=66, z=1399}
+[23Feb2025 02:51:56.344] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_armchair}[facing=south] but failed at location BlockPos{x=1238, y=66, z=1399}
+[23Feb2025 02:51:56.497] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:fan}[facing=south] but failed at location BlockPos{x=1173, y=76, z=1407}
+[23Feb2025 02:52:00.780] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=south,multipos=bottom,on=true] but failed at location BlockPos{x=1195, y=81, z=1410}
+[23Feb2025 02:52:00.781] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_armchair}[facing=east] but failed at location BlockPos{x=1198, y=80, z=1409}
+[23Feb2025 02:52:00.781] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=north,multipos=top,on=true] but failed at location BlockPos{x=1195, y=82, z=1408}
+[23Feb2025 02:52:00.781] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=north,multipos=bottom,on=true] but failed at location BlockPos{x=1195, y=81, z=1408}
+[23Feb2025 02:52:00.781] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=west,multipos=top,on=true] but failed at location BlockPos{x=1195, y=82, z=1409}
+[23Feb2025 02:52:00.783] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=south,multipos=top,on=true] but failed at location BlockPos{x=1195, y=82, z=1410}
+[23Feb2025 02:52:00.783] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_pc}[facing=south,multipos=top] but failed at location BlockPos{x=1202, y=81, z=1411}
+[23Feb2025 02:52:00.784] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_cushion_chair}[facing=east] but failed at location BlockPos{x=1200, y=80, z=1408}
+[23Feb2025 02:52:00.784] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_cushion_chair}[facing=east] but failed at location BlockPos{x=1200, y=80, z=1410}
+[23Feb2025 02:52:00.833] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_rug}[facing=north,multipos=base] but failed at location BlockPos{x=1171, y=74, z=1415}
+[23Feb2025 02:52:00.833] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_rug}[facing=east,multipos=bottom] but failed at location BlockPos{x=1172, y=74, z=1415}
+[23Feb2025 02:52:00.833] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_couch}[facing=north,multipos=bottom] but failed at location BlockPos{x=1179, y=76, z=1410}
+[23Feb2025 02:52:00.833] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_couch}[facing=south,multipos=bottom] but failed at location BlockPos{x=1179, y=76, z=1412}
+[23Feb2025 02:52:00.833] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_chair}[facing=south] but failed at location BlockPos{x=1170, y=74, z=1408}
+[23Feb2025 02:52:00.833] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_chair}[facing=south] but failed at location BlockPos{x=1173, y=74, z=1408}
+[23Feb2025 02:52:00.833] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_vending_machine}[facing=east,multipos=top] but failed at location BlockPos{x=1174, y=75, z=1413}
+[23Feb2025 02:52:00.833] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_couch}[facing=north,multipos=top] but failed at location BlockPos{x=1179, y=77, z=1410}
+[23Feb2025 02:52:00.833] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_couch}[facing=east,multipos=top] but failed at location BlockPos{x=1179, y=77, z=1411}
+[23Feb2025 02:52:00.834] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_vending_machine}[facing=east,multipos=top] but failed at location BlockPos{x=1174, y=75, z=1415}
+[23Feb2025 02:52:00.834] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_couch}[facing=south,multipos=top] but failed at location BlockPos{x=1179, y=77, z=1412}
+[23Feb2025 02:52:00.834] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_vending_machine}[facing=west,multipos=top] but failed at location BlockPos{x=1169, y=75, z=1415}
+[23Feb2025 02:52:00.834] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_rug}[facing=north,multipos=base] but failed at location BlockPos{x=1171, y=75, z=1409}
+[23Feb2025 02:52:00.834] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_rug}[facing=east,multipos=bottom] but failed at location BlockPos{x=1172, y=75, z=1409}
+[23Feb2025 02:52:00.834] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_vending_machine}[facing=west,multipos=top] but failed at location BlockPos{x=1169, y=75, z=1413}
+[23Feb2025 02:52:00.897] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_couch}[facing=south,multipos=bottom] but failed at location BlockPos{x=1164, y=76, z=1412}
+[23Feb2025 02:52:00.897] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_couch}[facing=north,multipos=top] but failed at location BlockPos{x=1164, y=77, z=1410}
+[23Feb2025 02:52:00.898] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_couch}[facing=north,multipos=bottom] but failed at location BlockPos{x=1164, y=76, z=1410}
+[23Feb2025 02:52:00.898] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_couch}[facing=west,multipos=top] but failed at location BlockPos{x=1164, y=77, z=1411}
+[23Feb2025 02:52:00.898] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_blue_couch}[facing=south,multipos=top] but failed at location BlockPos{x=1164, y=77, z=1412}
+[23Feb2025 02:52:06.389] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_folding_chair}[facing=west] but failed at location BlockPos{x=1139, y=79, z=1373}
+[23Feb2025 02:52:06.391] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=north,multipos=top,on=true] but failed at location BlockPos{x=1138, y=74, z=1396}
+[23Feb2025 02:52:06.391] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=north,multipos=bottom,on=true] but failed at location BlockPos{x=1138, y=73, z=1396}
+[23Feb2025 02:52:06.392] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=west,multipos=top,on=true] but failed at location BlockPos{x=1138, y=74, z=1397}
+[23Feb2025 02:52:06.392] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=south,multipos=top,on=true] but failed at location BlockPos{x=1138, y=74, z=1398}
+[23Feb2025 02:52:06.392] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=south,multipos=bottom,on=true] but failed at location BlockPos{x=1138, y=73, z=1398}
+[23Feb2025 02:52:06.393] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:gray_armchair}[facing=west] but failed at location BlockPos{x=1140, y=72, z=1397}
+[23Feb2025 02:52:06.425] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1139, y=79, z=1376}
+[23Feb2025 02:52:06.426] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1138, y=72, z=1394}
+[23Feb2025 02:52:30.754] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=east,multipos=bottom,on=true] but failed at location BlockPos{x=1128, y=72, z=1429}
+[23Feb2025 02:52:30.755] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=east,multipos=top,on=true] but failed at location BlockPos{x=1128, y=73, z=1429}
+[23Feb2025 02:52:30.755] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:gray_armchair}[facing=north] but failed at location BlockPos{x=1127, y=71, z=1431}
+[23Feb2025 02:52:30.755] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=west,multipos=bottom,on=true] but failed at location BlockPos{x=1126, y=72, z=1429}
+[23Feb2025 02:52:30.756] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=north,multipos=top,on=true] but failed at location BlockPos{x=1127, y=73, z=1429}
+[23Feb2025 02:52:30.756] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv3}[facing=west,multipos=top,on=true] but failed at location BlockPos{x=1126, y=73, z=1429}
+[23Feb2025 02:52:30.778] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1130, y=71, z=1429}
+[23Feb2025 02:52:41.051] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_folding_chair}[facing=south] but failed at location BlockPos{x=1229, y=67, z=1441}
+[23Feb2025 02:52:41.055] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=north,multipos=base,on=true] but failed at location BlockPos{x=1153, y=72, z=1450}
+[23Feb2025 02:52:41.055] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=north,multipos=top,on=true] but failed at location BlockPos{x=1153, y=73, z=1450}
+[23Feb2025 02:52:41.079] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1232, y=67, z=1441}
+[23Feb2025 02:52:51.852] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_folding_chair}[facing=east] but failed at location BlockPos{x=1258, y=75, z=1465}
+[23Feb2025 02:52:51.883] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1258, y=75, z=1462}
+[23Feb2025 02:52:55.486] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_folding_chair}[facing=east] but failed at location BlockPos{x=1258, y=66, z=1484}
+[23Feb2025 02:52:55.551] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1258, y=66, z=1481}
+[23Feb2025 02:52:55.616] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=east,multipos=base,on=true] but failed at location BlockPos{x=1240, y=69, z=1478}
+[23Feb2025 02:52:55.616] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=east,multipos=top,on=true] but failed at location BlockPos{x=1240, y=70, z=1478}
+[23Feb2025 02:52:55.633] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1236, y=68, z=1473}
+[23Feb2025 02:52:55.668] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_folding_chair}[facing=north] but failed at location BlockPos{x=1221, y=69, z=1487}
+[23Feb2025 02:52:55.679] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1218, y=69, z=1487}
+[23Feb2025 02:54:40.408] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=north,multipos=base,on=true] but failed at location BlockPos{x=1137, y=72, z=1450}
+[23Feb2025 02:54:40.408] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=north,multipos=top,on=true] but failed at location BlockPos{x=1137, y=73, z=1450}
+[23Feb2025 02:54:40.584] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=west,multipos=base,on=true] but failed at location BlockPos{x=1254, y=67, z=1496}
+[23Feb2025 02:54:40.585] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=west,multipos=top,on=true] but failed at location BlockPos{x=1254, y=68, z=1496}
+[23Feb2025 02:54:58.827] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1148, y=71, z=1454}
+[23Feb2025 02:55:00.136] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1258, y=66, z=1501}
+[23Feb2025 02:55:05.829] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1132, y=71, z=1454}
+[23Feb2025 02:55:08.835] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=east,multipos=base,on=true] but failed at location BlockPos{x=1115, y=71, z=1498}
+[23Feb2025 02:55:08.835] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=east,multipos=top,on=true] but failed at location BlockPos{x=1115, y=72, z=1498}
+[23Feb2025 02:55:08.877] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1111, y=70, z=1493}
+[23Feb2025 02:55:41.153] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_folding_chair}[facing=south] but failed at location BlockPos{x=1220, y=70, z=1508}
+[23Feb2025 02:55:41.187] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1223, y=70, z=1508}
+[23Feb2025 02:55:41.403] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_folding_chair}[facing=south] but failed at location BlockPos{x=1207, y=76, z=1508}
+[23Feb2025 02:55:41.446] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1210, y=76, z=1508}
+[23Feb2025 02:57:05.047] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=east,multipos=bottom] but failed at location BlockPos{x=1010, y=72, z=1370}
+[23Feb2025 02:57:05.048] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cyan_rug}[facing=north,multipos=base] but failed at location BlockPos{x=1009, y=72, z=1370}
+[23Feb2025 02:59:40.420] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=south] but failed at location BlockPos{x=1007, y=72, z=1364}
+[23Feb2025 03:03:52.472] [Worker-Main-169/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 03:03:52.477] [Worker-Main-169/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 03:03:52.482] [Worker-Main-169/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 03:03:52.485] [Worker-Main-169/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 03:03:52.488] [Worker-Main-169/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 03:03:52.488] [Worker-Main-169/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 03:03:52.492] [Worker-Main-169/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 03:03:52.503] [Worker-Main-169/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 03:03:52.504] [Worker-Main-169/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 03:03:52.508] [Worker-Main-169/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 03:03:52.514] [Worker-Main-169/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 03:03:52.514] [Worker-Main-169/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 03:03:52.514] [Worker-Main-169/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 03:03:52.514] [Worker-Main-169/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 03:03:52.514] [Worker-Main-169/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[23Feb2025 03:04:40.702] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Och8Z moved too quickly! 4.293774973490599,1.2491870787446828,9.24356432222362
+[23Feb2025 03:05:19.351] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=south] but failed at location BlockPos{x=1378, y=67, z=1935}
+[23Feb2025 03:05:21.138] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:boulder}[facing=east] but failed at location BlockPos{x=1384, y=67, z=1941}
+[23Feb2025 03:08:03.727] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1223, y=70, z=1508}
+[23Feb2025 03:08:04.678] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1210, y=76, z=1508}
+[23Feb2025 03:08:09.226] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1258, y=66, z=1501}
+[23Feb2025 03:08:11.138] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1236, y=68, z=1473}
+[23Feb2025 03:08:11.138] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1218, y=69, z=1487}
+[23Feb2025 03:08:11.139] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1258, y=66, z=1481}
+[23Feb2025 03:08:13.396] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1258, y=75, z=1462}
+[23Feb2025 03:08:15.660] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1232, y=67, z=1441}
+[23Feb2025 03:08:23.176] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1148, y=71, z=1454}
+[23Feb2025 03:08:26.080] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1138, y=72, z=1394}
+[23Feb2025 03:08:28.142] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1132, y=71, z=1454}
+[23Feb2025 03:08:28.143] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1130, y=71, z=1429}
+[23Feb2025 03:08:29.325] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1139, y=79, z=1376}
+[23Feb2025 03:08:31.531] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1111, y=70, z=1493}
+[23Feb2025 03:08:34.083] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1169, y=66, z=1374}
+[23Feb2025 03:08:34.087] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1206, y=76, z=1371}
+[23Feb2025 03:08:34.087] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=1240, y=65, z=1375}
+[23Feb2025 03:12:17.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Pixelmon] Heatran has appeared in a den in a Soul Sand Valley biome!
+[23Feb2025 03:12:17.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Spawned Heatran at: minecraft:the_nether x:198, y:34, z:23
+[23Feb2025 03:12:24.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Peter_rola14> Xd
+[23Feb2025 03:17:52.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Peter_rola14> me cague entero
+[23Feb2025 03:19:11.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Peter_rola14> teni tierra
+[23Feb2025 03:19:29.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Peter_rola14> shaaa
+[23Feb2025 03:19:31.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Peter_rola14 has made the advancement [Amateur Archaeologist]
+[23Feb2025 03:19:35.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Peter_rola14> god
+[23Feb2025 03:19:51.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Peter_rola14> teamo
+[23Feb2025 03:30:41.319] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=855, y=63, z=-126} BlockPos{x=855, y=63, z=-127}
+[23Feb2025 03:31:18.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Peter_rola14> rompi cama

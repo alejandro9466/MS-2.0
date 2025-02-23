@@ -6,9 +6,9 @@
 # Desde 1.7.10 las versiones mas nuevas pueden tardar en ser implementadas
 
 # Informacion:
-# Github da 120 horas on el plan de 4 cores 16 ram 30 horas y con el plan de 2 cores 8 ram 60 horas.
+# Github da 120 horas on el plan de 4 cores huyiasbduiyasuidhiuahd ram 30 horas y con el plan de 2 cores 8 ram 60 horas.
 # Para ver las horas que te quedan, ve al siguiente link y dale a cerrar [X] Luego baja donde dice codespaces y te dira cuantas horas quedan. https://github.com/settings/billing/summary?open_metered_usage_report=true#usage
-# Para añadir datapacks, crea una carpeta con el nombre "datapack" en "world"
+# Para añadir datapacks, crea una
 # Ahora el respaldo se guarda en el repositorio, para pasar el mundo a otro codespaces, dale a cargar respaldo y pegas el link del repositorio previo.
 # Para migrar y pasar mundos es necesario cambiar la visiblidad del repositorio, cambialo a publico.
 
