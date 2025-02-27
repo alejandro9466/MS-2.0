@@ -1,8 +1,4 @@
 
-#IGNORE THIS CONFIG FILE!!!!
-#IGNORE THIS CONFIG FILE!!!!
-#IGNORE THIS CONFIG FILE!!!!
-#IT IS ONLY USED WHEN HOSTING ON LAN
 [biggerstacks]
 	#Whether to increase max transfer rate of some mods to the new stack limit/t.
 	#E.g. if max stack limit is 1000, it will become 1000 items per tick (where applicable).
