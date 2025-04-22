@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_deepslate"
+    },
+    {
+      "item": "create:polished_cut_deepslate"
+    },
+    {
+      "item": "create:polished_cut_deepslate"
+    },
+    {
+      "item": "create:cut_deepslate"
+    },
+    {
+      "item": "create:cut_deepslate"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:cut_deepslate_create_kitchen_wall_small_drawer"
+  }
+}

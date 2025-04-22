@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "blocksyouneed_luna:scorchstone"
+    },
+    {
+      "item": "blocksyouneed_luna:scorchstone_polished"
+    },
+    {
+      "item": "blocksyouneed_luna:scorchstone_polished"
+    },
+    {
+      "item": "blocksyouneed_luna:scorchstone_polished"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:scorchstone_blocksyouneed_luna_modern_stool"
+  }
+}

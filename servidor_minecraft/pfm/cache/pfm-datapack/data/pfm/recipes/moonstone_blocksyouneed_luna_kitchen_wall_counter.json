@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "blocksyouneed_luna:polished_moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_moonstone"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:moonstone_blocksyouneed_luna_kitchen_wall_counter"
+  }
+}

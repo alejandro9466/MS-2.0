@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "modernlife:granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:polished_granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:polished_granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:polished_granite_kitchen_drawer_cabinet"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:granite_kitchen_drawer_cabinet_modernlife_simple_stool"
+  }
+}

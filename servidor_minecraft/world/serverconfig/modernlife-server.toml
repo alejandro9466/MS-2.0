@@ -1,0 +1,47 @@
+
+[server]
+
+	[server.misc]
+		#Maximum allowable image size in pixels that the server will load (applies to camera/easel)
+		maxImageSizePixels = 2048
+		#How long the seed spreader will wait to re-attempt throwing to a recent location (milliseconds)
+		seedSpreaderThrowCooldown = 5000
+		#Seedspreader whitelist
+		seedspreaderWhitelist = "doggytalents:rice_grains,cobblemon:vivichoke_seeds,cobblemon:revival_herb"
+		#How much durability damage the chainsaw takes every time it ticks for damage
+		chainsawDurabilityDamageOnAttack = 26
+		#Configure the number of 'middle' blocks the street light has
+		streetLightMiddlePartCount = 3
+		#Photocopier will generate a new image file (and new unique ID) every time it is used
+		photocopierProducesNewImageFiles = true
+		#Enqueue camera images to send to client at a fixed rate (in ticks) instead of immediately pushing them (0 to disable and send immediately)
+		#Range: 0 ~ 200
+		cameraUpdateRateLimit = 1
+		#If cameraUpdateRateLimit is enabled (non-zero), send this many images each invocation
+		#Range: 1 ~ 10000
+		cameraUpdatesPerRateLimitTick = 20
+		#If cameraUpdateRateLimit is enabled (non-zero), use a dedicated thread to process enqueued images
+		useDedicatedThreadForCameraUpdates = true
+
+	[server.guitar]
+		#Guitar only plays sounds locally
+		guitarOnlyPlaysLocally = false
+
+	[server.flashlight]
+		#Time between flashlight updates (in ticks)
+		flashlightUpdatePeriod = 4
+		#Flashlight block range
+		flashlightRange = 6.0
+
+	[server.handgun]
+		#InteractionHandgun base damage
+		handgunDamage = 19.5
+		#InteractionHandgun headshot damage multiplier
+		handgunCritMultiplier = 2.0
+		#InteractionHandgun is capable of dealing critical-damage headshots
+		handgunEnableHeadshots = true
+		#Load all PNG images on startup
+		loadAllImagesOnStartup = true
+		#Number of threads for recomputing checksums from initial image load
+		loadImagesThreadpoolSize = 20
+

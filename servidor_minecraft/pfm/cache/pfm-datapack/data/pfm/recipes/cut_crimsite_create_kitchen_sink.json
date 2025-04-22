@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_crimsite"
+    },
+    {
+      "item": "create:polished_cut_crimsite"
+    },
+    {
+      "item": "create:polished_cut_crimsite"
+    },
+    {
+      "item": "create:polished_cut_crimsite"
+    },
+    {
+      "item": "create:polished_cut_crimsite"
+    },
+    {
+      "item": "create:cut_crimsite"
+    },
+    {
+      "item": "create:cut_crimsite"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:cut_crimsite_create_kitchen_sink"
+  }
+}

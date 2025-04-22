@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "modernlife:granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:polished_granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:granite_kitchen_drawer_cabinet_modernlife_classic_nightstand"
+  }
+}

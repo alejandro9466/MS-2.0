@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_scorchia"
+    },
+    {
+      "item": "create:polished_cut_scorchia"
+    },
+    {
+      "item": "create:polished_cut_scorchia"
+    },
+    {
+      "item": "create:polished_cut_scorchia"
+    },
+    {
+      "item": "create:polished_cut_scorchia"
+    },
+    {
+      "item": "create:cut_scorchia"
+    },
+    {
+      "item": "create:cut_scorchia"
+    },
+    {
+      "item": "create:cut_scorchia"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:cut_scorchia_create_kitchen_drawer"
+  }
+}

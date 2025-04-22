@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_diorite"
+    },
+    {
+      "item": "create:polished_cut_diorite"
+    },
+    {
+      "item": "create:polished_cut_diorite"
+    },
+    {
+      "item": "create:polished_cut_diorite"
+    },
+    {
+      "item": "create:polished_cut_diorite"
+    },
+    {
+      "item": "create:polished_cut_diorite"
+    },
+    {
+      "item": "create:polished_cut_diorite"
+    },
+    {
+      "item": "create:polished_cut_diorite"
+    },
+    {
+      "item": "create:polished_cut_diorite"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:cut_diorite_create_kitchen_wall_counter"
+  }
+}

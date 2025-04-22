@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "modernlife:blackstone_kitchen_cabinet"
+    },
+    {
+      "item": "modernlife:blackstone_kitchen_cabinet"
+    },
+    {
+      "item": "modernlife:blackstone_kitchen_cabinet"
+    },
+    {
+      "item": "modernlife:blackstone_kitchen_cabinet"
+    },
+    {
+      "item": "modernlife:blackstone_kitchen_cabinet"
+    },
+    {
+      "item": "modernlife:polished_blackstone_kitchen_cabinet"
+    },
+    {
+      "item": "modernlife:polished_blackstone_kitchen_cabinet"
+    },
+    {
+      "item": "modernlife:polished_blackstone_kitchen_cabinet"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:blackstone_kitchen_cabinet_modernlife_table_modern_dinner"
+  }
+}

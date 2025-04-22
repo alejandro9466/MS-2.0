@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "modernlife:polished_andesite_ramp"
+    },
+    {
+      "item": "modernlife:polished_andesite_ramp"
+    },
+    {
+      "item": "modernlife:polished_andesite_ramp"
+    },
+    {
+      "item": "modernlife:andesite_ramp"
+    },
+    {
+      "item": "modernlife:andesite_ramp"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:andesite_ramp_modernlife_kitchen_wall_small_drawer"
+  }
+}

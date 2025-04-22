@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "modernlife:andesite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:andesite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:andesite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:andesite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:andesite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:polished_andesite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:polished_andesite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:polished_andesite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:andesite_kitchen_drawer_cabinet_modernlife_kitchen_counter_oven"
+  }
+}

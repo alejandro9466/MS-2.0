@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "modernlife:granite_barrier"
+    },
+    {
+      "item": "modernlife:granite_barrier"
+    },
+    {
+      "item": "modernlife:granite_barrier"
+    },
+    {
+      "item": "modernlife:granite_barrier"
+    },
+    {
+      "item": "modernlife:granite_barrier"
+    },
+    {
+      "item": "modernlife:granite_barrier"
+    },
+    {
+      "item": "modernlife:polished_granite_barrier"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:granite_barrier_modernlife_classic_nightstand"
+  }
+}

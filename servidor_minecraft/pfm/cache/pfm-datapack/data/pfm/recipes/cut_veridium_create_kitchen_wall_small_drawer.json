@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_veridium"
+    },
+    {
+      "item": "create:polished_cut_veridium"
+    },
+    {
+      "item": "create:polished_cut_veridium"
+    },
+    {
+      "item": "create:cut_veridium"
+    },
+    {
+      "item": "create:cut_veridium"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:cut_veridium_create_kitchen_wall_small_drawer"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "modernlife:polished_diorite_ramp"
+    },
+    {
+      "item": "modernlife:polished_diorite_ramp"
+    },
+    {
+      "item": "modernlife:polished_diorite_ramp"
+    },
+    {
+      "item": "modernlife:polished_diorite_ramp"
+    },
+    {
+      "item": "modernlife:polished_diorite_ramp"
+    },
+    {
+      "item": "modernlife:diorite_ramp"
+    },
+    {
+      "item": "modernlife:diorite_ramp"
+    },
+    {
+      "item": "modernlife:diorite_ramp"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:diorite_ramp_modernlife_kitchen_drawer"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "blocksyouneed_luna:polished_sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:sodalite"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:sodalite_blocksyouneed_luna_kitchen_counter"
+  }
+}

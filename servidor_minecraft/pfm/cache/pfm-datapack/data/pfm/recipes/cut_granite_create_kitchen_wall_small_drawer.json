@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_granite"
+    },
+    {
+      "item": "create:polished_cut_granite"
+    },
+    {
+      "item": "create:polished_cut_granite"
+    },
+    {
+      "item": "create:cut_granite"
+    },
+    {
+      "item": "create:cut_granite"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:cut_granite_create_kitchen_wall_small_drawer"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:scorchstone_blocksyouneed_luna_coffee_table_classic"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "scorchstone_blocksyouneed_luna_coffee_table_classic": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "blocksyouneed_luna:scorchstone_polished"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "scorchstone_blocksyouneed_luna_coffee_table_classic",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:scorchstone_blocksyouneed_luna_coffee_table_classic"
+    ]
+  },
+  "sends_telemetry_event": true
+}

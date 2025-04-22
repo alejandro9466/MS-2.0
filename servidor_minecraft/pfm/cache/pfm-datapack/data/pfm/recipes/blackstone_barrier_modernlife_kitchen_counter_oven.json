@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "modernlife:blackstone_barrier"
+    },
+    {
+      "item": "modernlife:blackstone_barrier"
+    },
+    {
+      "item": "modernlife:blackstone_barrier"
+    },
+    {
+      "item": "modernlife:blackstone_barrier"
+    },
+    {
+      "item": "modernlife:blackstone_barrier"
+    },
+    {
+      "item": "modernlife:polished_blackstone_barrier"
+    },
+    {
+      "item": "modernlife:polished_blackstone_barrier"
+    },
+    {
+      "item": "modernlife:polished_blackstone_barrier"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:blackstone_barrier_modernlife_kitchen_counter_oven"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "xkdeco:polished_red_sandstone"
+    },
+    {
+      "item": "xkdeco:polished_red_sandstone"
+    },
+    {
+      "item": "xkdeco:polished_red_sandstone"
+    },
+    {
+      "item": "xkdeco:polished_red_sandstone"
+    },
+    {
+      "item": "xkdeco:polished_red_sandstone"
+    },
+    {
+      "item": "xkdeco:polished_red_sandstone"
+    },
+    {
+      "item": "minecraft:red_sandstone"
+    },
+    {
+      "item": "minecraft:red_sandstone"
+    },
+    {
+      "item": "minecraft:red_sandstone"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:red_sandstone_xkdeco_kitchen_counter"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "modernlife:blackstone_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:blackstone_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:polished_blackstone_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:polished_blackstone_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:polished_blackstone_kitchen_drawer_cabinet"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:blackstone_kitchen_drawer_cabinet_modernlife_coffee_table_classic"
+  }
+}

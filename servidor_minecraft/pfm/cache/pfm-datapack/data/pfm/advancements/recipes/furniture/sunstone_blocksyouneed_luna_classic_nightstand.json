@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:sunstone_blocksyouneed_luna_classic_nightstand"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "sunstone_blocksyouneed_luna_classic_nightstand": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "blocksyouneed_luna:polished_sunstone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "sunstone_blocksyouneed_luna_classic_nightstand",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:sunstone_blocksyouneed_luna_classic_nightstand"
+    ]
+  },
+  "sends_telemetry_event": true
+}

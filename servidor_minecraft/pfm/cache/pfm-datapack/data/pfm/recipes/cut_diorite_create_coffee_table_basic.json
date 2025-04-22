@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "create:cut_diorite"
+    },
+    {
+      "item": "create:cut_diorite"
+    },
+    {
+      "item": "create:cut_diorite"
+    },
+    {
+      "item": "create:polished_cut_diorite"
+    },
+    {
+      "item": "create:polished_cut_diorite"
+    },
+    {
+      "item": "create:polished_cut_diorite"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cut_diorite_create_coffee_table_basic"
+  }
+}

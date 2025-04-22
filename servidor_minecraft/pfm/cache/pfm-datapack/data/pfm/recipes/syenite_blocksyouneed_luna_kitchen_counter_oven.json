@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "blocksyouneed_luna:syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_syenite"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:syenite_blocksyouneed_luna_kitchen_counter_oven"
+  }
+}

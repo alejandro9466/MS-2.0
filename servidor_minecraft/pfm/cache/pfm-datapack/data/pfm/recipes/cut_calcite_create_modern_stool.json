@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "create:cut_calcite"
+    },
+    {
+      "item": "create:polished_cut_calcite"
+    },
+    {
+      "item": "create:polished_cut_calcite"
+    },
+    {
+      "item": "create:polished_cut_calcite"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cut_calcite_create_modern_stool"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_tuff"
+    },
+    {
+      "item": "create:polished_cut_tuff"
+    },
+    {
+      "item": "create:polished_cut_tuff"
+    },
+    {
+      "item": "create:polished_cut_tuff"
+    },
+    {
+      "item": "create:polished_cut_tuff"
+    },
+    {
+      "item": "create:polished_cut_tuff"
+    },
+    {
+      "item": "create:polished_cut_tuff"
+    },
+    {
+      "item": "create:polished_cut_tuff"
+    },
+    {
+      "item": "create:polished_cut_tuff"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:cut_tuff_create_kitchen_wall_counter"
+  }
+}

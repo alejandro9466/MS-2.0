@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_limestone"
+    },
+    {
+      "item": "create:polished_cut_limestone"
+    },
+    {
+      "item": "create:polished_cut_limestone"
+    },
+    {
+      "item": "create:cut_limestone"
+    },
+    {
+      "item": "create:cut_limestone"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:cut_limestone_create_kitchen_wall_small_drawer"
+  }
+}

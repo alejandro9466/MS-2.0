@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "diorite_kitchen_cabinet_modernlife_chair": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "modernlife:polished_diorite_kitchen_cabinet"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:diorite_kitchen_cabinet_modernlife_chair"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "diorite_kitchen_cabinet_modernlife_chair",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:diorite_kitchen_cabinet_modernlife_chair"
+    ]
+  },
+  "sends_telemetry_event": true
+}

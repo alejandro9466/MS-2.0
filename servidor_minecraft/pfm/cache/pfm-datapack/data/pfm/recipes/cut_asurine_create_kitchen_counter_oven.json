@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:cut_asurine"
+    },
+    {
+      "item": "create:cut_asurine"
+    },
+    {
+      "item": "create:cut_asurine"
+    },
+    {
+      "item": "create:cut_asurine"
+    },
+    {
+      "item": "create:cut_asurine"
+    },
+    {
+      "item": "create:polished_cut_asurine"
+    },
+    {
+      "item": "create:polished_cut_asurine"
+    },
+    {
+      "item": "create:polished_cut_asurine"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:cut_asurine_create_kitchen_counter_oven"
+  }
+}

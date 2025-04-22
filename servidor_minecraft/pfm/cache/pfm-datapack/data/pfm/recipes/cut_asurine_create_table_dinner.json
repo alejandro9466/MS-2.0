@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "create:cut_asurine"
+    },
+    {
+      "item": "create:cut_asurine"
+    },
+    {
+      "item": "create:cut_asurine"
+    },
+    {
+      "item": "create:polished_cut_asurine"
+    },
+    {
+      "item": "create:polished_cut_asurine"
+    },
+    {
+      "item": "create:polished_cut_asurine"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cut_asurine_create_table_dinner"
+  }
+}

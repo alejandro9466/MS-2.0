@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "create:cut_deepslate"
+    },
+    {
+      "item": "create:cut_deepslate"
+    },
+    {
+      "item": "create:cut_deepslate"
+    },
+    {
+      "item": "create:cut_deepslate"
+    },
+    {
+      "item": "create:cut_deepslate"
+    },
+    {
+      "item": "create:polished_cut_deepslate"
+    },
+    {
+      "item": "create:polished_cut_deepslate"
+    },
+    {
+      "item": "create:polished_cut_deepslate"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cut_deepslate_create_table_basic"
+  }
+}

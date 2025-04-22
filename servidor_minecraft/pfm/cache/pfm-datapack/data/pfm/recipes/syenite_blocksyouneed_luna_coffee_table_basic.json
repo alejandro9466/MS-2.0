@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "blocksyouneed_luna:syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_syenite"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:syenite_blocksyouneed_luna_coffee_table_basic"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "modernlife:andesite_ramp"
+    },
+    {
+      "item": "modernlife:andesite_ramp"
+    },
+    {
+      "item": "modernlife:polished_andesite_ramp"
+    },
+    {
+      "item": "modernlife:polished_andesite_ramp"
+    },
+    {
+      "item": "modernlife:polished_andesite_ramp"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:andesite_ramp_modernlife_table_natural"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "create:cut_scoria"
+    },
+    {
+      "item": "create:cut_scoria"
+    },
+    {
+      "item": "create:cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cut_scoria_create_chair_modern"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "create:cut_andesite"
+    },
+    {
+      "item": "create:polished_cut_andesite"
+    },
+    {
+      "item": "create:polished_cut_andesite"
+    },
+    {
+      "item": "create:polished_cut_andesite"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cut_andesite_create_modern_stool"
+  }
+}

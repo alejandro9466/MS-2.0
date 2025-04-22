@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:red_sandstone_blocksyouneed_luna_coffee_table_basic"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "red_sandstone_blocksyouneed_luna_coffee_table_basic": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "blocksyouneed_luna:polished_red_sandstone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "red_sandstone_blocksyouneed_luna_coffee_table_basic",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:red_sandstone_blocksyouneed_luna_coffee_table_basic"
+    ]
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "blocksyouneed_luna:sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_sodalite"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:sodalite_blocksyouneed_luna_classic_nightstand"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "create:cut_scoria"
+    },
+    {
+      "item": "create:cut_scoria"
+    },
+    {
+      "item": "create:cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cut_scoria_create_coffee_table_basic"
+  }
+}

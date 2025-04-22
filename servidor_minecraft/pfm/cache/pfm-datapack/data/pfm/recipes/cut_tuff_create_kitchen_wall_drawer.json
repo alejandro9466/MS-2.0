@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_tuff"
+    },
+    {
+      "item": "create:polished_cut_tuff"
+    },
+    {
+      "item": "create:polished_cut_tuff"
+    },
+    {
+      "item": "create:polished_cut_tuff"
+    },
+    {
+      "item": "create:polished_cut_tuff"
+    },
+    {
+      "item": "create:polished_cut_tuff"
+    },
+    {
+      "item": "create:cut_tuff"
+    },
+    {
+      "item": "create:cut_tuff"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:cut_tuff_create_kitchen_wall_drawer"
+  }
+}

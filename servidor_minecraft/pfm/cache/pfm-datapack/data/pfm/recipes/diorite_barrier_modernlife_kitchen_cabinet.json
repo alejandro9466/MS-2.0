@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "modernlife:polished_diorite_barrier"
+    },
+    {
+      "item": "modernlife:polished_diorite_barrier"
+    },
+    {
+      "item": "modernlife:polished_diorite_barrier"
+    },
+    {
+      "item": "modernlife:polished_diorite_barrier"
+    },
+    {
+      "item": "modernlife:polished_diorite_barrier"
+    },
+    {
+      "item": "modernlife:polished_diorite_barrier"
+    },
+    {
+      "item": "modernlife:diorite_barrier"
+    },
+    {
+      "item": "modernlife:diorite_barrier"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:diorite_barrier_modernlife_kitchen_cabinet"
+  }
+}

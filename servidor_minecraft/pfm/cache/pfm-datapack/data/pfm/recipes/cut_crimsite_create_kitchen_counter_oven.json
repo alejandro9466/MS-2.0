@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:cut_crimsite"
+    },
+    {
+      "item": "create:cut_crimsite"
+    },
+    {
+      "item": "create:cut_crimsite"
+    },
+    {
+      "item": "create:cut_crimsite"
+    },
+    {
+      "item": "create:cut_crimsite"
+    },
+    {
+      "item": "create:polished_cut_crimsite"
+    },
+    {
+      "item": "create:polished_cut_crimsite"
+    },
+    {
+      "item": "create:polished_cut_crimsite"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:cut_crimsite_create_kitchen_counter_oven"
+  }
+}

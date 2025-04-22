@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "modernlife:polished_granite_ramp"
+    },
+    {
+      "item": "modernlife:polished_granite_ramp"
+    },
+    {
+      "item": "modernlife:polished_granite_ramp"
+    },
+    {
+      "item": "modernlife:polished_granite_ramp"
+    },
+    {
+      "item": "modernlife:polished_granite_ramp"
+    },
+    {
+      "item": "modernlife:granite_ramp"
+    },
+    {
+      "item": "modernlife:granite_ramp"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:granite_ramp_modernlife_kitchen_sink"
+  }
+}

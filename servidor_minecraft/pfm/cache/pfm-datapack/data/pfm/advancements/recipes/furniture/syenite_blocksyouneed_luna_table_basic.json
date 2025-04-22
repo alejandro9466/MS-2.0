@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:syenite_blocksyouneed_luna_table_basic"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "syenite_blocksyouneed_luna_table_basic": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "blocksyouneed_luna:polished_syenite"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "syenite_blocksyouneed_luna_table_basic",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:syenite_blocksyouneed_luna_table_basic"
+    ]
+  },
+  "sends_telemetry_event": true
+}

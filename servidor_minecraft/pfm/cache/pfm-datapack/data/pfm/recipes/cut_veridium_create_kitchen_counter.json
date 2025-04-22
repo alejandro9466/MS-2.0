@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_veridium"
+    },
+    {
+      "item": "create:polished_cut_veridium"
+    },
+    {
+      "item": "create:polished_cut_veridium"
+    },
+    {
+      "item": "create:polished_cut_veridium"
+    },
+    {
+      "item": "create:polished_cut_veridium"
+    },
+    {
+      "item": "create:polished_cut_veridium"
+    },
+    {
+      "item": "create:cut_veridium"
+    },
+    {
+      "item": "create:cut_veridium"
+    },
+    {
+      "item": "create:cut_veridium"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:cut_veridium_create_kitchen_counter"
+  }
+}

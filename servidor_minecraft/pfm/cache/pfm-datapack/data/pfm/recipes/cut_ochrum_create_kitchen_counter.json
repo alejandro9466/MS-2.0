@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_ochrum"
+    },
+    {
+      "item": "create:polished_cut_ochrum"
+    },
+    {
+      "item": "create:polished_cut_ochrum"
+    },
+    {
+      "item": "create:polished_cut_ochrum"
+    },
+    {
+      "item": "create:polished_cut_ochrum"
+    },
+    {
+      "item": "create:polished_cut_ochrum"
+    },
+    {
+      "item": "create:cut_ochrum"
+    },
+    {
+      "item": "create:cut_ochrum"
+    },
+    {
+      "item": "create:cut_ochrum"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:cut_ochrum_create_kitchen_counter"
+  }
+}

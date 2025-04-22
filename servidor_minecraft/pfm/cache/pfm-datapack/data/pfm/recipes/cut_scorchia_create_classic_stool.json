@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "create:cut_scorchia"
+    },
+    {
+      "item": "create:cut_scorchia"
+    },
+    {
+      "item": "create:cut_scorchia"
+    },
+    {
+      "item": "create:polished_cut_scorchia"
+    },
+    {
+      "item": "create:polished_cut_scorchia"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cut_scorchia_create_classic_stool"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "minecraft:red_sandstone"
+    },
+    {
+      "item": "minecraft:red_sandstone"
+    },
+    {
+      "item": "minecraft:red_sandstone"
+    },
+    {
+      "item": "xkdeco:polished_red_sandstone"
+    },
+    {
+      "item": "xkdeco:polished_red_sandstone"
+    },
+    {
+      "item": "xkdeco:polished_red_sandstone"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:red_sandstone_xkdeco_chair_dinner"
+  }
+}

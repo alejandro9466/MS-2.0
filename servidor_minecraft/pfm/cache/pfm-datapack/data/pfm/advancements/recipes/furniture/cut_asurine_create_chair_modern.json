@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "cut_asurine_create_chair_modern": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "create:polished_cut_asurine"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:cut_asurine_create_chair_modern"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "cut_asurine_create_chair_modern",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:cut_asurine_create_chair_modern"
+    ]
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "blocksyouneed_luna:polished_red_sandstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_red_sandstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_red_sandstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_red_sandstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_red_sandstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_red_sandstone"
+    },
+    {
+      "item": "minecraft:red_sandstone"
+    },
+    {
+      "item": "minecraft:red_sandstone"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:red_sandstone_blocksyouneed_luna_kitchen_cabinet"
+  }
+}

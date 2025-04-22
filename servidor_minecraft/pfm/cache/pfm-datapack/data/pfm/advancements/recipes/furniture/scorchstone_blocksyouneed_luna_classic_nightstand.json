@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:scorchstone_blocksyouneed_luna_classic_nightstand"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "scorchstone_blocksyouneed_luna_classic_nightstand": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "blocksyouneed_luna:scorchstone_polished"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "scorchstone_blocksyouneed_luna_classic_nightstand",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:scorchstone_blocksyouneed_luna_classic_nightstand"
+    ]
+  },
+  "sends_telemetry_event": true
+}

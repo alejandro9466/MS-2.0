@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:sandstone_xkdeco_table_dinner"
+        }
+      ],
+      "name": "sandstone_xkdeco_table_dinner",
+      "rolls": 1.0
+    }
+  ]
+}

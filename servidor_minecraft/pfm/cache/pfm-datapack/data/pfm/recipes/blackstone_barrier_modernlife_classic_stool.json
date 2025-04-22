@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "modernlife:blackstone_barrier"
+    },
+    {
+      "item": "modernlife:blackstone_barrier"
+    },
+    {
+      "item": "modernlife:blackstone_barrier"
+    },
+    {
+      "item": "modernlife:polished_blackstone_barrier"
+    },
+    {
+      "item": "modernlife:polished_blackstone_barrier"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:blackstone_barrier_modernlife_classic_stool"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "modernlife:polished_andesite_ramp"
+    },
+    {
+      "item": "modernlife:polished_andesite_ramp"
+    },
+    {
+      "item": "modernlife:polished_andesite_ramp"
+    },
+    {
+      "item": "modernlife:polished_andesite_ramp"
+    },
+    {
+      "item": "modernlife:polished_andesite_ramp"
+    },
+    {
+      "item": "modernlife:polished_andesite_ramp"
+    },
+    {
+      "item": "modernlife:andesite_ramp"
+    },
+    {
+      "item": "modernlife:andesite_ramp"
+    },
+    {
+      "item": "modernlife:andesite_ramp"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:andesite_ramp_modernlife_kitchen_counter"
+  }
+}

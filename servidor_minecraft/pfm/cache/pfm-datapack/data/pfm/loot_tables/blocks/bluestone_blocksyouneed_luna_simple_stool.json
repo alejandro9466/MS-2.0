@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:bluestone_blocksyouneed_luna_simple_stool"
+        }
+      ],
+      "name": "bluestone_blocksyouneed_luna_simple_stool",
+      "rolls": 1.0
+    }
+  ]
+}

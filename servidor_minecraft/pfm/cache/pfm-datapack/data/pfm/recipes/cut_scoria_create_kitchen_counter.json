@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:cut_scoria"
+    },
+    {
+      "item": "create:cut_scoria"
+    },
+    {
+      "item": "create:cut_scoria"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:cut_scoria_create_kitchen_counter"
+  }
+}

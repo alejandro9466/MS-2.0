@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:sandstone_xkdeco_chair_classic"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "sandstone_xkdeco_chair_classic": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "xkdeco:polished_sandstone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "sandstone_xkdeco_chair_classic",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:sandstone_xkdeco_chair_classic"
+    ]
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:cut_dripstone"
+    },
+    {
+      "item": "create:cut_dripstone"
+    },
+    {
+      "item": "create:cut_dripstone"
+    },
+    {
+      "item": "create:cut_dripstone"
+    },
+    {
+      "item": "create:cut_dripstone"
+    },
+    {
+      "item": "create:polished_cut_dripstone"
+    },
+    {
+      "item": "create:polished_cut_dripstone"
+    },
+    {
+      "item": "create:polished_cut_dripstone"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:cut_dripstone_create_kitchen_counter_oven"
+  }
+}

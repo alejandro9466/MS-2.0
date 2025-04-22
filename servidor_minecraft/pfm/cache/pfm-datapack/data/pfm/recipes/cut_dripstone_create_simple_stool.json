@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "create:cut_dripstone"
+    },
+    {
+      "item": "create:cut_dripstone"
+    },
+    {
+      "item": "create:polished_cut_dripstone"
+    },
+    {
+      "item": "create:polished_cut_dripstone"
+    },
+    {
+      "item": "create:polished_cut_dripstone"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cut_dripstone_create_simple_stool"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "blocksyouneed_luna:cracked_dripstone"
+    },
+    {
+      "item": "blocksyouneed_luna:cracked_dripstone"
+    },
+    {
+      "item": "blocksyouneed_luna:cracked_dripstone"
+    },
+    {
+      "item": "blocksyouneed_luna:cracked_dripstone"
+    },
+    {
+      "item": "blocksyouneed_luna:cracked_dripstone"
+    },
+    {
+      "item": "blocksyouneed_luna:cracked_dripstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_cracked_dripstone"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cracked_dripstone_blocksyouneed_luna_classic_nightstand"
+  }
+}

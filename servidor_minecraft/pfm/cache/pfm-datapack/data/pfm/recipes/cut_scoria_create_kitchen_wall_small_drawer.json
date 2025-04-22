@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:cut_scoria"
+    },
+    {
+      "item": "create:cut_scoria"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:cut_scoria_create_kitchen_wall_small_drawer"
+  }
+}

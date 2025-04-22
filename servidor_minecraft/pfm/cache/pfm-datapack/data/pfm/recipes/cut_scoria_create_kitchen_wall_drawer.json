@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:polished_cut_scoria"
+    },
+    {
+      "item": "create:cut_scoria"
+    },
+    {
+      "item": "create:cut_scoria"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:cut_scoria_create_kitchen_wall_drawer"
+  }
+}

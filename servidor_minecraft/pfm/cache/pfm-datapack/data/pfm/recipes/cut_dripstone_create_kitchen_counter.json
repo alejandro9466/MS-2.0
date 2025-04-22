@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_dripstone"
+    },
+    {
+      "item": "create:polished_cut_dripstone"
+    },
+    {
+      "item": "create:polished_cut_dripstone"
+    },
+    {
+      "item": "create:polished_cut_dripstone"
+    },
+    {
+      "item": "create:polished_cut_dripstone"
+    },
+    {
+      "item": "create:polished_cut_dripstone"
+    },
+    {
+      "item": "create:cut_dripstone"
+    },
+    {
+      "item": "create:cut_dripstone"
+    },
+    {
+      "item": "create:cut_dripstone"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:cut_dripstone_create_kitchen_counter"
+  }
+}

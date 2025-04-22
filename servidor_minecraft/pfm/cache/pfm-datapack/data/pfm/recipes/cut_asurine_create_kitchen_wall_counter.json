@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_asurine"
+    },
+    {
+      "item": "create:polished_cut_asurine"
+    },
+    {
+      "item": "create:polished_cut_asurine"
+    },
+    {
+      "item": "create:polished_cut_asurine"
+    },
+    {
+      "item": "create:polished_cut_asurine"
+    },
+    {
+      "item": "create:polished_cut_asurine"
+    },
+    {
+      "item": "create:polished_cut_asurine"
+    },
+    {
+      "item": "create:polished_cut_asurine"
+    },
+    {
+      "item": "create:polished_cut_asurine"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:cut_asurine_create_kitchen_wall_counter"
+  }
+}

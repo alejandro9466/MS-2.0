@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "modernlife:diorite_barrier"
+    },
+    {
+      "item": "modernlife:diorite_barrier"
+    },
+    {
+      "item": "modernlife:diorite_barrier"
+    },
+    {
+      "item": "modernlife:polished_diorite_barrier"
+    },
+    {
+      "item": "modernlife:polished_diorite_barrier"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:diorite_barrier_modernlife_classic_stool"
+  }
+}

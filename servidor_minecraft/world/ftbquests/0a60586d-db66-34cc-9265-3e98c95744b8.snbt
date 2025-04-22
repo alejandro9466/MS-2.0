@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "0a60586ddb6634cc92653e98c95744b8"
+	name: "alejandro946#0a60586d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

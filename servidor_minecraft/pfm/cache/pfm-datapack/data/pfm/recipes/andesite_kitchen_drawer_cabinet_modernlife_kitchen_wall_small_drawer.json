@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "modernlife:polished_andesite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:polished_andesite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:polished_andesite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:andesite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:andesite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:andesite_kitchen_drawer_cabinet_modernlife_kitchen_wall_small_drawer"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "create:cut_crimsite"
+    },
+    {
+      "item": "create:cut_crimsite"
+    },
+    {
+      "item": "create:cut_crimsite"
+    },
+    {
+      "item": "create:polished_cut_crimsite"
+    },
+    {
+      "item": "create:polished_cut_crimsite"
+    },
+    {
+      "item": "create:polished_cut_crimsite"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cut_crimsite_create_chair_dinner"
+  }
+}

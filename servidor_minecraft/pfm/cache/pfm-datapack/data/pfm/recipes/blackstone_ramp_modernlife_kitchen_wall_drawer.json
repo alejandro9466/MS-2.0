@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "modernlife:polished_blackstone_ramp"
+    },
+    {
+      "item": "modernlife:polished_blackstone_ramp"
+    },
+    {
+      "item": "modernlife:polished_blackstone_ramp"
+    },
+    {
+      "item": "modernlife:polished_blackstone_ramp"
+    },
+    {
+      "item": "modernlife:polished_blackstone_ramp"
+    },
+    {
+      "item": "modernlife:polished_blackstone_ramp"
+    },
+    {
+      "item": "modernlife:blackstone_ramp"
+    },
+    {
+      "item": "modernlife:blackstone_ramp"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:blackstone_ramp_modernlife_kitchen_wall_drawer"
+  }
+}

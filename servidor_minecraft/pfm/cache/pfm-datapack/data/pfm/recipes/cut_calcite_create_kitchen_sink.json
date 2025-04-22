@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_calcite"
+    },
+    {
+      "item": "create:polished_cut_calcite"
+    },
+    {
+      "item": "create:polished_cut_calcite"
+    },
+    {
+      "item": "create:polished_cut_calcite"
+    },
+    {
+      "item": "create:polished_cut_calcite"
+    },
+    {
+      "item": "create:cut_calcite"
+    },
+    {
+      "item": "create:cut_calcite"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:cut_calcite_create_kitchen_sink"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "modernlife:polished_granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:polished_granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:polished_granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:polished_granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:polished_granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:polished_granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:granite_kitchen_drawer_cabinet"
+    },
+    {
+      "item": "modernlife:granite_kitchen_drawer_cabinet"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:granite_kitchen_drawer_cabinet_modernlife_kitchen_counter"
+  }
+}

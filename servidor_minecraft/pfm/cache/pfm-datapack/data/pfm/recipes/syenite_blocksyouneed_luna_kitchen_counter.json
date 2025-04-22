@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "blocksyouneed_luna:polished_syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:syenite"
+    },
+    {
+      "item": "blocksyouneed_luna:syenite"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:syenite_blocksyouneed_luna_kitchen_counter"
+  }
+}

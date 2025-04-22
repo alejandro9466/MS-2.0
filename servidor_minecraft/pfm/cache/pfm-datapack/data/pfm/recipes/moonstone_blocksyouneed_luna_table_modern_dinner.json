@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "blocksyouneed_luna:moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_moonstone"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:moonstone_blocksyouneed_luna_table_modern_dinner"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "modernlife:granite_kitchen_cabinet"
+    },
+    {
+      "item": "modernlife:granite_kitchen_cabinet"
+    },
+    {
+      "item": "modernlife:granite_kitchen_cabinet"
+    },
+    {
+      "item": "modernlife:granite_kitchen_cabinet"
+    },
+    {
+      "item": "modernlife:polished_granite_kitchen_cabinet"
+    },
+    {
+      "item": "modernlife:polished_granite_kitchen_cabinet"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:granite_kitchen_cabinet_modernlife_chair_classic"
+  }
+}

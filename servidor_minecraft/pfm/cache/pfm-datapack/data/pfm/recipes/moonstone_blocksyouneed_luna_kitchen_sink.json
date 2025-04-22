@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "blocksyouneed_luna:polished_moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:moonstone"
+    },
+    {
+      "item": "blocksyouneed_luna:moonstone"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:moonstone_blocksyouneed_luna_kitchen_sink"
+  }
+}

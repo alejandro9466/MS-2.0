@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "blocksyouneed_luna:sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_sodalite"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_sodalite"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:sodalite_blocksyouneed_luna_kitchen_counter_oven"
+  }
+}

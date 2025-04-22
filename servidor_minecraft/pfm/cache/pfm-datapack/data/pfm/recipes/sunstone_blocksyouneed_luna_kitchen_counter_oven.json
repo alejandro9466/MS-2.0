@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "blocksyouneed_luna:sunstone"
+    },
+    {
+      "item": "blocksyouneed_luna:sunstone"
+    },
+    {
+      "item": "blocksyouneed_luna:sunstone"
+    },
+    {
+      "item": "blocksyouneed_luna:sunstone"
+    },
+    {
+      "item": "blocksyouneed_luna:sunstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_sunstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_sunstone"
+    },
+    {
+      "item": "blocksyouneed_luna:polished_sunstone"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:sunstone_blocksyouneed_luna_kitchen_counter_oven"
+  }
+}
