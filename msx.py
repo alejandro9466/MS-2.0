@@ -4,7 +4,7 @@
 # 1. Instala la extensión de Python
 # 2. Click al botón de arriba a la derecha para iniciar el script [▶]
 
-# Desde 1.7.10 las versiones mas nuevas pueden tardar en aparecer.
+# Desde [1.7.10], las versiones mas nuevas pueden tardar en aparecer.
 
 # Informacion:
 # Github da 120 horas de actividad, ganando 120 horas el 1 de cada mes.
