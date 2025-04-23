@@ -457,6 +457,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-04-23 00:16:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
     "criteria": {
       "has_planks": "2025-04-22 23:58:53 +0000"
@@ -598,6 +604,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-04-23 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-23 00:16:55 +0000"
     },
     "done": true
   },
@@ -980,6 +992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-23 00:10:50 +0000"
+    },
+    "done": true
+  },
   "legendarysurvivaloverhaul:recipes/misc/large_canteen": {
     "criteria": {
       "has_leather": "2025-04-23 00:05:30 +0000"
@@ -1137,6 +1155,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-04-23 00:13:35 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_mahogany_biomesoplenty_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-04-22 23:58:52 +0000"
@@ -1278,6 +1302,12 @@
   "pfm:recipes/furniture/mahogany_biomesoplenty_chair_dinner": {
     "criteria": {
       "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-23 00:13:35 +0000"
     },
     "done": true
   },
@@ -1512,6 +1542,12 @@
   "pfm:recipes/furniture/iron_oven_range_hood": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-04-23 00:13:35 +0000"
     },
     "done": true
   },
@@ -2170,6 +2206,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-04-23 00:12:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
@@ -2542,6 +2584,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-04-23 00:16:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-04-23 00:05:30 +0000"
@@ -2563,6 +2611,12 @@
   "pfm:recipes/furniture/oak_table_modern_dinner": {
     "criteria": {
       "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-23 00:16:55 +0000"
     },
     "done": true
   },
@@ -2701,6 +2755,12 @@
   "pfm:recipes/furniture/birch_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-23 00:12:23 +0000"
     },
     "done": true
   },
@@ -2845,6 +2905,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
     "criteria": {
       "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-23 00:16:55 +0000"
     },
     "done": true
   },
@@ -3130,6 +3196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-23 00:10:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
     "criteria": {
       "has_planks": "2025-04-22 23:58:53 +0000"
@@ -3217,6 +3289,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
     "criteria": {
       "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-04-23 00:16:55 +0000"
     },
     "done": true
   },

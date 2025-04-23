@@ -80,7 +80,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:lukewarm_ocean": "2025-04-22 23:45:48 +0000",
-      "minecraft:jungle": "2025-04-22 23:44:21 +0000"
+      "minecraft:jungle": "2025-04-22 23:44:21 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-23 00:15:58 +0000"
     },
     "done": false
   },
@@ -942,6 +943,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-04-23 00:01:24 +0000"
@@ -954,6 +961,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-23 00:04:23 +0000"
@@ -963,6 +976,18 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-04-23 00:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
     },
     "done": true
   },
@@ -987,6 +1012,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
       "has_stick": "2025-04-22 23:54:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
     },
     "done": true
   },
@@ -1098,6 +1129,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-23 00:06:22 +0000"
@@ -1116,6 +1159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-23 00:18:33 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stone_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-04-23 00:06:14 +0000"
@@ -1131,6 +1180,18 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-04-23 00:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-23 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-23 00:16:36 +0000"
     },
     "done": true
   },
@@ -1176,6 +1237,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/knife": {
     "criteria": {
       "has_leather": "2025-04-23 00:04:23 +0000"
@@ -1203,6 +1270,12 @@
   "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
     "criteria": {
       "has_andesite": "2025-04-23 00:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
     },
     "done": true
   },
@@ -1319,6 +1392,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "rotten_flesh": "2025-04-23 00:09:52 +0000",
       "melon_slice": "2025-04-23 00:01:27 +0000"
     },
     "done": false
@@ -1362,6 +1436,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-22 23:54:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-23 00:16:34 +0000"
     },
     "done": true
   },
@@ -1413,9 +1493,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-23 00:16:36 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/gray_oven_range_hood": {
     "criteria": {
       "has_gray_concrete": "2025-04-23 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
     },
     "done": true
   },
@@ -1443,6 +1535,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-23 00:18:33 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-04-23 00:04:23 +0000"
@@ -1467,6 +1571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-04-23 00:06:14 +0000"
@@ -1482,6 +1592,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-23 00:06:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
     },
     "done": true
   },
@@ -1623,15 +1739,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-23 00:06:22 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-04-23 00:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
     },
     "done": true
   },
@@ -1644,6 +1784,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
     "criteria": {
       "has_stick": "2025-04-22 23:54:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
     },
     "done": true
   },
@@ -1722,6 +1868,12 @@
   "pfm:recipes/furniture/gray_dark_oak_modern_stool": {
     "criteria": {
       "has_planks": "2025-04-23 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-23 00:15:35 +0000"
     },
     "done": true
   },

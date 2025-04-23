@@ -16,3 +16,46 @@
 [23Apr2025 00:11:04.967] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [23Apr2025 00:11:59.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was blown up by Creeper
 [23Apr2025 00:12:18.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Apr2025 00:12:50.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Mutant
+[23Apr2025 00:13:16.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 died
+[23Apr2025 00:13:31.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=529, y=77, z=-170} BlockPos{x=530, y=76, z=-170}
+[23Apr2025 00:13:54.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was shot by Inflated
+[23Apr2025 00:14:54.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Zombie
+[23Apr2025 00:14:55.817] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2052ms or 41 ticks
+[23Apr2025 00:15:23.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 died because of Runner
+[23Apr2025 00:15:25.767] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Apr2025 00:15:30.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Runner
+[23Apr2025 00:15:40.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Infected Police
+[23Apr2025 00:15:46.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Walker
+[23Apr2025 00:16:13.520] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Apr2025 00:16:16.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 died
+[23Apr2025 00:17:05.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 died
+[23Apr2025 00:17:25.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Disconnected
+[23Apr2025 00:17:25.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
+[23Apr2025 00:19:29.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Disconnected
+[23Apr2025 00:19:29.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
+[23Apr2025 00:19:31.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Apr2025 00:19:31.515] [pool-14-thread-1/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Stopping PendingImageUpdateThread
+[23Apr2025 00:19:31.516] [pool-5-thread-1/ERROR] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Interrupted during recomputeThreadpool wait
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method) ~[?:?]
+	at com.dairymoose.modernlife.core.ModernLifeCommon$2.run(ModernLifeCommon.java:680) ~[modernlife-1.20.1-1.74.jar%23338!/:1.20.1-1.74]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[23Apr2025 00:19:31.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Apr2025 00:19:31.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Apr2025 00:19:31.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Apr2025 00:19:31.552] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[23Apr2025 00:19:31.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Apr2025 00:19:32.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Apr2025 00:19:32.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Apr2025 00:19:32.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Apr2025 00:19:32.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Apr2025 00:19:32.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Apr2025 00:19:32.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Apr2025 00:19:32.730] [Server thread/INFO] [Framework/]: Unloading server configs...
+[23Apr2025 00:19:32.732] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[23Apr2025 00:19:32.733] [Server thread/INFO] [Framework/]: Finished unloading server configs
