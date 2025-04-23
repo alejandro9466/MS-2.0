@@ -690,3 +690,56 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [23Apr2025 00:30:41.948] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [23Apr2025 00:30:42.205] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [23Apr2025 00:33:01.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Apr2025 00:34:12.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Apr2025 00:34:32.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Apr2025 00:34:32.396] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Apr2025 00:34:44.032] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2050ms or 41 ticks
+[23Apr2025 00:37:26.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandro946[/127.160.163.203:46449] logged in with entity id 12490 at (517.7796842189838, 75.0, -189.50271452981468)
+[23Apr2025 00:37:26.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 joined the game
+[23Apr2025 00:37:26.989] [Server thread/INFO] [Jade/]: Syncing config to alejandro946 (0a60586d-db66-34cc-9265-3e98c95744b8)
+[23Apr2025 00:37:41.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Assasin Black Ops
+[23Apr2025 00:38:59.149] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Apr2025 00:38:59.511] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[23Apr2025 00:40:07.175] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[23Apr2025 00:40:10.315] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[23Apr2025 00:40:19.623] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[23Apr2025 00:40:34.048] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Apr2025 00:40:38.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 died
+[23Apr2025 00:40:41.921] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[23Apr2025 00:40:55.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Apr2025 00:41:38.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 died because of Runner
+[23Apr2025 00:42:09.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Getting an Upgrade]
+[23Apr2025 00:42:26.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
+[23Apr2025 00:43:12.252] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Apr2025 00:43:12.550] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Apr2025 00:43:12.552] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Apr2025 00:43:57.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Apr2025 00:44:30.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 died
+[23Apr2025 00:44:35.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
+[23Apr2025 00:44:50.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[23Apr2025 00:44:54.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Disconnected
+[23Apr2025 00:44:54.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
+[23Apr2025 00:45:06.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandro946[/127.160.163.203:39963] logged in with entity id 23347 at (-1829.7597717597814, 84.0, -904.3497326816677)
+[23Apr2025 00:45:06.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 joined the game
+[23Apr2025 00:45:06.342] [Server thread/INFO] [Jade/]: Syncing config to alejandro946 (0a60586d-db66-34cc-9265-3e98c95744b8)
+[23Apr2025 00:45:26.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
+[23Apr2025 00:45:50.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[23Apr2025 00:47:26.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Apr2025 00:47:40.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Apr2025 00:48:16.796] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Apr2025 00:48:51.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Apr2025 00:49:06.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Sweet Dreams]
+[23Apr2025 00:49:15.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Sweet Dreams]
+[23Apr2025 00:49:58.498] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Apr2025 00:49:59.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Apr2025 00:52:14.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Apr2025 00:52:24.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Apr2025 00:52:24.847] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Apr2025 00:52:43.737] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
+[23Apr2025 00:52:43.940] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[23Apr2025 00:53:01.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Apr2025 00:53:03.666] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[23Apr2025 00:53:04.344] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
+[23Apr2025 00:53:04.393] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[23Apr2025 00:53:35.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Apr2025 00:53:46.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already

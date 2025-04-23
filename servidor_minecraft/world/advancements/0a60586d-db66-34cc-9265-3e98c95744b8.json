@@ -210,7 +210,8 @@
     "criteria": {
       "minecraft:lukewarm_ocean": "2025-04-22 23:44:56 +0000",
       "minecraft:stony_shore": "2025-04-23 00:07:28 +0000",
-      "minecraft:jungle": "2025-04-23 00:01:11 +0000"
+      "minecraft:jungle": "2025-04-23 00:01:11 +0000",
+      "minecraft:plains": "2025-04-23 00:42:26 +0000"
     },
     "done": false
   },
@@ -337,21 +338,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "pfm:recipes/furniture/mahogany_biomesoplenty_kitchen_wall_drawer": {
     "criteria": {
-      "has_leather": "2025-04-23 00:05:30 +0000"
+      "has_planks": "2025-04-22 23:58:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
     "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
+      "has_log": "2025-04-22 23:58:50 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/lime_simple_sofa": {
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
     "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
+      "has_logs": "2025-04-22 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_log_stool": {
+    "criteria": {
+      "has_log": "2025-04-22 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-04-22 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-04-22 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:50 +0000"
     },
     "done": true
   },
@@ -361,57 +398,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/diorite": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
-    "criteria": {
-      "has_oak_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:50 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
       "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/dark_electricity_generator": {
-    "criteria": {
-      "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pink_arm_chair": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_grill": {
-    "criteria": {
-      "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2025-04-23 00:00:00 +0000"
     },
     "done": true
   },
@@ -421,27 +410,183 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/melon_popsicle": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
-      "has_melon": "2025-04-23 00:00:17 +0000"
+      "has_planks": "2025-04-22 23:58:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
+  "pfm:recipes/root": {
     "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
+      "has_planks": "2025-04-22 23:58:52 +0000"
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/large_console_lever": {
+  "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
     "criteria": {
-      "has_thing": "2025-04-23 00:00:00 +0000"
+      "has_planks": "2025-04-22 23:58:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
+  "pfm:recipes/furniture/mahogany_biomesoplenty_chair_classic": {
     "criteria": {
-      "has_leather": "2025-04-23 00:05:30 +0000"
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_mahogany_biomesoplenty_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_stool": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_lamp": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_mahogany_biomesoplenty_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_sofa": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/post_box": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_cooler": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_stool": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_stool": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_sofa": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
     },
     "done": true
   },
@@ -457,57 +602,627 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-04-23 00:16:55 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
     "criteria": {
       "has_planks": "2025-04-22 23:58:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
     "criteria": {
-      "has_lots_of_items": "2025-04-23 00:00:17 +0000"
+      "has_planks": "2025-04-22 23:58:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
     "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
+      "has_planks": "2025-04-22 23:58:53 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/dark_prismarine": {
+  "refurbished_furniture:recipes/misc/constructing/lime_stool": {
     "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+      "has_planks": "2025-04-22 23:58:53 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/acacia_green_classic_bed": {
+  "pfm:recipes/furniture/mahogany_biomesoplenty_modern_stool": {
     "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
+      "has_planks": "2025-04-22 23:58:53 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/oak_kitchen_wall_drawer": {
+  "pfm:recipes/furniture/mahogany_biomesoplenty_simple_bunk_ladder": {
     "criteria": {
-      "has_planks": "2025-04-23 00:02:23 +0000"
+      "has_planks": "2025-04-22 23:58:53 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/magenta_simple_sofa": {
+  "pfm:recipes/furniture/mahogany_biomesoplenty_coffee_table_modern": {
     "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
+      "has_planks": "2025-04-22 23:58:53 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/oak_classic_nightstand": {
+  "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_table_classic": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_stool": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_mahogany_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/workbench": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_table_basic": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_lamp": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_mahogany_biomesoplenty_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_stool": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_stool": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/decorations/sewing_table": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_sofa": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_stool": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_stool": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_cooler": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_chair": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_cooler": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_cooler": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_sofa": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_stool": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_table_log": {
+    "criteria": {
+      "has_log": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
+    "criteria": {
+      "has_planks": "2025-04-22 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtain_rods": {
+    "criteria": {
+      "has_wood": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-04-22 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/slicer": {
+    "criteria": {
+      "has_tool": "2025-04-22 23:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-22 23:59:27 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/dark_electricity_generator": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-23 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_grill": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-23 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-23 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/large_console_lever": {
+    "criteria": {
+      "has_thing": "2025-04-23 00:00:00 +0000"
     },
     "done": true
   },
@@ -535,24 +1250,6 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/magic_biomesoplenty_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/stripped_oak_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_microwave": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
@@ -571,33 +1268,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/curtain_rods": {
-    "criteria": {
-      "has_wood": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/crimson_basin": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/root": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/green_simple_sofa": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
     },
     "done": true
   },
@@ -607,51 +1280,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-23 00:16:55 +0000"
-    },
-    "done": true
-  },
   "immersive_weathering:recipes/iron_ingot": {
     "criteria": {
       "has_copper_block": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/blue_arm_chair": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
-    "criteria": {
-      "has_oak_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
-    "criteria": {
-      "has_log": "2025-04-22 23:58:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-04-23 00:05:30 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
     },
     "done": true
   },
@@ -661,34 +1292,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/parapets": {
-    "criteria": {
-      "has_wood": "2025-04-23 00:02:49 +0000",
-      "has_the_recipe": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/large_console_button": {
     "criteria": {
       "has_thing": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_chair_classic": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
     },
     "done": true
   },
@@ -698,45 +1304,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
-    "criteria": {
-      "has_logs": "2025-04-22 23:58:50 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_coffee_table_modern": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_stool": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
     },
     "done": true
   },
@@ -758,57 +1328,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_modern_stool": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_raw_table_log": {
-    "criteria": {
-      "has_log": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/frying_pan": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/quartz": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/willow_biomesoplenty_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dead_biomesoplenty_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
     },
     "done": true
   },
@@ -818,33 +1340,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/oak_plank_secret_button": {
-    "criteria": {
-      "has_thing": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:recipes/combat/desert_helmet": {
-    "criteria": {
-      "has_leather": "2025-04-23 00:05:30 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_simple_bunk_ladder": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
-    "criteria": {
-      "has_oak_planks": "2025-04-23 00:02:49 +0000"
     },
     "done": true
   },
@@ -854,51 +1352,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/white_arm_chair": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/spruce": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-04-23 00:00:17 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/black_arm_chair": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_coffee_table_modern": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/purple_arm_chair": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
     },
     "done": true
   },
@@ -908,99 +1364,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/green_lamp": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/stripped_oak_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/bamboo_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_table_classic": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
-    "criteria": {
-      "has_oak_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:recipes/food/apple_juice": {
-    "criteria": {
-      "has_apple": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-04-23 00:05:30 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/magic_biomesoplenty_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/kitchen_stovetop": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_simple_stool": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-04-23 00:10:50 +0000"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:recipes/misc/large_canteen": {
-    "criteria": {
-      "has_leather": "2025-04-23 00:05:30 +0000"
     },
     "done": true
   },
@@ -1019,12 +1385,6 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mangrove_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
     },
     "done": true
   },
@@ -1052,39 +1412,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/warped_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/magenta_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_stool": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "xkdeco:recipes/building_blocks/varnished_log_from_smoking": {
-    "criteria": {
-      "has_item": "2025-04-23 00:02:23 +0000"
     },
     "done": true
   },
@@ -1097,31 +1427,6 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/light_gray_arm_chair": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/oak": {
-    "criteria": {
-      "has_wood": "2025-04-23 00:02:23 +0000",
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
     },
     "done": true
   },
@@ -1143,51 +1448,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/lime_arm_chair": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/crimson_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
-    "criteria": {
-      "has_bone": "2025-04-23 00:13:35 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/stripped_mahogany_biomesoplenty_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/light_gray_simple_sofa": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/computer": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:50 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/willow_biomesoplenty_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
     },
     "done": true
   },
@@ -1197,57 +1460,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/hellbark_biomesoplenty_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
-    "criteria": {
-      "has_oak_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/oak_bath": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
     },
     "done": true
   },
@@ -1263,12 +1478,6 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/oak_modern_stool": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
@@ -1281,51 +1490,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/yellow_simple_sofa": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/warped_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/oak_basin": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_chair_dinner": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-04-23 00:13:35 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/umbran_biomesoplenty_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/white_simple_sofa": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_sign": {
-    "criteria": {
-      "has_mahogany_planks": "2025-04-22 23:58:53 +0000"
     },
     "done": true
   },
@@ -1335,39 +1502,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/workbench": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/fir_biomesoplenty_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/fir_biomesoplenty_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
     },
     "done": true
   },
@@ -1377,39 +1514,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/shutters": {
-    "criteria": {
-      "has_wood": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/gray_simple_sofa": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_coffee_table_basic": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
     },
     "done": true
   },
@@ -1422,12 +1529,6 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
     },
     "done": true
   },
@@ -1449,51 +1550,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-04-23 00:00:17 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/granite": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_table_basic": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/mangrove": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
     },
     "done": true
   },
@@ -1503,63 +1562,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:recipes/combat/desert_chestplate": {
-    "criteria": {
-      "has_leather": "2025-04-23 00:05:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2025-04-23 00:05:30 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/red_sandstone": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/iron_oven_range_hood": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/bone_broth": {
-    "criteria": {
-      "has_bone": "2025-04-23 00:13:35 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2025-04-23 00:05:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
     },
     "done": true
   },
@@ -1569,45 +1574,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_lamp": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mangrove_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_classic_nightstand": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_range_hood": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/gray_arm_chair": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_kitchen_drawer": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
     },
     "done": true
   },
@@ -1617,57 +1586,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/bricks": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_table_modern_dinner": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-04-23 00:06:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/stripped_mahogany_biomesoplenty_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:recipes/misc/canteen": {
-    "criteria": {
-      "has_leather": "2025-04-23 00:05:30 +0000"
     },
     "done": true
   },
@@ -1683,45 +1604,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_bowl": "2025-04-23 00:05:30 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_stool": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/prismarine": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-04-23 00:06:49 +0000"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/console_button": {
     "criteria": {
       "has_thing": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/acacia_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
     },
     "done": true
   },
@@ -1734,18 +1619,6 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
     },
     "done": true
   },
@@ -1773,33 +1646,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/oak_large_button": {
-    "criteria": {
-      "has_thing": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_stool": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_stool": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/lime_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2025-04-23 00:00:17 +0000"
     },
     "done": true
   },
@@ -1809,45 +1658,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/warped": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
     },
     "done": true
   },
@@ -1875,57 +1688,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/white_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_log_stool": {
-    "criteria": {
-      "has_log": "2025-04-22 23:58:50 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/orange_arm_chair": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/dark_oak": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_table_basic": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
     },
     "done": true
   },
@@ -1953,52 +1724,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/blinds": {
-    "criteria": {
-      "has_wood": "2025-04-23 00:02:49 +0000",
-      "has_the_recipe": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_lamp": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/stripped_mahogany_biomesoplenty_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_modern": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/red_simple_sofa": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_chair_modern": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "xkdeco:recipes/building_blocks/varnished_planks_from_smoking": {
-    "criteria": {
-      "has_item": "2025-04-23 00:02:49 +0000"
     },
     "done": true
   },
@@ -2008,33 +1736,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
-    "criteria": {
-      "has_oak_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/gray_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie": "2025-04-22 23:59:27 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:50 +0000"
     },
     "done": true
   },
@@ -2056,18 +1760,6 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/spruce_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/brown_arm_chair": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
@@ -2080,33 +1772,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/components": {
-    "criteria": {
-      "has_wood": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_table_classic": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/purple_simple_sofa": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
     },
     "done": true
   },
@@ -2116,27 +1784,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/bamboo_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
     },
     "done": true
   },
@@ -2146,69 +1796,15 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/red_arm_chair": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/arm_chair_leather": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/birch": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/red_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_classic_stool": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/cherry": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_sofa": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
-    "criteria": {
-      "has_feather": "2025-04-23 00:12:23 +0000"
     },
     "done": true
   },
@@ -2224,18 +1820,6 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/oak_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_fence": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/warped_bath": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
@@ -2248,57 +1832,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/palm_biomesoplenty_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2025-04-23 00:05:30 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_basin": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/umbran_biomesoplenty_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:recipes/decorations/sewing_table": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_kitchen_drawer": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
     },
     "done": true
   },
@@ -2308,69 +1844,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_raw_table_log": {
-    "criteria": {
-      "has_log": "2025-04-22 23:58:50 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/brown_simple_sofa": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_kitchen_wall_counter": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-04-22 23:58:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-04-23 00:05:30 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_button": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "sliceanddice:recipes/misc/slicer": {
-    "criteria": {
-      "has_tool": "2025-04-22 23:59:14 +0000"
     },
     "done": true
   },
@@ -2386,105 +1862,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_oak_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cyan_arm_chair": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
-    "criteria": {
-      "has_oak_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_coffee_table_basic": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/post_box": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_table_dinner": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jacaranda_biomesoplenty_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_classic": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
-    "criteria": {
-      "has_oak_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_door": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/stone": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/crimson": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/green_sofa": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/stripped_oak_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
     },
     "done": true
   },
@@ -2494,63 +1874,9 @@
     },
     "done": true
   },
-  "legendarysurvivaloverhaul:recipes/food/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2025-04-23 00:00:17 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/deepslate": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/birch_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/magenta_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cyan_simple_sofa": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/jungle": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
     },
     "done": true
   },
@@ -2584,57 +1910,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2025-04-23 00:16:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-04-23 00:05:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-04-23 00:00:17 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/yellow_arm_chair": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_table_modern_dinner": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-04-23 00:16:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/blue_stool": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-04-23 00:05:30 +0000"
     },
     "done": true
   },
@@ -2644,33 +1922,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/hellbark_biomesoplenty_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_dinner": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
-    "criteria": {
-      "has_oak_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_stool": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
     },
     "done": true
   },
@@ -2680,45 +1934,15 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/crimson_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/iron_microwave": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/black_cooler": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/green_arm_chair": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/big_console_lever": {
     "criteria": {
       "has_thing": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/flint_knife": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
     },
     "done": true
   },
@@ -2740,69 +1964,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/redwood_biomesoplenty_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/birch_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-04-23 00:12:23 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/blackstone": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_coffee_table_classic": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_chair": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_basin": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_cooler": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
     },
     "done": true
   },
@@ -2812,21 +1976,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/lime_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/sandstone": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
     },
     "done": true
   },
@@ -2860,24 +2012,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/green_cooler": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jacaranda_biomesoplenty_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/big_console_button": {
     "criteria": {
       "has_thing": "2025-04-23 00:00:00 +0000"
@@ -2896,45 +2030,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-23 00:16:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_cooler": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/small_console_button": {
     "criteria": {
       "has_thing": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/redwood_biomesoplenty_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
     },
     "done": true
   },
@@ -2944,63 +2042,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_stool": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_kitchen_wall_counter": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/brown_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/palm_biomesoplenty_green_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/andesite": {
-    "criteria": {
-      "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:recipes/combat/desert_leggings": {
-    "criteria": {
-      "has_leather": "2025-04-23 00:05:30 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pink_simple_sofa": {
-    "criteria": {
-      "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
     },
     "done": true
   },
@@ -3016,21 +2066,418 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/oak_kitchen_wall_small_drawer": {
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_cabinet": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-23 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_storage_cabinet": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-23 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-23 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_cabinet": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-23 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-23 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-04-23 00:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-23 00:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-23 00:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-23 00:00:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-04-23 00:00:17 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-04-23 00:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-23 00:00:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/lime_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/diorite": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pink_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-04-23 00:02:23 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
+  "pfm:recipes/furniture/magenta_simple_sofa": {
     "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
+      "has_wool": "2025-04-23 00:02:23 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/black_sofa": {
+  "pfm:recipes/furniture/green_simple_sofa": {
     "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blue_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/white_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/black_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/purple_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/varnished_log_from_smoking": {
+    "criteria": {
+      "has_item": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_gray_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-04-23 00:02:23 +0000",
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/lime_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_gray_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/yellow_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/white_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/granite": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mangrove": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/red_sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/warped": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/orange_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/red_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/brown_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/components": {
+    "criteria": {
+      "has_wood": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/purple_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/red_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/arm_chair_leather": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/cherry": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/brown_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cyan_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/stone": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/crimson": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/deepslate": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cyan_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/yellow_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/green_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blackstone": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/andesite": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pink_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-23 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:23 +0000"
     },
     "done": true
   },
@@ -3046,57 +2493,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_stool": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_simple_bunk_ladder": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/blue_simple_sofa": {
     "criteria": {
       "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
     },
     "done": true
   },
@@ -3106,33 +2505,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/oak_storage_cabinet": {
-    "criteria": {
-      "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_storage_cabinet": {
-    "criteria": {
-      "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/acacia": {
     "criteria": {
       "has_the_recipe": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_stool": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dead_biomesoplenty_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
     },
     "done": true
   },
@@ -3142,81 +2517,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/oak_window": {
-    "criteria": {
-      "has_ingredient": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_sofa": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_table": {
-    "criteria": {
-      "has_oak_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/magenta_arm_chair": {
     "criteria": {
       "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/cutting_board": {
-    "criteria": {
-      "has_stick": "2025-04-22 23:58:56 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_green_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-04-23 00:05:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-04-23 00:10:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:recipes/combat/desert_boots": {
-    "criteria": {
-      "has_leather": "2025-04-23 00:05:30 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_table_log": {
-    "criteria": {
-      "has_log": "2025-04-23 00:02:49 +0000"
     },
     "done": true
   },
@@ -3226,51 +2529,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/oak_simple_stool": {
-    "criteria": {
-      "has_planks": "2025-04-23 00:02:49 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/light_blue_arm_chair": {
     "criteria": {
       "has_wool": "2025-04-23 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
-    "criteria": {
-      "has_iron_ingot": "2025-04-23 00:00:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2025-04-23 00:06:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_table_dinner": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mahogany_biomesoplenty_table_log": {
-    "criteria": {
-      "has_log": "2025-04-22 23:58:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
-    "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
     },
     "done": true
   },
@@ -3280,15 +2541,761 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_cabinet": {
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
     "criteria": {
-      "has_iron_ingot": "2025-04-23 00:00:00 +0000"
+      "has_oak_planks": "2025-04-23 00:02:49 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
+  "pfm:recipes/furniture/oak_classic_nightstand": {
     "criteria": {
-      "has_planks": "2025-04-22 23:58:53 +0000"
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/parapets": {
+    "criteria": {
+      "has_wood": "2025-04-23 00:02:49 +0000",
+      "has_the_recipe": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/oak_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_oak_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
+    "criteria": {
+      "has_oak_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_oak_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/shutters": {
+    "criteria": {
+      "has_wood": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/oak_large_button": {
+    "criteria": {
+      "has_thing": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_table_basic": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blinds": {
+    "criteria": {
+      "has_wood": "2025-04-23 00:02:49 +0000",
+      "has_the_recipe": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/varnished_planks_from_smoking": {
+    "criteria": {
+      "has_item": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_oak_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_table_classic": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_oak_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
+    "criteria": {
+      "has_oak_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_table_log": {
+    "criteria": {
+      "has_log": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dead_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dead_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-04-23 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-23 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-23 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-23 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/desert_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-23 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-23 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/large_canteen": {
+    "criteria": {
+      "has_leather": "2025-04-23 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/desert_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-23 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-23 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-04-23 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/canteen": {
+    "criteria": {
+      "has_leather": "2025-04-23 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-23 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-04-23 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-23 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-23 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-23 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/desert_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-23 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/desert_boots": {
+    "criteria": {
+      "has_leather": "2025-04-23 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-23 00:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-04-23 00:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-23 00:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-23 00:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-23 00:10:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-04-23 00:12:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-23 00:12:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-04-23 00:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-23 00:13:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-04-23 00:13:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-04-23 00:16:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-23 00:16:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-04-23 00:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-23 00:16:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-23 00:16:55 +0000"
     },
     "done": true
   },
@@ -3298,9 +3305,117 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "has_iron_ingot": "2025-04-23 00:00:00 +0000"
+      "has_book": "2025-04-23 00:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-23 00:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-23 00:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-23 00:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-23 00:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-23 00:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-23 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-23 00:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-23 00:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-23 00:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-23 00:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-23 00:46:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/iron_nugget": {
+    "criteria": {
+      "has_copper_block": "2025-04-23 00:46:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-23 00:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-23 00:46:11 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/bronze_block": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-23 00:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-04-23 00:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-23 00:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-23 00:46:11 +0000"
     },
     "done": true
   },
