@@ -77,5 +77,260 @@
     },
     "done": false
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-04-22 23:40:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-22 23:40:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 23:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:lukewarm_ocean": "2025-04-22 23:44:56 +0000"
+    },
+    "done": false
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-04-22 23:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:blaze": "2025-04-22 23:45:04 +0000",
+      "minecraft:pillager": "2025-04-22 23:45:04 +0000",
+      "minecraft:skeleton": "2025-04-22 23:45:04 +0000",
+      "minecraft:elder_guardian": "2025-04-22 23:45:04 +0000",
+      "minecraft:zoglin": "2025-04-22 23:45:04 +0000",
+      "minecraft:ravager": "2025-04-22 23:45:04 +0000",
+      "minecraft:ghast": "2025-04-22 23:45:04 +0000",
+      "minecraft:hoglin": "2025-04-22 23:45:04 +0000",
+      "minecraft:guardian": "2025-04-22 23:45:04 +0000",
+      "minecraft:vindicator": "2025-04-22 23:45:04 +0000",
+      "minecraft:magma_cube": "2025-04-22 23:45:04 +0000",
+      "minecraft:piglin_brute": "2025-04-22 23:45:04 +0000",
+      "minecraft:spider": "2025-04-22 23:45:04 +0000",
+      "minecraft:creeper": "2025-04-22 23:45:04 +0000",
+      "minecraft:wither": "2025-04-22 23:45:04 +0000",
+      "minecraft:evoker": "2025-04-22 23:45:04 +0000",
+      "minecraft:slime": "2025-04-22 23:45:04 +0000",
+      "minecraft:phantom": "2025-04-22 23:45:04 +0000",
+      "minecraft:zombified_piglin": "2025-04-22 23:45:04 +0000",
+      "minecraft:witch": "2025-04-22 23:45:04 +0000",
+      "minecraft:wither_skeleton": "2025-04-22 23:45:04 +0000",
+      "minecraft:husk": "2025-04-22 23:45:04 +0000",
+      "minecraft:ender_dragon": "2025-04-22 23:45:04 +0000",
+      "minecraft:shulker": "2025-04-22 23:45:04 +0000",
+      "minecraft:cave_spider": "2025-04-22 23:45:04 +0000",
+      "minecraft:piglin": "2025-04-22 23:45:04 +0000",
+      "minecraft:enderman": "2025-04-22 23:45:04 +0000",
+      "minecraft:silverfish": "2025-04-22 23:45:04 +0000",
+      "minecraft:stray": "2025-04-22 23:45:04 +0000",
+      "minecraft:endermite": "2025-04-22 23:45:04 +0000",
+      "minecraft:vex": "2025-04-22 23:45:04 +0000",
+      "minecraft:zombie": "2025-04-22 23:45:04 +0000",
+      "minecraft:drowned": "2025-04-22 23:45:04 +0000",
+      "minecraft:zombie_villager": "2025-04-22 23:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-22 23:45:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-22 23:45:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-22 23:45:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-22 23:45:38 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/dirt_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-04-22 23:45:53 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/grass_block_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-04-22 23:45:53 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/dirt_cobblestone": {
+    "criteria": {
+      "has_item": "2025-04-22 23:45:53 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/dirt_path_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-04-22 23:45:53 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/mycelium_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-04-22 23:45:53 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/podzol_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-04-22 23:45:53 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2025-04-22 23:45:53 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-04-22 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-22 23:50:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
