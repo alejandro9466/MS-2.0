@@ -3341,9 +3341,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
     "criteria": {
-      "slept_in_bed": "2025-04-23 00:49:15 +0000"
+      "has_cobweb": "2025-04-23 00:46:04 +0000"
     },
     "done": true
   },
@@ -3354,6 +3354,30 @@
     "done": true
   },
   "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-23 00:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-23 00:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-23 00:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-23 00:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-23 00:46:11 +0000"
     },
@@ -3371,12 +3395,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-04-23 00:46:11 +0000"
-    },
-    "done": true
-  },
   "immersive_weathering:recipes/iron_nugget": {
     "criteria": {
       "has_copper_block": "2025-04-23 00:46:46 +0000"
@@ -3389,33 +3407,297 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-04-23 00:46:11 +0000"
-    },
-    "done": true
-  },
   "xkdeco:recipes/building_blocks/bronze_block": {
     "criteria": {
       "has_iron_nugget": "2025-04-23 00:46:46 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_cobweb": "2025-04-23 00:46:04 +0000"
+      "slept_in_bed": "2025-04-23 00:49:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
-      "has_string": "2025-04-23 00:46:11 +0000"
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
-      "has_string": "2025-04-23 00:46:11 +0000"
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
+    "criteria": {
+      "has_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/andesite_button": {
+    "criteria": {
+      "has_thing": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/andesite_button_stonecutter": {
+    "criteria": {
+      "has_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/maya_stone": {
+    "criteria": {
+      "has_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/andesite_large_button": {
+    "criteria": {
+      "has_thing": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-23 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-04-23 00:56:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-04-23 00:58:05 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/tools/seasonal_calendar": {
+    "criteria": {
+      "has_paper": "2025-04-23 00:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-23 00:58:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-04-23 00:58:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-04-23 00:58:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-04-23 00:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-23 00:58:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/wall_toilet_paper": {
+    "criteria": {
+      "has_paper": "2025-04-23 00:58:05 +0000"
     },
     "done": true
   },
