@@ -1,31 +1,36 @@
-[23Apr2025 00:23:50.305] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[23Apr2025 00:23:50.310] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[23Apr2025 00:23:51.316] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[23Apr2025 00:23:51.379] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MS-2.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[23Apr2025 00:23:51.805] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/MS-2.0/servidor_minecraft/mods} returned 2 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
-[23Apr2025 00:23:51.925] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
-[23Apr2025 00:23:51.926] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[23Apr2025 00:23:51.927] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[23Apr2025 00:23:51.928] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[23Apr2025 00:23:52.620] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 62 dependencies adding them to mods collection
-[23Apr2025 00:23:56.935] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[23Apr2025 00:23:57.198] [main/ERROR] [mixin/]: Mixin config fabric-item-group-api-v1.mixins.json does not specify "minVersion" property
-[23Apr2025 00:23:57.201] [main/ERROR] [mixin/]: Mixin config fabric-item-group-api-v1.client.mixins.json does not specify "minVersion" property
-[23Apr2025 00:23:57.270] [main/ERROR] [mixin/]: Mixin config fabric-item-api-v1.client.mixins.json does not specify "minVersion" property
-[23Apr2025 00:23:57.284] [main/ERROR] [mixin/]: Mixin config fabric-data-attachment-api-v1.mixins.json does not specify "minVersion" property
-[23Apr2025 00:23:57.287] [main/ERROR] [mixin/]: Mixin config fabric-data-attachment-api-v1.client.mixins.json does not specify "minVersion" property
-[23Apr2025 00:23:57.356] [main/ERROR] [mixin/]: Mixin config scaling_mobs.mixin.json does not specify "minVersion" property
-[23Apr2025 00:23:57.421] [main/ERROR] [mixin/]: Mixin config geckoanimfix.forge.mixins.json does not specify "minVersion" property
-[23Apr2025 00:23:57.506] [main/INFO] [net.fabricmc.loader.impl.bootstrap.FabricLoaderBootstrap/]: Propagating FML mod list to Fabric Loader
-[23Apr2025 00:23:57.521] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[23Apr2025 00:23:57.650] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
-[23Apr2025 00:23:57.651] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[23Apr2025 00:23:57.665] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[23Apr2025 00:23:57.701] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 235 options available, 0 override(s) found
-[23Apr2025 00:23:57.737] [main/WARN] [mixin/]: Reference map 'tacz_fallout.refmap.json' for tacz_fallout.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Apr2025 00:23:57.774] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
-[23Apr2025 00:23:57.789] [main/WARN] [mixin/]: Reference map 'jsconf.refmap.json' for jsconf.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Apr2025 00:23:57.898] [main/INFO] [Puzzles Lib/]: Loading 190 mods:
+[24Apr2025 01:59:23.552] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[24Apr2025 01:59:23.557] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[24Apr2025 01:59:24.588] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24Apr2025 01:59:24.638] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MS-2.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[24Apr2025 01:59:25.094] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/MS-2.0/servidor_minecraft/mods} returned 2 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[24Apr2025 01:59:25.195] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[24Apr2025 01:59:25.196] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[24Apr2025 01:59:25.197] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[24Apr2025 01:59:25.198] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[24Apr2025 01:59:25.848] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 61 dependencies adding them to mods collection
+[24Apr2025 01:59:29.836] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Apr2025 01:59:29.863] [main/ERROR] [mixin/]: Mixin config fabric-item-api-v1.client.mixins.json does not specify "minVersion" property
+[24Apr2025 01:59:29.923] [main/ERROR] [mixin/]: Mixin config fabric-data-attachment-api-v1.mixins.json does not specify "minVersion" property
+[24Apr2025 01:59:29.927] [main/ERROR] [mixin/]: Mixin config fabric-data-attachment-api-v1.client.mixins.json does not specify "minVersion" property
+[24Apr2025 01:59:30.027] [main/ERROR] [mixin/]: Mixin config scaling_mobs.mixin.json does not specify "minVersion" property
+[24Apr2025 01:59:30.164] [main/ERROR] [mixin/]: Mixin config geckoanimfix.forge.mixins.json does not specify "minVersion" property
+[24Apr2025 01:59:30.279] [main/ERROR] [mixin/]: Mixin config fabric-item-group-api-v1.mixins.json does not specify "minVersion" property
+[24Apr2025 01:59:30.282] [main/ERROR] [mixin/]: Mixin config fabric-item-group-api-v1.client.mixins.json does not specify "minVersion" property
+[24Apr2025 01:59:30.426] [main/INFO] [net.fabricmc.loader.impl.bootstrap.FabricLoaderBootstrap/]: Propagating FML mod list to Fabric Loader
+[24Apr2025 01:59:30.457] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[24Apr2025 01:59:30.620] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[24Apr2025 01:59:30.621] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[24Apr2025 01:59:30.640] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[24Apr2025 01:59:30.806] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 225 options available, 0 override(s) found
+[24Apr2025 01:59:30.881] [main/WARN] [mixin/]: Reference map 'tacz_fallout.refmap.json' for tacz_fallout.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2025 01:59:30.893] [main/WARN] [mixin/]: Reference map 'LesRaisinsAddon_1201.refmap.json' for lradd.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2025 01:59:30.932] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
+[24Apr2025 01:59:30.960] [main/WARN] [mixin/]: Reference map 'jsconf.refmap.json' for jsconf.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2025 01:59:31.019] [main/WARN] [mixin/]: Reference map 'mixins.bloodybits.refmap.json' for mixins.bloodybits.json could not be read. If this is a development environment you can ignore this message
+[24Apr2025 01:59:31.048] [main/WARN] [mixin/]: Reference map 'FTBQuestsOptimizer.refmap.json' for ftbqoptimizer.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2025 01:59:31.057] [main/WARN] [mixin/]: Reference map 'mixins.mekanism_turrets.refmap.json' for mixins.mekanism_turrets.json could not be read. If this is a development environment you can ignore this message
+[24Apr2025 01:59:31.127] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2025 01:59:31.213] [main/INFO] [Puzzles Lib/]: Loading 180 mods:
 	- addonslib 1.20.1-1.3
 	- ambientsounds 6.1.6
 	- apocalypsenow 3.0.4
@@ -37,14 +42,7 @@
 	- bookshelf 20.2.13
 	- cloth_config 11.1.136
 	- collective 7.92
-	- copycats 2.2.0+mc.1.20.1-forge
 	- coroutil 1.20.1-1.3.7
-	- create 0.5.1.j
-		\-- flywheel 0.6.11-13
-	- create_factory 0.4b-1.20.1
-	- createaddition 1.20.1-1.2.5
-	- createdieselgenerators 1.20.1-1.2i
-	- createtaczauto 1.3.7
 	- creativecore 2.12.31
 	- curios 5.12.0+1.20.1
 	- cw_additions 1.1.6
@@ -128,6 +126,7 @@
 	- homyatos_explosives 0.9.6
 	- horde_hoard 1.1.0
 	- horror_element_mod 1.6.0
+	- immediatelyfast 1.5.0+1.20.4
 	- immersive_weathering 1.20.1-2.0.5
 	- infinitybuttons 1.20.1-4.0.4
 	- inventorysorter 23.0.8
@@ -173,11 +172,9 @@
 	- mru 1.0.4+1.20.1+forge
 	- mutantmonsters 8.0.7
 	- mutantsbuff 1.0.0
-	- myserveriscompatible 1.0
 	- nobz 1.2
 	- noisium 2.3.0+mc1.20-1.20.1
 	- nomoportals 5.9
-	- numismatics 1.0.11+forge-mc1.20.1
 	- octolib 0.4.2
 	- patchouli 1.20.1-84.1-FORGE
 	- pfm 1.3
@@ -190,10 +187,8 @@
 	- refinedstorageaddons 0.10.0
 	- refurbished_furniture 1.0.9
 	- rhino 2001.2.3-build.10
-	- satisfying_buttons 1.1.2
 	- scalingmobs 2.2.2
 	- simplylight 1.20.1-1.4.6-build.50
-	- sliceanddice 3.3.0
 	- smartbrainlib 1.15
 	- sona 1.2.0
 	- sophisticatedbackpacks 3.23.5.1200
@@ -217,81 +212,140 @@
 	- zombieawareness 1.20.1-1.13.1
 	- zombiekit 2.1.1
 	- zombiesmore 2.0.0
-[23Apr2025 00:23:58.116] [main/WARN] [mixin/]: Reference map 'FTBQuestsOptimizer.refmap.json' for ftbqoptimizer.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Apr2025 00:23:58.136] [main/WARN] [mixin/]: Reference map 'LesRaisinsAddon_1201.refmap.json' for lradd.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Apr2025 00:23:58.183] [main/WARN] [mixin/]: Reference map 'mixins.bloodybits.refmap.json' for mixins.bloodybits.json could not be read. If this is a development environment you can ignore this message
-[23Apr2025 00:23:58.195] [main/WARN] [mixin/]: Reference map 'mixins.mekanism_turrets.refmap.json' for mixins.mekanism_turrets.json could not be read. If this is a development environment you can ignore this message
-[23Apr2025 00:23:58.215] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Apr2025 00:23:58.719] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
-[23Apr2025 00:23:58.720] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
-[23Apr2025 00:23:58.720] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin
-[23Apr2025 00:23:58.722] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[23Apr2025 00:23:58.723] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[23Apr2025 00:23:58.723] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor
-[23Apr2025 00:23:59.024] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[23Apr2025 00:23:59.618] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[23Apr2025 00:23:59.633] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[23Apr2025 00:23:59.973] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
-[23Apr2025 00:24:00.152] [main/WARN] [mixin/]: Error loading class: vazkii/quark/addons/oddities/inventory/BackpackMenu (java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.BackpackMenu)
-[23Apr2025 00:24:00.153] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/CraftingScreen (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.inventory.CraftingScreen)
-[23Apr2025 00:24:00.153] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.CraftingScreen was not found fastbench.mixins.json:MixinCraftingScreen
-[23Apr2025 00:24:00.237] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Font$DisplayMode for invalid dist DEDICATED_SERVER
-[23Apr2025 00:24:00.237] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Font$DisplayMode (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Font$DisplayMode for invalid dist DEDICATED_SERVER)
-[23Apr2025 00:24:00.238] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/MultiBufferSource$BufferSource (java.lang.ClassNotFoundException: net.minecraft.client.renderer.MultiBufferSource$BufferSource)
-[23Apr2025 00:24:00.345] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[23Apr2025 00:24:00.773] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_216202_ in modernfix-forge.mixins.json:perf.tag_id_caching.TagOrElementLocationMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[23Apr2025 00:24:01.012] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (12.71 s after launch)
-[23Apr2025 00:24:01.252] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[23Apr2025 00:24:01.253] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[23Apr2025 00:24:01.729] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[23Apr2025 00:24:01.729] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[23Apr2025 00:24:01.729] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
-[23Apr2025 00:24:02.281] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[23Apr2025 00:24:02.282] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[23Apr2025 00:24:03.452] [main/WARN] [mixin/]: Mixin sona.mixins.json:ItemStackMixin has multiple constructors, (Ljava/lang/Class;)V was selected
+[24Apr2025 01:59:31.406] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[24Apr2025 01:59:31.447] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[24Apr2025 01:59:31.855] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
+[24Apr2025 01:59:31.858] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
+[24Apr2025 01:59:31.859] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin
+[24Apr2025 01:59:31.861] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[24Apr2025 01:59:31.861] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[24Apr2025 01:59:31.862] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor
+[24Apr2025 01:59:32.681] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[24Apr2025 01:59:33.098] [main/WARN] [mixin/]: Error loading class: vazkii/quark/addons/oddities/inventory/BackpackMenu (java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.BackpackMenu)
+[24Apr2025 01:59:33.099] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/CraftingScreen (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.inventory.CraftingScreen)
+[24Apr2025 01:59:33.100] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.CraftingScreen was not found fastbench.mixins.json:MixinCraftingScreen
+[24Apr2025 01:59:33.328] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Font$DisplayMode for invalid dist DEDICATED_SERVER
+[24Apr2025 01:59:33.330] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Font$DisplayMode (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Font$DisplayMode for invalid dist DEDICATED_SERVER)
+[24Apr2025 01:59:33.331] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/MultiBufferSource$BufferSource (java.lang.ClassNotFoundException: net.minecraft.client.renderer.MultiBufferSource$BufferSource)
+[24Apr2025 01:59:33.399] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[24Apr2025 01:59:33.866] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_216202_ in modernfix-forge.mixins.json:perf.tag_id_caching.TagOrElementLocationMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[24Apr2025 01:59:34.102] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (12.88 s after launch)
+[24Apr2025 01:59:34.342] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[24Apr2025 01:59:34.343] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[24Apr2025 01:59:34.770] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[24Apr2025 01:59:34.770] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[24Apr2025 01:59:34.770] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[24Apr2025 01:59:35.284] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[24Apr2025 01:59:35.285] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[24Apr2025 01:59:36.565] [main/WARN] [mixin/]: Mixin sona.mixins.json:ItemStackMixin has multiple constructors, (Ljava/lang/Class;)V was selected
 
-[23Apr2025 00:24:03.461] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[23Apr2025 00:24:03.461] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[23Apr2025 00:24:03.529] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2514 milliseconds
-[23Apr2025 00:24:04.744] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$bgm000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[23Apr2025 00:24:06.246] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[23Apr2025 00:24:06.247] [main/WARN] [mixin/]: Method overwrite conflict for m_47505_ in lithium.mixins.json:world.temperature_cache.BiomeMixin, previously written by org.embeddedt.modernfix.common.mixin.perf.remove_biome_temperature_cache.BiomeMixin. Skipping method.
-[23Apr2025 00:24:07.547] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
-[23Apr2025 00:24:07.553] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 1 RS API injection point
-[23Apr2025 00:24:07.555] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Injected RS API in com.refinedmods.refinedstorageaddons.RSAddons RSAPI
-[23Apr2025 00:24:07.600] [modloading-worker-0/INFO] [snownee.kiwi.Kiwi/]: Kiwi Customization is enabled
-[23Apr2025 00:24:07.643] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[23Apr2025 00:24:07.857] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
-[23Apr2025 00:24:07.919] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.lang.Integer
-[23Apr2025 00:24:07.920] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.lang.Integer
-[23Apr2025 00:24:07.921] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.lang.Boolean
-[23Apr2025 00:24:07.922] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.lang.Integer
-[23Apr2025 00:24:07.927] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.util.ArrayList
-[23Apr2025 00:24:07.927] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.util.ArrayList
-[23Apr2025 00:24:07.927] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.util.ArrayList
-[23Apr2025 00:24:07.928] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.lang.Boolean
-[23Apr2025 00:24:07.930] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.util.ArrayList
-[23Apr2025 00:24:07.930] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.lang.String
-[23Apr2025 00:24:07.939] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: Config gundurability-common.json was loaded, values = {maxDurability=ConfigValue{element='maxDurability', value=2000}, inaccuracyRate=ConfigValue{element='inaccuracyRate', value=500}, doGunsBreak=ConfigValue{element='doGunsBreak', value=false}, jamChance=ConfigValue{element='jamChance', value=15}, biomeModifiers=ConfigValue{element='biomeModifiers', value=[BiomeModifier[biomeName=minecraft:desert, multiplier=1.5], BiomeModifier[biomeName=minecraft:river, multiplier=2.0], BiomeModifier[biomeName=minecraft:plains, multiplier=0.8]]}, unjammableList=ConfigValue{element='unjammableList', value=[tacz:db_short, tacz:db_long]}, durabilityList=ConfigValue{element='durabilityList', value=[DurabilityModifier[gunId=tacz:db_short, maxDurability=1500, jamMultiplier=2.0], DurabilityModifier[gunId=tacz:db_long, maxDurability=1800, jamMultiplier=1.0]]}, debug=ConfigValue{element='debug', value=false}, durabilityItems=ConfigValue{element='durabilityItems', value=[DurabilityItemHolder[id=gundurability:ak_barrel, durability=25.0, uses=1, slot=BARREL, maxDurability=100.0, minDurability=0.0, gunTag={"tagName":"AK Barrels","gunIds":["tacz:qbz_95","tacz:rpk","tacz:type_81","tacz:sks_tactical","tacz:ak47"]}], DurabilityItemHolder[id=gundurability:gun_barrel, durability=17.5, uses=1, slot=BARREL, maxDurability=100.0, minDurability=0.0, gunTag=null], DurabilityItemHolder[id=gundurability:gun_bolt, durability=25.0, uses=1, slot=BOLT, maxDurability=80.0, minDurability=0.0, gunTag=null], DurabilityItemHolder[id=gundurability:recoil_spring, durability=30.0, uses=1, slot=SPRING, maxDurability=90.0, minDurability=10.0, gunTag=null], DurabilityItemHolder[id=gundurability:brass_brush, durability=2.5, uses=16, slot=MISC, maxDurability=80.0, minDurability=50.0, gunTag=null], DurabilityItemHolder[id=gundurability:wd_40, durability=4.0, uses=8, slot=MISC, maxDurability=60.0, minDurability=30.0, gunTag=null]]}, creativeTab=ConfigValue{element='creativeTab', value=gundurability:brass_brush}}
-[23Apr2025 00:24:08.155] [modloading-worker-0/INFO] [snownee.kiwi.Kiwi/INIT]: Processing 6 KiwiModule annotations
-[23Apr2025 00:24:08.291] [modloading-worker-0/WARN] [fallingleaves/]: Falling Leaves is a client only mod and should be removed from the mods list
-[23Apr2025 00:24:08.345] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
-[23Apr2025 00:24:08.345] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
-[23Apr2025 00:24:08.819] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mindfuldarkness:main
-[23Apr2025 00:24:08.905] [modloading-worker-0/INFO] [net.liopyu.entityjs.EntityJSMod/]: Loading EntityJS-Liopyu
-[23Apr2025 00:24:08.934] [modloading-worker-0/INFO] [KubeJS/]: Loaded common.properties
-[23Apr2025 00:24:08.936] [modloading-worker-0/INFO] [KubeJS/]: Loaded dev.properties
-[23Apr2025 00:24:08.957] [modloading-worker-0/ERROR] [org.arbor.extrasounds.ExtraSounds/]: [ExtraSounds] Unexpected error has caught
+[24Apr2025 01:59:36.575] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[24Apr2025 01:59:36.576] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[24Apr2025 01:59:36.653] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2547 milliseconds
+[24Apr2025 01:59:37.903] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zjo000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[24Apr2025 01:59:39.222] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[24Apr2025 01:59:39.224] [main/WARN] [mixin/]: Method overwrite conflict for m_47505_ in lithium.mixins.json:world.temperature_cache.BiomeMixin, previously written by org.embeddedt.modernfix.common.mixin.perf.remove_biome_temperature_cache.BiomeMixin. Skipping method.
+[24Apr2025 01:59:39.969] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[24Apr2025 01:59:40.010] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[24Apr2025 01:59:40.014] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[24Apr2025 01:59:40.014] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[24Apr2025 01:59:40.014] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[24Apr2025 01:59:40.014] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[24Apr2025 01:59:40.014] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[24Apr2025 01:59:40.014] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[24Apr2025 01:59:40.027] [modloading-worker-0/INFO] [de.keksuccino.melody.Melody/]: [MELODY] Disabling Melody since it's loaded server-side.
+[24Apr2025 01:59:40.071] [ForkJoinPool.commonPool-worker-1/INFO] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: [Paladin's Furniture Update Check] Cached update file detected, using that!
+[24Apr2025 01:59:40.079] [ForkJoinPool.commonPool-worker-1/INFO] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: [Paladin's Furniture Update Check] New update detected, showing update message!
+[24Apr2025 01:59:40.357] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[24Apr2025 01:59:40.360] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[24Apr2025 01:59:40.717] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 1 RS API injection point
+[24Apr2025 01:59:40.718] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Injected RS API in com.refinedmods.refinedstorageaddons.RSAddons RSAPI
+[24Apr2025 01:59:40.721] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.92.
+[24Apr2025 01:59:40.736] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
+[24Apr2025 01:59:40.934] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[24Apr2025 01:59:41.545] [modloading-worker-0/INFO] [snownee.kiwi.Kiwi/]: Kiwi Customization is enabled
+[24Apr2025 01:59:41.588] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[24Apr2025 01:59:41.627] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[24Apr2025 01:59:41.628] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[24Apr2025 01:59:41.630] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[24Apr2025 01:59:41.634] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[24Apr2025 01:59:41.637] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[24Apr2025 01:59:41.924] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[24Apr2025 01:59:41.979] [KubeJS Background Thread/INFO] [KubeJS/]: Loaded common.properties
+[24Apr2025 01:59:41.986] [KubeJS Background Thread/INFO] [KubeJS/]: Loaded dev.properties
+[24Apr2025 01:59:42.008] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[24Apr2025 01:59:42.016] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
+[24Apr2025 01:59:42.033] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin does not load on server side, skipping
+[24Apr2025 01:59:42.037] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
+[24Apr2025 01:59:42.040] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source ftbxmodcompat
+[24Apr2025 01:59:42.053] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin does not have required mod ftbchunks loaded, skipping
+[24Apr2025 01:59:42.054] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin does not have required mod ftbfiltersystem loaded, skipping
+[24Apr2025 01:59:42.055] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source lootjs
+[24Apr2025 01:59:42.061] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source entityjs
+[24Apr2025 01:59:42.068] [modloading-worker-0/INFO] [KubeJS/]: Done in 60.46 ms
+[24Apr2025 01:59:42.101] [modloading-worker-0/INFO] [snownee.kiwi.Kiwi/INIT]: Processing 6 KiwiModule annotations
+[24Apr2025 01:59:42.137] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[24Apr2025 01:59:42.252] [modloading-worker-0/INFO] [FTB XMod Compat/]: [FTB Quests] Enabled KubeJS integration
+[24Apr2025 01:59:42.315] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.lang.Integer
+[24Apr2025 01:59:42.315] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.lang.Integer
+[24Apr2025 01:59:42.315] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.lang.Boolean
+[24Apr2025 01:59:42.317] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.lang.Integer
+[24Apr2025 01:59:42.319] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.util.ArrayList
+[24Apr2025 01:59:42.320] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.util.ArrayList
+[24Apr2025 01:59:42.320] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.util.ArrayList
+[24Apr2025 01:59:42.320] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.lang.Boolean
+[24Apr2025 01:59:42.326] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.util.ArrayList
+[24Apr2025 01:59:42.326] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: type = java.lang.String
+[24Apr2025 01:59:42.333] [modloading-worker-0/INFO] [com.corrinedev.jsconf.JSConf/]: Config gundurability-common.json was loaded, values = {maxDurability=ConfigValue{element='maxDurability', value=2000}, inaccuracyRate=ConfigValue{element='inaccuracyRate', value=500}, doGunsBreak=ConfigValue{element='doGunsBreak', value=false}, jamChance=ConfigValue{element='jamChance', value=15}, biomeModifiers=ConfigValue{element='biomeModifiers', value=[BiomeModifier[biomeName=minecraft:desert, multiplier=1.5], BiomeModifier[biomeName=minecraft:river, multiplier=2.0], BiomeModifier[biomeName=minecraft:plains, multiplier=0.8]]}, unjammableList=ConfigValue{element='unjammableList', value=[tacz:db_short, tacz:db_long]}, durabilityList=ConfigValue{element='durabilityList', value=[DurabilityModifier[gunId=tacz:db_short, maxDurability=1500, jamMultiplier=2.0], DurabilityModifier[gunId=tacz:db_long, maxDurability=1800, jamMultiplier=1.0]]}, debug=ConfigValue{element='debug', value=false}, durabilityItems=ConfigValue{element='durabilityItems', value=[DurabilityItemHolder[id=gundurability:ak_barrel, durability=25.0, uses=1, slot=BARREL, maxDurability=100.0, minDurability=0.0, gunTag={"tagName":"AK Barrels","gunIds":["tacz:qbz_95","tacz:rpk","tacz:type_81","tacz:sks_tactical","tacz:ak47"]}], DurabilityItemHolder[id=gundurability:gun_barrel, durability=17.5, uses=1, slot=BARREL, maxDurability=100.0, minDurability=0.0, gunTag=null], DurabilityItemHolder[id=gundurability:gun_bolt, durability=25.0, uses=1, slot=BOLT, maxDurability=80.0, minDurability=0.0, gunTag=null], DurabilityItemHolder[id=gundurability:recoil_spring, durability=30.0, uses=1, slot=SPRING, maxDurability=90.0, minDurability=10.0, gunTag=null], DurabilityItemHolder[id=gundurability:brass_brush, durability=2.5, uses=16, slot=MISC, maxDurability=80.0, minDurability=50.0, gunTag=null], DurabilityItemHolder[id=gundurability:wd_40, durability=4.0, uses=8, slot=MISC, maxDurability=60.0, minDurability=30.0, gunTag=null]]}, creativeTab=ConfigValue{element='creativeTab', value=gundurability:brass_brush}}
+[24Apr2025 01:59:42.441] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading Rhino Minecraft remapper...
+[24Apr2025 01:59:42.442] [modloading-worker-0/INFO] [dev.latvian.mods.rhino.mod.util.RhinoProperties/]: Rhino properties loaded.
+[24Apr2025 01:59:42.450] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading mappings for 1.20.1
+[24Apr2025 01:59:42.563] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Done in 0.122 s
+[24Apr2025 01:59:43.196] [modloading-worker-0/INFO] [KubeJS Startup/]: example.js#5: Hello, World! (Loaded startup scripts)
+[24Apr2025 01:59:43.208] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:example.js in 0.13 s
+[24Apr2025 01:59:43.214] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 1/1 KubeJS startup scripts in 0.645 s with 0 errors and 0 warnings
+[24Apr2025 01:59:43.219] [modloading-worker-0/WARN] [fallingleaves/]: Falling Leaves is a client only mod and should be removed from the mods list
+[24Apr2025 01:59:43.350] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:send_data_from_client
+[24Apr2025 01:59:43.355] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:first_click
+[24Apr2025 01:59:43.438] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[24Apr2025 01:59:43.440] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[24Apr2025 01:59:44.467] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:submit_task
+[24Apr2025 01:59:44.471] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_reward
+[24Apr2025 01:59:44.473] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:get_emergency_items
+[24Apr2025 01:59:44.474] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[24Apr2025 01:59:44.475] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[24Apr2025 01:59:44.477] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_pinned
+[24Apr2025 01:59:44.479] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
+[24Apr2025 01:59:44.482] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_editing_mode
+[24Apr2025 01:59:44.484] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:force_save
+[24Apr2025 01:59:44.487] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:set_custom_image
+[24Apr2025 01:59:44.491] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:task_screen_config_resp
+[24Apr2025 01:59:44.492] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_progress
+[24Apr2025 01:59:44.492] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_object
+[24Apr2025 01:59:44.494] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_task_at
+[24Apr2025 01:59:44.494] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:delete_object
+[24Apr2025 01:59:44.495] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:edit_object
+[24Apr2025 01:59:44.496] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter
+[24Apr2025 01:59:44.497] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_quest
+[24Apr2025 01:59:44.503] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_chapter_group
+[24Apr2025 01:59:44.504] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter_group
+[24Apr2025 01:59:44.508] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_quest
+[24Apr2025 01:59:44.511] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_chapter_image
+[24Apr2025 01:59:44.512] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:sync_structures_request
+[24Apr2025 01:59:44.513] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:request_team_data
+[24Apr2025 01:59:44.635] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mindfuldarkness:main
+[24Apr2025 01:59:44.692] [modloading-worker-0/INFO] [net.liopyu.entityjs.EntityJSMod/]: Loading EntityJS-Liopyu
+[24Apr2025 01:59:44.741] [modloading-worker-0/ERROR] [org.arbor.extrasounds.ExtraSounds/]: [ExtraSounds] Unexpected error has caught
 java.lang.NullPointerException: Cannot invoke "Object.getClass()" because the return value of "java.lang.reflect.Field.get(Object)" is null
-	at org.arbor.extrasounds.ExtraSounds.initCategoryLoader(ExtraSounds.java:136) ~[extrasounds-1.20.1-forge-1.3.jar%23275!/:?]
-	at org.arbor.extrasounds.ExtraSounds.<init>(ExtraSounds.java:64) ~[extrasounds-1.20.1-forge-1.3.jar%23275!/:?]
+	at org.arbor.extrasounds.ExtraSounds.initCategoryLoader(ExtraSounds.java:136) ~[extrasounds-1.20.1-forge-1.3.jar%23259!/:?]
+	at org.arbor.extrasounds.ExtraSounds.<init>(ExtraSounds.java:64) ~[extrasounds-1.20.1-forge-1.3.jar%23259!/:?]
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
 	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
 	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
-	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77) ~[javafmllanguage-1.20.1-47.4.0.jar%23389!/:?]
-	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$5(ModContainer.java:126) ~[fmlcore-1.20.1-47.4.0.jar%23388!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77) ~[javafmllanguage-1.20.1-47.4.0.jar%23371!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$5(ModContainer.java:126) ~[fmlcore-1.20.1-47.4.0.jar%23370!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
 	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
@@ -299,265 +353,188 @@ java.lang.NullPointerException: Cannot invoke "Object.getClass()" because the re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[23Apr2025 00:24:09.002] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[23Apr2025 00:24:09.254] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[23Apr2025 00:24:09.347] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[23Apr2025 00:24:09.404] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[23Apr2025 00:24:09.404] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[23Apr2025 00:24:09.404] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[23Apr2025 00:24:09.404] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[23Apr2025 00:24:09.405] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[23Apr2025 00:24:09.405] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[23Apr2025 00:24:09.405] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[23Apr2025 00:24:09.419] [modloading-worker-0/INFO] [Create: Numismatics/]: Create: Numismatics 1.0.11+forge-mc1.20.1 initializing! Create version: 0.5.1j on platform: FORGE
-[23Apr2025 00:24:09.456] [modloading-worker-0/INFO] [Create: Numismatics/]: Registering items for Create: Numismatics
-[23Apr2025 00:24:09.514] [modloading-worker-0/INFO] [Create: Numismatics/]: Registering blocks for Create: Numismatics
-[23Apr2025 00:24:09.580] [modloading-worker-0/INFO] [de.keksuccino.melody.Melody/]: [MELODY] Disabling Melody since it's loaded server-side.
-[23Apr2025 00:24:09.629] [ForkJoinPool.commonPool-worker-1/INFO] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: [Paladin's Furniture Update Check] Cached update file detected, using that!
-[23Apr2025 00:24:09.637] [ForkJoinPool.commonPool-worker-1/INFO] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: [Paladin's Furniture Update Check] New update detected, showing update message!
-[23Apr2025 00:24:09.658] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[23Apr2025 00:24:09.661] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[23Apr2025 00:24:10.070] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.92.
-[23Apr2025 00:24:10.565] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[23Apr2025 00:24:10.577] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[23Apr2025 00:24:10.600] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
-[23Apr2025 00:24:10.602] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
-[23Apr2025 00:24:10.603] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
-[23Apr2025 00:24:10.605] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
-[23Apr2025 00:24:10.616] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
-[23Apr2025 00:24:10.710] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:submit_task
-[23Apr2025 00:24:10.714] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_reward
-[23Apr2025 00:24:10.716] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:get_emergency_items
-[23Apr2025 00:24:10.718] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_all_rewards
-[23Apr2025 00:24:10.720] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_choice_reward
-[23Apr2025 00:24:10.722] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_pinned
-[23Apr2025 00:24:10.724] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
-[23Apr2025 00:24:10.727] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_editing_mode
-[23Apr2025 00:24:10.727] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:force_save
-[23Apr2025 00:24:10.728] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:set_custom_image
-[23Apr2025 00:24:10.735] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:task_screen_config_resp
-[23Apr2025 00:24:10.738] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_progress
-[23Apr2025 00:24:10.739] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_object
-[23Apr2025 00:24:10.743] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_task_at
-[23Apr2025 00:24:10.744] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:delete_object
-[23Apr2025 00:24:10.744] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:edit_object
-[23Apr2025 00:24:10.745] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter
-[23Apr2025 00:24:10.746] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_quest
-[23Apr2025 00:24:10.749] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_chapter_group
-[23Apr2025 00:24:10.750] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter_group
-[23Apr2025 00:24:10.755] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_quest
-[23Apr2025 00:24:10.757] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_chapter_image
-[23Apr2025 00:24:10.759] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:sync_structures_request
-[23Apr2025 00:24:10.761] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:request_team_data
-[23Apr2025 00:24:10.902] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
-[23Apr2025 00:24:10.910] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
-[23Apr2025 00:24:10.918] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin does not load on server side, skipping
-[23Apr2025 00:24:10.922] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
-[23Apr2025 00:24:10.923] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source ftbxmodcompat
-[23Apr2025 00:24:10.926] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin does not have required mod ftbchunks loaded, skipping
-[23Apr2025 00:24:10.929] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin does not have required mod ftbfiltersystem loaded, skipping
-[23Apr2025 00:24:10.930] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source lootjs
-[23Apr2025 00:24:10.936] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source entityjs
-[23Apr2025 00:24:10.943] [modloading-worker-0/INFO] [KubeJS/]: Done in 40.78 ms
-[23Apr2025 00:24:11.089] [modloading-worker-0/INFO] [FTB XMod Compat/]: [FTB Quests] Enabled KubeJS integration
-[23Apr2025 00:24:11.233] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading Rhino Minecraft remapper...
-[23Apr2025 00:24:11.234] [modloading-worker-0/INFO] [dev.latvian.mods.rhino.mod.util.RhinoProperties/]: Rhino properties loaded.
-[23Apr2025 00:24:11.237] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading mappings for 1.20.1
-[23Apr2025 00:24:11.338] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Done in 0.105 s
-[23Apr2025 00:24:11.938] [modloading-worker-0/INFO] [KubeJS Startup/]: example.js#5: Hello, World! (Loaded startup scripts)
-[23Apr2025 00:24:11.944] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:example.js in 0.075 s
-[23Apr2025 00:24:11.953] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 1/1 KubeJS startup scripts in 0.604 s with 0 errors and 0 warnings
-[23Apr2025 00:24:12.015] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:send_data_from_client
-[23Apr2025 00:24:12.024] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:first_click
-[23Apr2025 00:24:14.277] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [xkdeco:entity_types] initialized
-[23Apr2025 00:24:14.278] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		block_entity_type: 5
-[23Apr2025 00:24:14.279] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_templates] initialized
-[23Apr2025 00:24:14.279] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		kiwi:block_template: 2
-[23Apr2025 00:24:14.280] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_components] initialized
-[23Apr2025 00:24:14.280] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		kiwi:block_component: 10
-[23Apr2025 00:24:14.280] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:data] initialized
-[23Apr2025 00:24:14.280] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		recipe_serializer: 3
-[23Apr2025 00:24:14.281] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:item_templates] initialized
-[23Apr2025 00:24:14.281] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		kiwi:item_template: 3
-[23Apr2025 00:24:14.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@19731230 has been registered twice for the same name treechop:chop_wood.
-[23Apr2025 00:24:17.063] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/ebony_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
-[23Apr2025 00:24:17.077] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/full_glass_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
-[23Apr2025 00:24:17.079] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/glass_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
-[23Apr2025 00:24:17.090] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/iron_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
-[23Apr2025 00:24:17.097] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/mahogany_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
-[23Apr2025 00:24:17.128] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/varnished_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
-[23Apr2025 00:24:17.146] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_big_table is not registered
-[23Apr2025 00:24:17.166] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
-[23Apr2025 00:24:17.170] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
-[23Apr2025 00:24:17.190] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_awning_window is not registered
-[23Apr2025 00:24:17.206] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_awning_window is not registered
-[23Apr2025 00:24:17.308] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_desk is not registered
-[23Apr2025 00:24:17.309] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
-[23Apr2025 00:24:17.316] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_table is not registered
-[23Apr2025 00:24:17.436] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roofed_lamp is not registered
-[23Apr2025 00:24:17.446] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_desk is not registered
-[23Apr2025 00:24:17.447] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_window is not registered
-[23Apr2025 00:24:17.449] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_awning_window is not registered
-[23Apr2025 00:24:17.461] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
-[23Apr2025 00:24:17.468] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_desk is not registered
-[23Apr2025 00:24:17.470] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_big_table is not registered
-[23Apr2025 00:24:17.471] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_table is not registered
-[23Apr2025 00:24:17.476] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_window is not registered
-[23Apr2025 00:24:17.484] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_window is not registered
-[23Apr2025 00:24:17.512] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_big_table is not registered
-[23Apr2025 00:24:17.556] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
-[23Apr2025 00:24:17.568] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_table is not registered
-[23Apr2025 00:24:17.573] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
-[23Apr2025 00:24:18.460] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
-[23Apr2025 00:24:18.461] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.StoveBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[23Apr2025 00:24:18.462] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
-[23Apr2025 00:24:18.462] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.StoveBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[23Apr2025 00:24:18.465] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
-[23Apr2025 00:24:18.465] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.StoveBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[23Apr2025 00:24:18.466] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
-[23Apr2025 00:24:18.466] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.StoveBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[23Apr2025 00:24:18.468] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
-[23Apr2025 00:24:18.468] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.MicrowaveBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[23Apr2025 00:24:18.469] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
-[23Apr2025 00:24:18.470] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.MicrowaveBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[23Apr2025 00:24:18.483] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
-[23Apr2025 00:24:18.483] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.PendantBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[23Apr2025 00:24:18.484] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
-[23Apr2025 00:24:18.484] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.PendantBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[23Apr2025 00:24:19.425] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:red_maple
-[23Apr2025 00:24:19.425] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:orange_maple
-[23Apr2025 00:24:19.425] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:yellow_maple
-[23Apr2025 00:24:19.435] [main/INFO] [Moonlight/]: Initialized block sets in 21ms
-[23Apr2025 00:24:19.625] [main/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Found block type with duplicate id (minecraft:oak), skipping
-[23Apr2025 00:24:19.942] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
-[23Apr2025 00:24:19.942] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.KitchenCounterOvenBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[23Apr2025 00:24:19.943] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
-[23Apr2025 00:24:19.943] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.KitchenCounterOvenBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[23Apr2025 00:24:21.329] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[23Apr2025 00:24:21.428] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[23Apr2025 00:24:21.533] [modloading-worker-0/INFO] [com.dairymoose.modernlife.core.ModernLifeConfig/]: Using camera extension: .png
-[23Apr2025 00:24:21.533] [modloading-worker-0/INFO] [com.dairymoose.modernlife.core.ModernLifeConfig/]: Using easel extension: .png
-[23Apr2025 00:24:21.597] [modloading-worker-0/INFO] [com.gpumemleakfix.Gpumemleakfix/]: gpumemleakfix mod initialized
-[23Apr2025 00:24:21.654] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.14 initializing...
-[23Apr2025 00:24:21.681] [modloading-worker-0/INFO] [meranha.mekaweapons.MekaWeapons/]: Loaded 'Mekanism: Weapons' module.
-[23Apr2025 00:24:21.686] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
-[23Apr2025 00:24:21.688] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Additions' module.
-[23Apr2025 00:24:21.689] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
-[23Apr2025 00:24:21.693] [modloading-worker-0/INFO] [FTB Library/]: Setting game stages provider implementation to: KubeJS Stages
-[23Apr2025 00:24:21.696] [modloading-worker-0/INFO] [FTB XMod Compat/]: Chose [KubeJS Stages] as the active game stages implementation
-[23Apr2025 00:24:21.698] [modloading-worker-0/INFO] [FTB XMod Compat/]: Chose [FALLBACK] as the active permissions implementation
-[23Apr2025 00:24:21.701] [modloading-worker-0/INFO] [FTB XMod Compat/]: [FTB Quests] recipe helper provider is [JEI]
-[23Apr2025 00:24:21.705] [modloading-worker-0/INFO] [FTB Quests Optimizer/]: Enabling FTB Quests Optimizer
-[23Apr2025 00:24:21.841] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[23Apr2025 00:24:21.841] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
-[23Apr2025 00:24:21.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
-[23Apr2025 00:24:21.938] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[23Apr2025 00:24:21.939] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[23Apr2025 00:24:21.939] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[23Apr2025 00:24:21.940] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[23Apr2025 00:24:21.940] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[23Apr2025 00:24:21.940] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[23Apr2025 00:24:21.941] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[23Apr2025 00:24:22.143] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
-[23Apr2025 00:24:22.144] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [elitex] Starting version check at https://raw.githubusercontent.com/ElitexUltraStudios/Elite_X_Quality_Guns_1.20.1/refs/heads/master/update.json
-[23Apr2025 00:24:22.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [elitex] Found status: AHEAD Current: 3.3 Target: null
-[23Apr2025 00:24:22.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
-[23Apr2025 00:24:22.227] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[23Apr2025 00:24:22.266] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[23Apr2025 00:24:22.266] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[23Apr2025 00:24:22.266] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[23Apr2025 00:24:22.266] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[23Apr2025 00:24:22.267] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[23Apr2025 00:24:22.267] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[23Apr2025 00:24:22.267] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[23Apr2025 00:24:22.267] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[23Apr2025 00:24:22.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: OUTDATED Current: 3.3.0 Target: 3.4.0
-[23Apr2025 00:24:22.298] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
-[23Apr2025 00:24:22.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: AHEAD Current: 0.12.4+git.26c9d8e Target: null
-[23Apr2025 00:24:22.326] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[23Apr2025 00:24:22.343] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[23Apr2025 00:24:22.343] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
-[23Apr2025 00:24:22.354] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
-[23Apr2025 00:24:22.354] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[23Apr2025 00:24:22.367] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[23Apr2025 00:24:22.367] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[23Apr2025 00:24:22.400] [main/INFO] [Moonlight/]: Initialized color sets in 104ms
-[23Apr2025 00:24:22.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
-[23Apr2025 00:24:22.465] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mindfuldarkness] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mindfuldarkness.json
-[23Apr2025 00:24:22.476] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mindfuldarkness] Found status: UP_TO_DATE Current: 8.0.3 Target: null
-[23Apr2025 00:24:22.476] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[23Apr2025 00:24:22.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[23Apr2025 00:24:22.501] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[23Apr2025 00:24:22.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.32
-[23Apr2025 00:24:22.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[23Apr2025 00:24:22.836] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[23Apr2025 00:24:22.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[23Apr2025 00:24:22.862] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.kiwi.customization.compat.jade.JadeCompat
-[23Apr2025 00:24:22.867] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
-[23Apr2025 00:24:22.868] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
-[23Apr2025 00:24:22.873] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.larsmans.infinitybuttons.compat.jade.InfinityButtonsPlugin
-[23Apr2025 00:24:22.873] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[23Apr2025 00:24:22.881] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[23Apr2025 00:24:22.884] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[23Apr2025 00:24:23.115] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.9 Target: 1.0.12
-[23Apr2025 00:24:23.116] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[23Apr2025 00:24:23.496] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[23Apr2025 00:24:23.496] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
-[23Apr2025 00:24:23.509] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 2.2.0+mc.1.20.1-forge Target: null
-[23Apr2025 00:24:23.509] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[23Apr2025 00:24:23.519] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.68 Target: null
-[23Apr2025 00:24:23.730] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23Apr2025 00:24:23.952] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[23Apr2025 00:24:24.617] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23387!/assets/.mcassetsroot' uses unexpected schema
-[23Apr2025 00:24:24.618] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23387!/data/.mcassetsroot' uses unexpected schema
-[23Apr2025 00:24:32.133] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_215924_ in modernfix-forge.mixins.json:perf.tag_id_caching.TagEntryMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[23Apr2025 00:24:32.166] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 35 ms
-[23Apr2025 00:24:32.216] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 11 ms
-[23Apr2025 00:24:32.881] [main/INFO] [KubeJS Server/]: example.js#5: Hello, World! (Loaded server scripts)
-[23Apr2025 00:24:32.881] [main/INFO] [KubeJS Server/]: Loaded script server_scripts:example.js in 0.001 s
-[23Apr2025 00:24:32.881] [main/INFO] [KubeJS Server/]: Loaded 1/1 KubeJS server scripts in 0.014 s with 0 errors and 0 warnings
-[23Apr2025 00:24:32.882] [main/INFO] [KubeJS Server/]: Scripts loaded
-[23Apr2025 00:24:34.997] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag create_factory:sweet_berries_jam as it is missing following references: create_factory:sweet_berries_jam_flowing (from create_factory-0.4b-1.20.1.jar)
-[23Apr2025 00:24:35.493] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag marbledsnetherless:ancient_debris_shard as it is missing following references: overworld_netherite_ore:ancientdebrispiece (from marbledsnetherless-1.20.1-1.0.2.jar)
-[23Apr2025 00:24:35.497] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag apocalypsenow:armor/cloth as it is missing following references: apocalypsenow:nurse_helmet (from apocalypsenow-3.0.4-forge-1.20.1.jar)
-[23Apr2025 00:24:36.067] [Worker-Main-3/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:large_gunpowder_recipe_2 from createtaczauto:recipes/large_gunpowder_recipe_2.json
-com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Expected name at line 25 column 4 path $.result.item
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 25 column 4 path $.result.item
-	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:514) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	... 13 more
-[23Apr2025 00:24:36.763] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/villagetaigahouse
+[24Apr2025 01:59:44.793] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[24Apr2025 01:59:45.011] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[24Apr2025 01:59:45.887] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [xkdeco:entity_types] initialized
+[24Apr2025 01:59:45.888] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		block_entity_type: 5
+[24Apr2025 01:59:45.889] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_templates] initialized
+[24Apr2025 01:59:45.889] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		kiwi:block_template: 2
+[24Apr2025 01:59:45.889] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_components] initialized
+[24Apr2025 01:59:45.889] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		kiwi:block_component: 10
+[24Apr2025 01:59:45.889] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:data] initialized
+[24Apr2025 01:59:45.890] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		recipe_serializer: 3
+[24Apr2025 01:59:45.890] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:item_templates] initialized
+[24Apr2025 01:59:45.890] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		kiwi:item_template: 3
+[24Apr2025 01:59:46.123] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@7e5ffe4e has been registered twice for the same name treechop:chop_wood.
+[24Apr2025 01:59:46.399] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
+[24Apr2025 01:59:46.400] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.StoveBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[24Apr2025 01:59:46.401] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
+[24Apr2025 01:59:46.401] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.StoveBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[24Apr2025 01:59:46.403] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
+[24Apr2025 01:59:46.403] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.StoveBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[24Apr2025 01:59:46.404] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
+[24Apr2025 01:59:46.404] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.StoveBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[24Apr2025 01:59:46.406] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
+[24Apr2025 01:59:46.406] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.MicrowaveBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[24Apr2025 01:59:46.407] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
+[24Apr2025 01:59:46.407] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.MicrowaveBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[24Apr2025 01:59:46.418] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
+[24Apr2025 01:59:46.418] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.PendantBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[24Apr2025 01:59:46.419] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
+[24Apr2025 01:59:46.419] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.PendantBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[24Apr2025 01:59:48.630] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/ebony_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[24Apr2025 01:59:48.643] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/full_glass_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[24Apr2025 01:59:48.645] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/glass_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[24Apr2025 01:59:48.656] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/iron_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[24Apr2025 01:59:48.665] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/mahogany_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[24Apr2025 01:59:48.700] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/varnished_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[24Apr2025 01:59:48.719] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_big_table is not registered
+[24Apr2025 01:59:48.741] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[24Apr2025 01:59:48.747] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[24Apr2025 01:59:48.774] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_awning_window is not registered
+[24Apr2025 01:59:48.791] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_awning_window is not registered
+[24Apr2025 01:59:48.887] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_desk is not registered
+[24Apr2025 01:59:48.888] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[24Apr2025 01:59:48.895] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_table is not registered
+[24Apr2025 01:59:48.907] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roofed_lamp is not registered
+[24Apr2025 01:59:48.919] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_desk is not registered
+[24Apr2025 01:59:48.920] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_window is not registered
+[24Apr2025 01:59:48.921] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_awning_window is not registered
+[24Apr2025 01:59:48.933] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[24Apr2025 01:59:48.942] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_desk is not registered
+[24Apr2025 01:59:48.944] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_big_table is not registered
+[24Apr2025 01:59:48.945] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_table is not registered
+[24Apr2025 01:59:48.950] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_window is not registered
+[24Apr2025 01:59:48.961] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_window is not registered
+[24Apr2025 01:59:48.983] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_big_table is not registered
+[24Apr2025 01:59:49.008] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[24Apr2025 01:59:49.015] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_table is not registered
+[24Apr2025 01:59:49.020] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[24Apr2025 01:59:50.366] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:red_maple
+[24Apr2025 01:59:50.367] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:orange_maple
+[24Apr2025 01:59:50.367] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:yellow_maple
+[24Apr2025 01:59:50.378] [main/INFO] [Moonlight/]: Initialized block sets in 23ms
+[24Apr2025 01:59:50.484] [main/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Found block type with duplicate id (minecraft:oak), skipping
+[24Apr2025 01:59:50.686] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
+[24Apr2025 01:59:50.686] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.KitchenCounterOvenBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[24Apr2025 01:59:50.687] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
+[24Apr2025 01:59:50.687] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.unlikepaladin.pfm.blocks.KitchenCounterOvenBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[24Apr2025 01:59:52.297] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[24Apr2025 01:59:52.470] [modloading-worker-0/INFO] [com.gpumemleakfix.Gpumemleakfix/]: gpumemleakfix mod initialized
+[24Apr2025 01:59:52.473] [modloading-worker-0/INFO] [com.dairymoose.modernlife.core.ModernLifeConfig/]: Using camera extension: .png
+[24Apr2025 01:59:52.473] [modloading-worker-0/INFO] [com.dairymoose.modernlife.core.ModernLifeConfig/]: Using easel extension: .png
+[24Apr2025 01:59:52.501] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[24Apr2025 01:59:52.538] [modloading-worker-0/INFO] [FTB Library/]: Setting game stages provider implementation to: KubeJS Stages
+[24Apr2025 01:59:52.538] [modloading-worker-0/INFO] [FTB XMod Compat/]: Chose [KubeJS Stages] as the active game stages implementation
+[24Apr2025 01:59:52.549] [modloading-worker-0/INFO] [FTB XMod Compat/]: Chose [FALLBACK] as the active permissions implementation
+[24Apr2025 01:59:52.553] [modloading-worker-0/INFO] [FTB XMod Compat/]: [FTB Quests] recipe helper provider is [JEI]
+[24Apr2025 01:59:52.603] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.14 initializing...
+[24Apr2025 01:59:52.605] [modloading-worker-0/INFO] [meranha.mekaweapons.MekaWeapons/]: Loaded 'Mekanism: Weapons' module.
+[24Apr2025 01:59:52.619] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Additions' module.
+[24Apr2025 01:59:52.626] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[24Apr2025 01:59:52.629] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
+[24Apr2025 01:59:52.658] [modloading-worker-0/INFO] [FTB Quests Optimizer/]: Enabling FTB Quests Optimizer
+[24Apr2025 01:59:52.894] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[24Apr2025 01:59:52.894] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[24Apr2025 01:59:53.062] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[24Apr2025 01:59:53.146] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[24Apr2025 01:59:53.223] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[24Apr2025 01:59:53.223] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[24Apr2025 01:59:53.224] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[24Apr2025 01:59:53.224] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[24Apr2025 01:59:53.224] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[24Apr2025 01:59:53.225] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[24Apr2025 01:59:53.226] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[24Apr2025 01:59:53.227] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[24Apr2025 01:59:53.404] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[24Apr2025 01:59:53.411] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[24Apr2025 01:59:53.561] [main/INFO] [Moonlight/]: Initialized color sets in 99ms
+[24Apr2025 01:59:53.565] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[24Apr2025 01:59:53.566] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[24Apr2025 01:59:53.566] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[24Apr2025 01:59:53.566] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[24Apr2025 01:59:53.566] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[24Apr2025 01:59:53.566] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[24Apr2025 01:59:53.567] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[24Apr2025 01:59:53.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[24Apr2025 01:59:53.809] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [elitex] Starting version check at https://raw.githubusercontent.com/ElitexUltraStudios/Elite_X_Quality_Guns_1.20.1/refs/heads/master/update.json
+[24Apr2025 01:59:53.822] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [elitex] Found status: AHEAD Current: 3.3 Target: null
+[24Apr2025 01:59:53.822] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[24Apr2025 01:59:54.067] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
+[24Apr2025 01:59:54.076] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.kiwi.customization.compat.jade.JadeCompat
+[24Apr2025 01:59:54.076] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
+[24Apr2025 01:59:54.078] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.larsmans.infinitybuttons.compat.jade.InfinityButtonsPlugin
+[24Apr2025 01:59:54.079] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[24Apr2025 01:59:54.089] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[24Apr2025 01:59:54.093] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[24Apr2025 01:59:54.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.9 Target: 1.0.12
+[24Apr2025 01:59:54.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[24Apr2025 01:59:54.663] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[24Apr2025 01:59:54.664] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
+[24Apr2025 01:59:54.768] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: AHEAD Current: 0.12.4+git.26c9d8e Target: null
+[24Apr2025 01:59:54.768] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[24Apr2025 01:59:54.835] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[24Apr2025 01:59:54.835] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[24Apr2025 01:59:54.846] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[24Apr2025 01:59:54.846] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[24Apr2025 01:59:54.856] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[24Apr2025 01:59:54.856] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Apr2025 01:59:54.893] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Apr2025 01:59:54.974] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[24Apr2025 01:59:54.974] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[24Apr2025 01:59:54.988] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.68 Target: null
+[24Apr2025 01:59:54.988] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mindfuldarkness] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mindfuldarkness.json
+[24Apr2025 01:59:55.001] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mindfuldarkness] Found status: UP_TO_DATE Current: 8.0.3 Target: null
+[24Apr2025 01:59:55.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[24Apr2025 01:59:55.006] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[24Apr2025 01:59:55.014] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.32
+[24Apr2025 01:59:55.143] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+satisfying_buttons (version 1.1.2 -> MISSING)
+Things may not work well.
+[24Apr2025 01:59:55.406] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:sound_event
+	satisfying_buttons:button_hover: 1798
+	satisfying_buttons:button_hover_reverse: 1799
+
+[24Apr2025 01:59:55.407] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Forge Mod Loader detected missing registry entries.
+
+There are 2 missing entries in this save.
+If you continue the missing entries will get removed.
+A world backup will be automatically created in your saves directory.
+
+
+[24Apr2025 01:59:55.408] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Missing minecraft:sound_event:
+    satisfying_buttons:button_hover
+    satisfying_buttons:button_hover_reverse
+
+
+[24Apr2025 01:59:55.408] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[24Apr2025 01:59:55.733] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23369!/assets/.mcassetsroot' uses unexpected schema
+[24Apr2025 01:59:55.734] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23369!/data/.mcassetsroot' uses unexpected schema
+[24Apr2025 02:00:02.928] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:satisfying_buttons
+[24Apr2025 02:00:03.329] [main/INFO] [PFM-DataGen/]: Starting PFM Data Generation
+[24Apr2025 02:00:03.819] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_215924_ in modernfix-forge.mixins.json:perf.tag_id_caching.TagEntryMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[24Apr2025 02:00:06.917] [main/INFO] [PFM-DataGen/]: Data providers took: 3111 ms
+[24Apr2025 02:00:07.337] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 26 ms
+[24Apr2025 02:00:07.370] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 2 ms
+[24Apr2025 02:00:07.968] [main/INFO] [KubeJS Server/]: example.js#5: Hello, World! (Loaded server scripts)
+[24Apr2025 02:00:07.969] [main/INFO] [KubeJS Server/]: Loaded script server_scripts:example.js in 0.001 s
+[24Apr2025 02:00:07.969] [main/INFO] [KubeJS Server/]: Loaded 1/1 KubeJS server scripts in 0.022 s with 0 errors and 0 warnings
+[24Apr2025 02:00:07.969] [main/INFO] [KubeJS Server/]: Scripts loaded
+[24Apr2025 02:00:10.094] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag marbledsnetherless:ancient_debris_shard as it is missing following references: overworld_netherite_ore:ancientdebrispiece (from marbledsnetherless-1.20.1-1.0.2.jar)
+[24Apr2025 02:00:10.097] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag apocalypsenow:armor/cloth as it is missing following references: apocalypsenow:nurse_helmet (from apocalypsenow-3.0.4-forge-1.20.1.jar)
+[24Apr2025 02:00:11.690] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/villagetaigahouse
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'apocalypsenow:officer_chestplate'
-	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
@@ -565,10 +542,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
@@ -576,20 +553,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.0-universal.jar%23392!/:?]
-	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23392!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.0-universal.jar%23374!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23374!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
 	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
@@ -597,187 +574,124 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[23Apr2025 00:24:36.913] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[23Apr2025 00:24:37.306] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulemachete: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[23Apr2025 00:24:37.325] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemoduleironbat: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[23Apr2025 00:24:37.330] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
-[23Apr2025 00:24:37.365] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
-[23Apr2025 00:24:37.382] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulekatana: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[23Apr2025 00:24:37.433] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalclub: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[23Apr2025 00:24:37.435] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulecombataxe: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[23Apr2025 00:24:37.457] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanismexplosives:explosive_emp_recipe: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:basic_circuit'
-[23Apr2025 00:24:37.463] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekaweapons:module_arrowvelocity_unit: com.google.gson.JsonSyntaxException: Unknown item 'mekaweapons:module_arrowvelocity_unit'
-[23Apr2025 00:24:37.469] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalkatana: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[23Apr2025 00:24:37.488] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricaltaticalmace: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[23Apr2025 00:24:37.491] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
-[23Apr2025 00:24:37.502] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createdieselgenerators:smithing/chemical_sprayer_lighter: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[23Apr2025 00:24:37.550] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
-[23Apr2025 00:24:37.586] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
-[23Apr2025 00:24:37.613] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
-[23Apr2025 00:24:37.619] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:combataxe: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[23Apr2025 00:24:37.714] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
-[23Apr2025 00:24:37.729] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalmachete: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[23Apr2025 00:24:37.756] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
-[23Apr2025 00:24:37.758] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
-[23Apr2025 00:24:37.790] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:rockeyhelmetrecipe: com.google.gson.JsonSyntaxException: Unknown item 'apocalypsenow:officer_chestplate'
-[23Apr2025 00:24:37.807] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalbaseballbat: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[23Apr2025 00:24:37.845] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
-[23Apr2025 00:24:37.851] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe blocksyouneed_luna:soot: com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
-[23Apr2025 00:24:37.889] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 67 recipes
-[23Apr2025 00:24:37.894] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
-[23Apr2025 00:24:38.171] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement zombiesmore:kaboom: Task Advancement{parentId=zombiesmore:kaboom, display=net.minecraft.advancements.DisplayInfo@6c241efa, rewards=AdvancementRewards{experience=5, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@9e5007}, criteria={kaboom_0=net.minecraft.advancements.Criterion@2dd1324e}, requirements=[[kaboom_0]], sends_telemetry_event=false}
-[23Apr2025 00:24:38.171] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 8305 advancements
-[23Apr2025 00:24:38.180] [main/INFO] [placebo/]: Registered 0 additional recipes.
-[23Apr2025 00:24:38.212] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[23Apr2025 00:24:38.225] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[23Apr2025 00:24:38.351] [main/INFO] [placebo/]: Registered 0 gear_sets.
-[23Apr2025 00:24:38.511] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 78 block growths configurations
-[23Apr2025 00:24:38.516] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 14 liquid generators configurations
-[23Apr2025 00:24:39.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[23Apr2025 00:24:39.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[23Apr2025 00:24:39.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[23Apr2025 00:24:39.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[23Apr2025 00:24:39.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[23Apr2025 00:24:39.233] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[23Apr2025 00:24:39.327] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23Apr2025 00:24:39.328] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[23Apr2025 00:24:39.328] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23Apr2025 00:24:39.328] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[23Apr2025 00:24:39.347] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedPlayerList/]: Failed to load white-list: 
+[24Apr2025 02:00:11.838] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24Apr2025 02:00:12.164] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulemachete: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[24Apr2025 02:00:12.189] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemoduleironbat: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[24Apr2025 02:00:12.224] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/saltpeter: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[24Apr2025 02:00:12.232] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulekatana: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[24Apr2025 02:00:12.292] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalclub: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[24Apr2025 02:00:12.296] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulecombataxe: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[24Apr2025 02:00:12.318] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanismexplosives:explosive_emp_recipe: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:basic_circuit'
+[24Apr2025 02:00:12.321] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekaweapons:module_arrowvelocity_unit: com.google.gson.JsonSyntaxException: Unknown item 'mekaweapons:module_arrowvelocity_unit'
+[24Apr2025 02:00:12.327] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalkatana: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[24Apr2025 02:00:12.343] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mcore:steel_sheet_pressing as it's serializer returned null
+[24Apr2025 02:00:12.345] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricaltaticalmace: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[24Apr2025 02:00:12.405] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mcore:titanium_sheet_pressing as it's serializer returned null
+[24Apr2025 02:00:12.427] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:combataxe: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[24Apr2025 02:00:12.503] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalmachete: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[24Apr2025 02:00:12.565] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:rockeyhelmetrecipe: com.google.gson.JsonSyntaxException: Unknown item 'apocalypsenow:officer_chestplate'
+[24Apr2025 02:00:12.586] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalbaseballbat: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[24Apr2025 02:00:12.629] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe blocksyouneed_luna:soot: com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
+[24Apr2025 02:00:12.658] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 47 recipes
+[24Apr2025 02:00:12.870] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement zombiesmore:kaboom: Task Advancement{parentId=zombiesmore:kaboom, display=net.minecraft.advancements.DisplayInfo@349fab6d, rewards=AdvancementRewards{experience=5, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@4a311ac5}, criteria={kaboom_0=net.minecraft.advancements.Criterion@4ec001ef}, requirements=[[kaboom_0]], sends_telemetry_event=false}
+[24Apr2025 02:00:12.870] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6851 advancements
+[24Apr2025 02:00:12.883] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[24Apr2025 02:00:12.902] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[24Apr2025 02:00:12.915] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[24Apr2025 02:00:13.205] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[24Apr2025 02:00:13.361] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 78 block growths configurations
+[24Apr2025 02:00:13.365] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 14 liquid generators configurations
+[24Apr2025 02:00:14.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24Apr2025 02:00:14.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Apr2025 02:00:14.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Apr2025 02:00:14.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Apr2025 02:00:14.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Apr2025 02:00:14.182] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Apr2025 02:00:14.263] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Apr2025 02:00:14.263] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Apr2025 02:00:14.263] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Apr2025 02:00:14.264] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Apr2025 02:00:14.276] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedPlayerList/]: Failed to load white-list: 
 java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterator()" because "$$1" is null
-	at net.minecraft.server.players.StoredUserList.m_11399_(StoredUserList.java:121) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.m_139578_(DedicatedPlayerList.java:109) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(DedicatedPlayerList.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:158) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
+	at net.minecraft.server.players.StoredUserList.m_11399_(StoredUserList.java:121) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.m_139578_(DedicatedPlayerList.java:109) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(DedicatedPlayerList.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:158) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[23Apr2025 00:24:39.365] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
-[23Apr2025 00:24:39.650] [Server thread/INFO] [FTB Teams/]: loaded team data: 2 known players, 2 teams total
-[23Apr2025 00:24:39.662] [Server thread/ERROR] [mixin/]: Injection error: LVT in net/minecraft/world/entity/npc/VillagerTrades$EmeraldsForVillagerTypeItem::m_213663_(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/util/RandomSource;)Lnet/minecraft/world/item/trading/MerchantOffer; has incompatible changes at opcode 34 in callback fabric-object-builder-v1.mixins.json:TradeOffersTypeAwareBuyForOneEmeraldFactoryMixin->@Inject::failOnNullItem(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/util/RandomSource;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/item/ItemStack;)V.
+[24Apr2025 02:00:14.296] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[24Apr2025 02:00:14.542] [Server thread/INFO] [FTB Teams/]: loaded team data: 0 known players, 0 teams total
+[24Apr2025 02:00:14.548] [Server thread/INFO] [Framework/]: Loading server configs...
+[24Apr2025 02:00:14.562] [Server thread/ERROR] [mixin/]: Injection error: LVT in net/minecraft/world/entity/npc/VillagerTrades$EmeraldsForVillagerTypeItem::m_213663_(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/util/RandomSource;)Lnet/minecraft/world/item/trading/MerchantOffer; has incompatible changes at opcode 34 in callback fabric-object-builder-v1.mixins.json:TradeOffersTypeAwareBuyForOneEmeraldFactoryMixin->@Inject::failOnNullItem(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/util/RandomSource;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/item/ItemStack;)V.
  Expected: [Lnet/minecraft/world/item/ItemStack;]
     Found: [Lnet/minecraft/world/item/Item;]
 Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack;]
-[23Apr2025 00:24:40.012] [Server thread/INFO] [Framework/]: Loading server configs...
-[23Apr2025 00:24:40.036] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[23Apr2025 00:24:40.447] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[23Apr2025 00:24:40.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[23Apr2025 00:24:40.845] [Server thread/INFO] [GlobalGameRules/]: Applying config gamerules to level world
-[23Apr2025 00:24:40.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[23Apr2025 00:24:40.911] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in lithium.mixins.json:world.chunk_tickets.SortedArraySetMixin, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
-[23Apr2025 00:24:40.913] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
-[23Apr2025 00:24:42.852] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Apr2025 00:24:42.853] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Apr2025 00:24:42.853] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Apr2025 00:24:42.853] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Apr2025 00:24:42.909] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Apr2025 00:24:43.656] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2747 ms
-[23Apr2025 00:24:43.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.306s)! For help, type "help"
-[23Apr2025 00:24:43.749] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[23Apr2025 00:24:43.752] [pool-5-thread-1/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Start checksum threadpool for size=0
-[23Apr2025 00:24:43.757] [Server thread/INFO] [com.technicboyman.nobz.nobabyzombies1_20_1forge.Nobabyzombies1_20_1forge/]: HELLO from server starting
-[23Apr2025 00:24:43.759] [Server thread/INFO] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Paladin's Furniture 1.4.2 has released, for MinecraftForge, NeoForge and Fabric, on 1.16.5-1.21.4 adding new furniture, fixing many bugs and optimizing data and assets. Download it from: Modrinth
-[23Apr2025 00:24:43.780] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[23Apr2025 00:24:43.792] [Server thread/WARN] [ModernFix/]: Dedicated server took 55.488 seconds to load
-[23Apr2025 00:24:43.824] [pool-14-thread-1/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Started PendingImageUpdateThread
-[23Apr2025 00:25:55.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.208.56.176:39333] logged in with entity id 87 at (-683.701416015625, 62.073264324665075, -741.178466796875)
-[23Apr2025 00:25:55.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
-[23Apr2025 00:25:55.635] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity BoatBOP['Boat'/88, l='ServerLevel[world]', x=-683.70, y=62.52, z=-741.18] as it would cause deadlock
-[23Apr2025 00:25:56.063] [Server thread/INFO] [Jade/]: Syncing config to Och8Z (ddaaecbd-a632-3a56-bde9-db3891643eea)
-[23Apr2025 00:26:17.242] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2053ms or 41 ticks
-[23Apr2025 00:26:26.052] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
-[23Apr2025 00:27:03.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Acquire Hardware]
-[23Apr2025 00:30:41.948] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[23Apr2025 00:30:42.205] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:33:01.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:34:12.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[23Apr2025 00:34:32.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:34:32.396] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:34:44.032] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2050ms or 41 ticks
-[23Apr2025 00:37:26.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandro946[/127.160.163.203:46449] logged in with entity id 12490 at (517.7796842189838, 75.0, -189.50271452981468)
-[23Apr2025 00:37:26.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 joined the game
-[23Apr2025 00:37:26.989] [Server thread/INFO] [Jade/]: Syncing config to alejandro946 (0a60586d-db66-34cc-9265-3e98c95744b8)
-[23Apr2025 00:37:41.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Assasin Black Ops
-[23Apr2025 00:38:59.149] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[23Apr2025 00:38:59.511] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
-[23Apr2025 00:40:07.175] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
-[23Apr2025 00:40:10.315] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
-[23Apr2025 00:40:19.623] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
-[23Apr2025 00:40:34.048] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[23Apr2025 00:40:38.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 died
-[23Apr2025 00:40:41.921] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
-[23Apr2025 00:40:55.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[23Apr2025 00:41:38.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 died because of Runner
-[23Apr2025 00:42:09.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Getting an Upgrade]
-[23Apr2025 00:42:26.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
-[23Apr2025 00:43:12.252] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:43:12.550] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:43:12.552] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:43:57.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:44:30.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 died
-[23Apr2025 00:44:35.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
-[23Apr2025 00:44:50.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
-[23Apr2025 00:44:54.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Disconnected
-[23Apr2025 00:44:54.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
-[23Apr2025 00:45:06.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandro946[/127.160.163.203:39963] logged in with entity id 23347 at (-1829.7597717597814, 84.0, -904.3497326816677)
-[23Apr2025 00:45:06.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 joined the game
-[23Apr2025 00:45:06.342] [Server thread/INFO] [Jade/]: Syncing config to alejandro946 (0a60586d-db66-34cc-9265-3e98c95744b8)
-[23Apr2025 00:45:26.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
-[23Apr2025 00:45:50.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
-[23Apr2025 00:47:26.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:47:40.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:48:16.796] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[23Apr2025 00:48:51.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:49:06.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Sweet Dreams]
-[23Apr2025 00:49:15.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Sweet Dreams]
-[23Apr2025 00:49:58.498] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[23Apr2025 00:49:59.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[23Apr2025 00:52:14.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:52:24.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:52:24.847] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:52:43.737] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
-[23Apr2025 00:52:43.940] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
-[23Apr2025 00:53:01.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:53:03.666] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
-[23Apr2025 00:53:04.344] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
-[23Apr2025 00:53:04.393] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
-[23Apr2025 00:53:35.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:53:46.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:55:51.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[23Apr2025 00:56:50.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1791, y=64, z=-876} BlockPos{x=-1791, y=62, z=-876}
-[23Apr2025 00:56:58.200] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[23Apr2025 00:57:14.797] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[23Apr2025 00:57:48.597] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 00:58:37.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[23Apr2025 00:59:24.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from alejandro946: Location (-1899.6167995035648, 64.52267456054688, -832.0) too far away from hit block BlockPos{x=-1900, y=63, z=-833}.
-[23Apr2025 00:59:24.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from alejandro946: Location (-1899.6167995035648, 64.52267456054688, -832.0) too far away from hit block BlockPos{x=-1900, y=63, z=-833}.
-[23Apr2025 00:59:35.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[23Apr2025 00:59:44.035] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2165ms or 43 ticks
-[23Apr2025 01:00:52.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Timed out
-[23Apr2025 01:00:52.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
-[23Apr2025 01:00:52.713] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[23Apr2025 01:01:01.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandro946[/127.160.163.203:55881] logged in with entity id 35446 at (-1900.219827541297, 79.0, -920.4541482052784)
-[23Apr2025 01:01:01.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 joined the game
-[23Apr2025 01:01:01.189] [Server thread/INFO] [Jade/]: Syncing config to alejandro946 (0a60586d-db66-34cc-9265-3e98c95744b8)
-[23Apr2025 01:01:26.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Disconnected
-[23Apr2025 01:01:26.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
-[23Apr2025 01:01:32.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[23Apr2025 01:03:57.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[23Apr2025 01:03:58.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 01:04:01.898] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[23Apr2025 01:04:02.398] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[23Apr2025 01:04:05.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Och8Z: Location (-1881.5170652866364, 69.0, -766.5555555522442) too far away from hit block BlockPos{x=-1882, y=67, z=-767}.
-[23Apr2025 01:05:28.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Zombie
-[23Apr2025 01:05:34.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[23Apr2025 01:06:47.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 01:07:04.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[23Apr2025 01:08:02.596] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[23Apr2025 01:11:14.347] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[23Apr2025 01:11:19.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[23Apr2025 01:11:43.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[23Apr2025 01:11:48.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[23Apr2025 01:12:32.047] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 01:13:04.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[23Apr2025 01:13:55.196] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 01:13:56.997] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[23Apr2025 01:14:14.947] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Apr2025 02:00:14.629] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:14.704] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:14.812] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:15.065] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:15.268] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:15.490] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:15.508] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[24Apr2025 02:00:15.508] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[24Apr2025 02:00:15.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Apr2025 02:00:15.712] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:15.920] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:16.073] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:16.212] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:16.274] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:16.281] [Server thread/INFO] [GlobalGameRules/]: Applying config gamerules to level world
+[24Apr2025 02:00:16.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Apr2025 02:00:16.331] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in lithium.mixins.json:world.chunk_tickets.SortedArraySetMixin, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
+[24Apr2025 02:00:16.333] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[24Apr2025 02:00:16.405] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:16.528] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:16.670] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:16.765] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:16.860] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:16.954] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:17.116] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:17.208] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:17.301] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:17.381] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:17.505] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:17.616] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:17.758] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:17.866] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:17.966] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:18.065] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:18.161] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:18.270] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:18.349] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:18.519] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:18.666] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Apr2025 02:00:18.755] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 02:00:18.756] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 02:00:18.757] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 02:00:18.758] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 02:00:18.758] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 02:00:18.827] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 02:00:19.498] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3172 ms
+[24Apr2025 02:00:19.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.221s)! For help, type "help"
+[24Apr2025 02:00:19.571] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Apr2025 02:00:19.572] [pool-5-thread-1/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Start checksum threadpool for size=0
+[24Apr2025 02:00:19.576] [Server thread/INFO] [com.technicboyman.nobz.nobabyzombies1_20_1forge.Nobabyzombies1_20_1forge/]: HELLO from server starting
+[24Apr2025 02:00:19.577] [Server thread/INFO] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Paladin's Furniture 1.4.2 has released, for MinecraftForge, NeoForge and Fabric, on 1.16.5-1.21.4 adding new furniture, fixing many bugs and optimizing data and assets. Download it from: Modrinth
+[24Apr2025 02:00:19.585] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[24Apr2025 02:00:19.588] [Server thread/WARN] [ModernFix/]: Dedicated server took 58.369 seconds to load
+[24Apr2025 02:00:19.618] [pool-14-thread-1/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Started PendingImageUpdateThread
+[24Apr2025 02:00:30.453] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.208.56.176:56623] logged in with entity id 147 at (26.5, 76.0, 12.5)
+[24Apr2025 02:00:30.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
+[24Apr2025 02:00:31.063] [Server thread/INFO] [Jade/]: Syncing config to Och8Z (ddaaecbd-a632-3a56-bde9-db3891643eea)
+[24Apr2025 02:00:37.221] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[24Apr2025 02:00:57.654] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a7c1175[id=<null>,name=alejandro946,properties={},legacy=false] (/127.160.163.203:34241) lost connection: Disconnected
+[24Apr2025 02:01:05.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandro946[/127.160.163.203:47407] logged in with entity id 615 at (25.5, 72.0, 1.5)
+[24Apr2025 02:01:05.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 joined the game
+[24Apr2025 02:01:05.835] [Server thread/INFO] [Jade/]: Syncing config to alejandro946 (0a60586d-db66-34cc-9265-3e98c95744b8)
+[24Apr2025 02:01:05.837] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2132ms or 42 ticks
+[24Apr2025 02:02:55.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Stone Age]
+[24Apr2025 02:04:15.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Monster Hunter]
+[24Apr2025 02:04:22.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: The difficulty has been set to Easy]
+[24Apr2025 02:05:02.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Stone Age]
+[24Apr2025 02:08:31.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Getting an Upgrade]

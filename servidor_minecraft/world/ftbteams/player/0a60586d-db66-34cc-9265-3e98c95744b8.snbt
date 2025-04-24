@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "alejandro946"
 		"ftbteams:description": ""
-		"ftbteams:color": "#E7FF59"
+		"ftbteams:color": "#59DCFF"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
