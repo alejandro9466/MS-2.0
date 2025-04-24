@@ -695,3 +695,7 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24Apr2025 02:04:22.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: The difficulty has been set to Easy]
 [24Apr2025 02:05:02.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Stone Age]
 [24Apr2025 02:08:31.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Getting an Upgrade]
+[24Apr2025 02:10:40.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Bonfire Lit]
+[24Apr2025 02:15:26.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Getting an Upgrade]
+[24Apr2025 02:18:23.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Monster Hunter]
+[24Apr2025 02:19:14.359] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
