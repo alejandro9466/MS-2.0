@@ -1,0 +1,17 @@
+{
+	id: "a5b50c33-03b6-3454-89d0-fe88fe02716d"
+	type: "player"
+	player_name: "Peter_rola14"
+	ranks: {
+		a5b50c33-03b6-3454-89d0-fe88fe02716d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Peter_rola14"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59F1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

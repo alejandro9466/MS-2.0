@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "Och8Z"
 		"ftbteams:description": ""
-		"ftbteams:color": "#59E3FF"
+		"ftbteams:color": "#59FFCC"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}

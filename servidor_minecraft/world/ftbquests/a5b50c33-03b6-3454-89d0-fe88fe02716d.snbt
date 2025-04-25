@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "a5b50c3303b6345489d0fe88fe02716d"
+	name: "Peter_rola14#a5b50c33"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
