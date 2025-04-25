@@ -5609,6 +5609,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-04-25 02:46:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-04-25 02:42:12 +0000"
@@ -5627,15 +5639,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/gold_large_button": {
+    "criteria": {
+      "has_thing": "2025-04-25 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:44:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-04-25 02:42:12 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-04-25 02:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:44:03 +0000"
     },
     "done": true
   },
@@ -5681,9 +5741,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-25 02:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:44:03 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/sticky_exposed_copper_button": {
     "criteria": {
       "has_thing": "2025-04-25 02:41:14 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/factory_block_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-04-25 02:45:08 +0000"
     },
     "done": true
   },
@@ -5699,9 +5789,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_table_log": {
     "criteria": {
       "has_log": "2025-04-25 02:42:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
     },
     "done": true
   },
@@ -5714,6 +5816,18 @@
   "pfm:recipes/furniture/birch_coffee_table_classic": {
     "criteria": {
       "has_planks": "2025-04-25 02:42:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:44:03 +0000"
     },
     "done": true
   },
@@ -5753,6 +5867,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_table_log": {
+    "criteria": {
+      "has_log": "2025-04-25 02:46:44 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_chair": {
     "criteria": {
       "has_planks": "2025-04-25 02:42:12 +0000"
@@ -5762,6 +5882,12 @@
   "pfm:recipes/furniture/birch_table_classic": {
     "criteria": {
       "has_planks": "2025-04-25 02:42:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
     },
     "done": true
   },
@@ -5801,9 +5927,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_table_modern_dinner": {
     "criteria": {
       "has_planks": "2025-04-25 02:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-25 02:45:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
     },
     "done": true
   },
@@ -5819,9 +5969,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:44:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-04-25 02:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:44:03 +0000"
     },
     "done": true
   },
@@ -5840,6 +6002,12 @@
   "infinitybuttons:recipe/redstone/waxed_copper_large_button": {
     "criteria": {
       "has_thing": "2025-04-25 02:41:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_table_basic": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
     },
     "done": true
   },
@@ -5873,9 +6041,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-25 02:42:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
     },
     "done": true
   },
@@ -5894,6 +6086,18 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-04-25 02:41:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_fir_wood": {
+    "criteria": {
+      "has_log": "2025-04-25 02:46:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
     },
     "done": true
   },
@@ -5975,6 +6179,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/gold_button": {
+    "criteria": {
+      "has_thing": "2025-04-25 02:44:03 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/waxed_weathered_copper_large_button_waxing": {
     "criteria": {
       "has_thing": "2025-04-25 02:41:14 +0000"
@@ -5987,9 +6197,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-04-25 02:42:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
     },
     "done": true
   },
@@ -6035,6 +6257,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/oxidized_copper_large_button": {
     "criteria": {
       "has_thing": "2025-04-25 02:41:14 +0000"
@@ -6044,6 +6272,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-04-25 02:41:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-25 02:46:44 +0000"
     },
     "done": true
   },
@@ -6065,6 +6299,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-04-25 02:42:12 +0000"
@@ -6080,6 +6320,12 @@
   "pfm:recipes/furniture/birch_chair_classic": {
     "criteria": {
       "has_planks": "2025-04-25 02:42:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_chair": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
     },
     "done": true
   },
@@ -6104,6 +6350,12 @@
   "infinitybuttons:recipe/redstone/sticky_oxidized_copper_large_button_pouring_honey": {
     "criteria": {
       "has_thing": "2025-04-25 02:41:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_fir_biomesoplenty_table_classic": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:46:44 +0000"
     },
     "done": true
   },
@@ -6137,9 +6389,21 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/steel_block": {
+    "criteria": {
+      "has_item": "2025-04-25 02:45:08 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_table_basic": {
     "criteria": {
       "has_planks": "2025-04-25 02:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:44:03 +0000"
     },
     "done": true
   },
