@@ -1228,3 +1228,16 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [25Apr2025 02:23:55.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
 [25Apr2025 02:23:55.257] [Server thread/INFO] [Jade/]: Syncing config to Och8Z (ddaaecbd-a632-3a56-bde9-db3891643eea)
 [25Apr2025 02:25:31.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 fell off a ladder
+[25Apr2025 02:28:12.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 blew up
+[25Apr2025 02:29:00.566] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2176ms or 43 ticks
+[25Apr2025 02:29:22.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-389, y=64, z=424} BlockPos{x=-389, y=62, z=424}
+[25Apr2025 02:34:38.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Peter_rola14> zzzzzz
+[25Apr2025 02:34:51.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <alejandro946> zz
+[25Apr2025 02:34:52.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Disconnected
+[25Apr2025 02:34:52.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
+[25Apr2025 02:35:01.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.208.56.176:46917] logged in with entity id 83099 at (-311.6091338699127, 11.0, 338.6837715504722)
+[25Apr2025 02:35:01.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
+[25Apr2025 02:35:01.214] [Server thread/INFO] [Jade/]: Syncing config to Och8Z (ddaaecbd-a632-3a56-bde9-db3891643eea)
+[25Apr2025 02:37:31.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has reached the goal [Dinner's Served!]
+[25Apr2025 02:41:24.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Bonfire Lit]
+[25Apr2025 02:45:25.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Hunt and Gather]
