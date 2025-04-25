@@ -1215,3 +1215,16 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [25Apr2025 02:04:02.139] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [25Apr2025 02:04:13.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 has made the advancement [Suit Up]
 [25Apr2025 02:04:18.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Suit Up]
+[25Apr2025 02:10:04.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Isn't It Iron Pick]
+[25Apr2025 02:11:17.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-362, y=63, z=335} BlockPos{x=-363, y=62, z=332}
+[25Apr2025 02:12:38.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Multi-Tool]
+[25Apr2025 02:12:48.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Multi-Tool]
+[25Apr2025 02:16:27.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Diamonds!]
+[25Apr2025 02:23:27.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Peter_rola14> zzzz
+[25Apr2025 02:23:47.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Disconnected
+[25Apr2025 02:23:47.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
+[25Apr2025 02:23:49.739] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25Apr2025 02:23:55.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.208.56.176:53935] logged in with entity id 77056 at (-323.66714787023807, -22.0, 372.7245275593501)
+[25Apr2025 02:23:55.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
+[25Apr2025 02:23:55.257] [Server thread/INFO] [Jade/]: Syncing config to Och8Z (ddaaecbd-a632-3a56-bde9-db3891643eea)
+[25Apr2025 02:25:31.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 fell off a ladder

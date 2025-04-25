@@ -2,9 +2,7 @@
 	id: "ddaaecbd-a632-3a56-bde9-db3891643eea"
 	type: "player"
 	player_name: "Och8Z"
-	ranks: {
-		ddaaecbd-a632-3a56-bde9-db3891643eea: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Och8Z"
 		"ftbteams:description": ""

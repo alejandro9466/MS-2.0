@@ -3822,6 +3822,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-04-25 02:17:02 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/sticky_copper_large_button_pouring_honey": {
     "criteria": {
       "has_thing": "2025-04-25 01:39:35 +0000"
@@ -3834,9 +3840,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_chair": {
+    "criteria": {
+      "stone_chair": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_birch_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-04-25 01:35:11 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_coffee_table_basic": {
+    "criteria": {
+      "stone_coffee_table_basic": "2025-04-25 02:16:01 +0000"
     },
     "done": true
   },
@@ -3849,6 +3867,12 @@
   "pfm:recipes/furniture/stripped_dark_oak_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-04-25 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:14:02 +0000"
     },
     "done": true
   },
@@ -3894,9 +3918,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-25 02:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-25 02:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:13:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-04-25 01:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/gold_large_button": {
+    "criteria": {
+      "has_thing": "2025-04-25 02:13:30 +0000"
     },
     "done": true
   },
@@ -3912,15 +3966,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:13:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-04-25 01:35:11 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-25 02:14:02 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/dark_oak_plank_secret_button": {
     "criteria": {
       "has_thing": "2025-04-25 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/granite_button_stonecutter": {
+    "criteria": {
+      "has_granite": "2025-04-25 02:14:02 +0000"
     },
     "done": true
   },
@@ -3948,9 +4026,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-04-25 01:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-25 02:14:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_table_dinner": {
+    "criteria": {
+      "stone_table_dinner": "2025-04-25 02:16:01 +0000"
     },
     "done": true
   },
@@ -3963,6 +4059,18 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-25 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_table_modern_dinner": {
+    "criteria": {
+      "stone_table_modern_dinner": "2025-04-25 02:16:01 +0000"
     },
     "done": true
   },
@@ -3990,9 +4098,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-25 02:04:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-25 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:13:30 +0000"
     },
     "done": true
   },
@@ -4038,6 +4158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-04-25 02:14:02 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_classic_stool": {
     "criteria": {
       "has_planks": "2025-04-25 01:35:11 +0000"
@@ -4060,6 +4186,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/stone_large_button": {
+    "criteria": {
+      "has_thing": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/ebony_planks_from_smoking": {
     "criteria": {
       "has_item": "2025-04-25 01:42:12 +0000"
@@ -4072,9 +4204,27 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/granite_button": {
+    "criteria": {
+      "has_thing": "2025-04-25 02:14:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-04-25 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_chair_modern": {
+    "criteria": {
+      "stone_chair_modern": "2025-04-25 02:16:01 +0000"
     },
     "done": true
   },
@@ -4093,6 +4243,12 @@
   "infinitybuttons:recipe/redstone/sticky_exposed_copper_large_button": {
     "criteria": {
       "has_thing": "2025-04-25 01:39:35 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/aztec_stonebricks_from_maya_stone_stonecutting": {
+    "criteria": {
+      "has_maya_stone": "2025-04-25 02:15:50 +0000"
     },
     "done": true
   },
@@ -4120,9 +4276,21 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/maya_stone_stairs": {
+    "criteria": {
+      "has_maya_stone": "2025-04-25 02:15:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/warped_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:34:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-04-25 02:16:01 +0000"
     },
     "done": true
   },
@@ -4138,9 +4306,33 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/inca_stone": {
+    "criteria": {
+      "has_granite": "2025-04-25 02:14:02 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/umbran_biomesoplenty_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-25 02:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:13:30 +0000"
     },
     "done": true
   },
@@ -4192,6 +4384,12 @@
     },
     "done": true
   },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-04-25 02:05:13 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jacaranda_biomesoplenty_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:34:27 +0000"
@@ -4210,9 +4408,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-25 02:14:02 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_desk": {
     "criteria": {
       "has_birch_planks": "2025-04-25 01:35:11 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/maya_stone_slab": {
+    "criteria": {
+      "has_maya_stone": "2025-04-25 02:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-04-25 02:16:01 +0000"
     },
     "done": true
   },
@@ -4234,6 +4450,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-25 02:04:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/willow_biomesoplenty_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:34:27 +0000"
@@ -4249,6 +4471,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-25 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-04-25 02:04:18 +0000"
     },
     "done": true
   },
@@ -4270,9 +4498,27 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-25 02:10:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-25 01:40:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-04-25 02:18:28 +0000"
     },
     "done": true
   },
@@ -4285,6 +4531,12 @@
   "pfm:recipes/furniture/birch_coffee_table_classic": {
     "criteria": {
       "has_planks": "2025-04-25 01:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:13:30 +0000"
     },
     "done": true
   },
@@ -4378,6 +4630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/weathered_copper_large_button": {
     "criteria": {
       "has_thing": "2025-04-25 01:39:35 +0000"
@@ -4396,6 +4654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-25 02:04:55 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/waxed_exposed_copper_large_button_waxing": {
     "criteria": {
       "has_thing": "2025-04-25 01:39:35 +0000"
@@ -4405,6 +4669,12 @@
   "pfm:recipes/furniture/dark_oak_chair_modern": {
     "criteria": {
       "has_planks": "2025-04-25 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-25 02:04:55 +0000"
     },
     "done": true
   },
@@ -4420,15 +4690,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-25 02:04:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-04-25 01:36:33 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_classic_nightstand": {
+    "criteria": {
+      "stone_classic_nightstand": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-25 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-25 02:16:01 +0000"
     },
     "done": true
   },
@@ -4450,6 +4738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/hellbark_biomesoplenty_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:34:27 +0000"
@@ -4459,6 +4753,12 @@
   "pfm:recipes/furniture/birch_table_classic": {
     "criteria": {
       "has_planks": "2025-04-25 01:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-25 02:16:01 +0000"
     },
     "done": true
   },
@@ -4504,6 +4804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/ebony_log_from_smoking": {
     "criteria": {
       "has_item": "2025-04-25 01:44:11 +0000"
@@ -4540,6 +4846,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-25 02:04:55 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2025-04-25 02:12:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basic_shower_handle": {
+    "criteria": {
+      "has_lever": "2025-04-25 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-04-25 02:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-25 01:35:11 +0000"
@@ -4558,9 +4888,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-25 02:04:55 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/magic_biomesoplenty_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:34:27 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2025-04-25 02:16:01 +0000"
     },
     "done": true
   },
@@ -4576,6 +4918,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:13:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2025-04-25 01:36:32 +0000"
@@ -4585,6 +4933,12 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-04-25 01:38:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_coffee_table_classic": {
+    "criteria": {
+      "stone_coffee_table_classic": "2025-04-25 02:16:01 +0000"
     },
     "done": true
   },
@@ -4600,9 +4954,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_table_natural": {
+    "criteria": {
+      "stone_table_natural": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_crate": {
     "criteria": {
       "has_birch_planks": "2025-04-25 01:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-25 02:04:55 +0000"
     },
     "done": true
   },
@@ -4630,6 +5002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:13:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-04-25 01:39:35 +0000"
@@ -4639,6 +5017,18 @@
   "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
     "criteria": {
       "has_lily_pad": "2025-04-25 01:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-25 02:19:18 +0000"
     },
     "done": true
   },
@@ -4654,9 +5044,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/granite_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/waxed_copper_large_button": {
     "criteria": {
       "has_thing": "2025-04-25 01:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-04-25 02:16:01 +0000"
     },
     "done": true
   },
@@ -4675,6 +5083,18 @@
   "pfm:recipes/furniture/dark_oak_simple_bunk_ladder": {
     "criteria": {
       "has_planks": "2025-04-25 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2025-04-25 02:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-25 02:04:55 +0000"
     },
     "done": true
   },
@@ -4744,6 +5164,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/umbran_biomesoplenty_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:34:27 +0000"
@@ -4762,6 +5200,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-25 02:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:13:30 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/deepslate_dark_oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-04-25 01:42:12 +0000"
@@ -4774,9 +5224,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-25 02:04:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-04-25 01:39:35 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:16:01 +0000"
     },
     "done": true
   },
@@ -4786,9 +5248,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-04-25 02:14:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-25 02:14:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2025-04-25 01:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-04-25 02:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-25 02:14:02 +0000"
     },
     "done": true
   },
@@ -4864,6 +5362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-25 02:04:55 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dead_biomesoplenty_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:34:27 +0000"
@@ -4912,6 +5416,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-25 02:19:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_chair_classic": {
+    "criteria": {
+      "stone_chair_classic": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/exposed_copper_large_button": {
     "criteria": {
       "has_thing": "2025-04-25 01:39:35 +0000"
@@ -4927,6 +5443,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-25 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/gold_button": {
+    "criteria": {
+      "has_thing": "2025-04-25 02:13:30 +0000"
     },
     "done": true
   },
@@ -4978,6 +5500,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_table_classic": {
+    "criteria": {
+      "stone_table_classic": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-25 01:35:11 +0000"
@@ -4987,6 +5515,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-04-25 01:40:46 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/stone_button_stonecutter": {
+    "criteria": {
+      "has_stone": "2025-04-25 02:16:01 +0000"
     },
     "done": true
   },
@@ -5014,6 +5548,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-04-25 01:44:11 +0000"
@@ -5026,9 +5566,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_table_basic": {
+    "criteria": {
+      "stone_table_basic": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_dark_oak_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-04-25 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-04-25 02:16:01 +0000"
     },
     "done": true
   },
@@ -5086,6 +5638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-25 02:04:55 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/magic_biomesoplenty_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:34:27 +0000"
@@ -5128,6 +5686,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_chair_dinner": {
+    "criteria": {
+      "stone_chair_dinner": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_chair_dinner": {
     "criteria": {
       "has_planks": "2025-04-25 01:35:11 +0000"
@@ -5158,6 +5722,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_raw_table_log": {
     "criteria": {
       "has_log": "2025-04-25 01:35:08 +0000"
@@ -5170,6 +5740,18 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/granite_large_button": {
+    "criteria": {
+      "has_thing": "2025-04-25 02:14:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-04-25 01:35:11 +0000"
@@ -5179,6 +5761,12 @@
   "infinitybuttons:recipe/redstone/waxed_weathered_copper_button": {
     "criteria": {
       "has_thing": "2025-04-25 01:39:35 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_coffee_table_modern": {
+    "criteria": {
+      "stone_coffee_table_modern": "2025-04-25 02:16:01 +0000"
     },
     "done": true
   },
@@ -5206,6 +5794,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope_from_safety_net": {
+    "criteria": {
+      "has_safety_net": "2025-04-25 02:22:20 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_simple_stool": {
     "criteria": {
       "has_planks": "2025-04-25 01:35:11 +0000"
@@ -5230,9 +5830,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-25 02:04:55 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/sticky_oxidized_copper_large_button_pouring_honey": {
     "criteria": {
       "has_thing": "2025-04-25 01:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-25 02:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-04-25 02:04:18 +0000"
     },
     "done": true
   },
@@ -5311,6 +5929,18 @@
   "pfm:recipes/furniture/birch_table_basic": {
     "criteria": {
       "has_planks": "2025-04-25 01:35:11 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/decorations/cooler": {
+    "criteria": {
+      "has_stone": "2025-04-25 02:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-25 02:13:30 +0000"
     },
     "done": true
   },

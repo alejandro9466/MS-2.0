@@ -2,9 +2,7 @@
 	id: "a5b50c33-03b6-3454-89d0-fe88fe02716d"
 	type: "player"
 	player_name: "Peter_rola14"
-	ranks: {
-		a5b50c33-03b6-3454-89d0-fe88fe02716d: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Peter_rola14"
 		"ftbteams:description": ""

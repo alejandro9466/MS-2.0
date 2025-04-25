@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "9a2d2c0aa15a4bbf977fda9f6bbe54b4"
+	name: "los_masturbines#9a2d2c0a"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

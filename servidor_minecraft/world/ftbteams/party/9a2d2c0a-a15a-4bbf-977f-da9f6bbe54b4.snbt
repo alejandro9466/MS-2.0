@@ -1,0 +1,26 @@
+{
+	id: "9a2d2c0a-a15a-4bbf-977f-da9f6bbe54b4"
+	type: "party"
+	owner: "a5b50c33-03b6-3454-89d0-fe88fe02716d"
+	ranks: {
+		a5b50c33-03b6-3454-89d0-fe88fe02716d: "owner"
+		0a60586d-db66-34cc-9265-3e98c95744b8: "member"
+		ddaaecbd-a632-3a56-bde9-db3891643eea: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "los masturbines"
+		"ftbteams:description": ""
+		"ftbteams:color": "#3F0570"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1745547168702L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Peter_rola14\"}]}" }
+		{ from: "a5b50c33-03b6-3454-89d0-fe88fe02716d", date: 1745547181303L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"alejandro946\"}]}" }
+		{ from: "a5b50c33-03b6-3454-89d0-fe88fe02716d", date: 1745547181303L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Och8Z\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1745547184675L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"alejandro946\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1745547185444L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Och8Z\"}]}" }
+		{ from: "a5b50c33-03b6-3454-89d0-fe88fe02716d", date: 1745547209120L, text: "{\"text\":\"jaja LOL\"}" }
+	]
+	extra: { }
+}
