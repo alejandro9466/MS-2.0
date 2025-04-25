@@ -3868,6 +3868,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/granite_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-25 01:52:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/mangrove_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:35:06 +0000"
@@ -3916,15 +3922,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-25 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/granite_button_stonecutter": {
+    "criteria": {
+      "has_granite": "2025-04-25 01:52:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/palm_biomesoplenty_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:35:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-25 01:52:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-25 01:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-04-25 01:50:33 +0000"
     },
     "done": true
   },
@@ -3943,6 +3973,24 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-04-25 01:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-04-25 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/granite_button": {
+    "criteria": {
+      "has_thing": "2025-04-25 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-04-25 01:52:18 +0000"
     },
     "done": true
   },
@@ -3976,6 +4024,12 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/inca_stone": {
+    "criteria": {
+      "has_granite": "2025-04-25 01:52:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/umbran_biomesoplenty_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:35:06 +0000"
@@ -3985,6 +4039,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-04-25 01:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-04-25 01:50:33 +0000"
     },
     "done": true
   },
@@ -4012,6 +4072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-25 01:52:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/hellbark_biomesoplenty_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:35:06 +0000"
@@ -4030,9 +4096,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/granite_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-25 01:52:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-04-25 01:42:23 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/purified_water_bottle_from_blasting_potion": {
+    "criteria": {
+      "has_potion": "2025-04-25 01:49:24 +0000"
     },
     "done": true
   },
@@ -4102,6 +4180,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-25 01:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-04-25 01:52:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cherry_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:35:06 +0000"
@@ -4138,6 +4228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-25 01:53:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-25 01:42:23 +0000"
@@ -4153,6 +4249,24 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-04-25 01:42:23 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/purified_water_bottle_from_smelting_potion": {
+    "criteria": {
+      "has_potion": "2025-04-25 01:49:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-25 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2025-04-25 01:52:18 +0000"
     },
     "done": true
   },
@@ -4186,6 +4300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-25 01:52:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-25 01:42:23 +0000"
@@ -4195,6 +4315,30 @@
   "pfm:recipes/furniture/dark_oak_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:35:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-04-25 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-25 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-04-25 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-25 01:52:18 +0000"
     },
     "done": true
   },
@@ -4234,6 +4378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-25 01:53:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-04-25 01:21:43 +0000"
@@ -4267,6 +4417,12 @@
   "pfm:recipes/furniture/magic_biomesoplenty_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:35:06 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/granite_large_button": {
+    "criteria": {
+      "has_thing": "2025-04-25 01:52:18 +0000"
     },
     "done": true
   },

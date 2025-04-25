@@ -4025,6 +4025,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-04-25 01:51:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-25 01:42:12 +0000"
@@ -4041,6 +4047,7 @@
     "criteria": {
       "cabbage": "2025-04-25 01:43:33 +0000",
       "onion": "2025-04-25 01:42:46 +0000",
+      "sugar_cane": "2025-04-25 01:46:45 +0000",
       "wheat": "2025-04-25 01:42:28 +0000",
       "melon": "2025-04-25 01:43:30 +0000"
     },
@@ -4124,6 +4131,12 @@
     },
     "done": true
   },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_bark_mushroom": {
+    "criteria": {
+      "has_bark_mushroom": "2025-04-25 01:51:43 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/umbran_biomesoplenty_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:34:27 +0000"
@@ -4148,6 +4161,12 @@
     },
     "done": true
   },
+  "legendarysurvivaloverhaul:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-04-25 01:51:26 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:34:27 +0000"
@@ -4163,6 +4182,12 @@
   "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
       "has_ingredient": "2025-04-25 01:32:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-25 01:44:11 +0000"
     },
     "done": true
   },
@@ -4328,6 +4353,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_log_stool": {
+    "criteria": {
+      "has_log": "2025-04-25 01:44:11 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:34:27 +0000"
@@ -4376,6 +4407,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-25 01:44:11 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/waxed_exposed_copper_button": {
     "criteria": {
       "has_thing": "2025-04-25 01:39:35 +0000"
@@ -4397,6 +4434,12 @@
   "pfm:recipes/furniture/birch_chair": {
     "criteria": {
       "has_planks": "2025-04-25 01:35:11 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-25 01:44:11 +0000"
     },
     "done": true
   },
@@ -4457,6 +4500,12 @@
   "pfm:recipes/furniture/mahogany_biomesoplenty_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-04-25 01:34:27 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/ebony_log_from_smoking": {
+    "criteria": {
+      "has_item": "2025-04-25 01:44:11 +0000"
     },
     "done": true
   },
@@ -4613,6 +4662,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "cabbage_seeds": "2025-04-25 01:38:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/building_blocks/dark_oak_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-04-25 01:47:01 +0000"
     },
     "done": true
   },
@@ -4790,6 +4845,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-04-25 01:44:11 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/dark_oak_large_button": {
     "criteria": {
       "has_thing": "2025-04-25 01:42:12 +0000"
@@ -4946,6 +5007,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-04-25 01:44:11 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/sticky_copper_large_button": {
     "criteria": {
       "has_thing": "2025-04-25 01:39:35 +0000"
@@ -5048,6 +5115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-25 01:44:11 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_chair_dinner": {
     "criteria": {
       "has_planks": "2025-04-25 01:35:11 +0000"
@@ -5081,6 +5154,12 @@
   "pfm:recipes/furniture/birch_raw_table_log": {
     "criteria": {
       "has_log": "2025-04-25 01:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-25 01:44:11 +0000"
     },
     "done": true
   },
