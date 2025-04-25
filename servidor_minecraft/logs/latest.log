@@ -668,3 +668,27 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [25Apr2025 03:28:54.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Zombie
 [25Apr2025 03:29:29.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 fell from a high place
 [25Apr2025 03:30:16.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Zombie
+[25Apr2025 03:34:35.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25Apr2025 03:35:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 has made the advancement [Diamonds!]
+[25Apr2025 03:37:42.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 has made the advancement [Crops of the Wild]
+[25Apr2025 03:41:31.813] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[25Apr2025 03:42:23.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Disconnected
+[25Apr2025 03:42:23.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
+[25Apr2025 03:42:40.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandro946[/127.160.163.203:55515] logged in with entity id 14704 at (-375.21601340615007, 65.0, 535.6261127599823)
+[25Apr2025 03:42:40.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 joined the game
+[25Apr2025 03:42:41.047] [Server thread/INFO] [Jade/]: Syncing config to alejandro946 (0a60586d-db66-34cc-9265-3e98c95744b8)
+[25Apr2025 03:44:12.994] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[25Apr2025 03:44:51.165] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25Apr2025 03:44:55.350] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[25Apr2025 03:45:16.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=66, z=524} BlockPos{x=-381, y=64, z=522}
+[25Apr2025 03:45:25.202] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2021ms or 40 ticks
+[25Apr2025 03:45:27.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 has completed the challenge [It Spreads]
+[25Apr2025 03:46:01.700] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25Apr2025 03:47:06.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Disconnected
+[25Apr2025 03:47:06.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
+[25Apr2025 03:47:18.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandro946[/127.160.163.203:43635] logged in with entity id 21130 at (-348.3157944326326, 49.0, 559.3586154492568)
+[25Apr2025 03:47:18.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 joined the game
+[25Apr2025 03:47:18.104] [Server thread/INFO] [Jade/]: Syncing config to alejandro946 (0a60586d-db66-34cc-9265-3e98c95744b8)
+[25Apr2025 03:49:35.801] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25Apr2025 03:51:05.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied effect Regeneration to alejandro946]
+[25Apr2025 03:54:38.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 was slain by Runner

@@ -5507,9 +5507,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/achoria_blocksyouneed_luna_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-04-25 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-25 03:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-25 03:35:03 +0000"
     },
     "done": true
   },
@@ -5519,15 +5549,51 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_table_classic": {
+    "criteria": {
+      "deepslate_table_classic": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_oak_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-04-25 03:28:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-25 03:35:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_chair_dinner": {
+    "criteria": {
+      "deepslate_chair_dinner": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_chair_classic": {
     "criteria": {
       "andesite_chair_classic": "2025-04-25 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/achoria_blocksyouneed_luna_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-25 03:35:03 +0000"
     },
     "done": true
   },
@@ -5543,9 +5609,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/achoria_blocksyouneed_luna_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:40:32 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_oak_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-04-25 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:31:09 +0000"
     },
     "done": true
   },
@@ -5555,9 +5633,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_classic_stool": {
     "criteria": {
       "has_planks": "2025-04-25 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_chair": {
+    "criteria": {
+      "deepslate_chair": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/sodalite_blocksyouneed_luna_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:48:49 +0000"
     },
     "done": true
   },
@@ -5573,9 +5675,69 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_table_basic": {
+    "criteria": {
+      "deepslate_table_basic": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/sodalite_blocksyouneed_luna_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-25 03:35:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/sodalite_blocksyouneed_luna_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-04-25 03:37:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-04-25 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_classic_nightstand": {
+    "criteria": {
+      "deepslate_classic_nightstand": "2025-04-25 03:31:09 +0000"
     },
     "done": true
   },
@@ -5585,15 +5747,63 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-25 03:37:42 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_chair_dinner": {
     "criteria": {
       "andesite_chair_dinner": "2025-04-25 03:28:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/soul_lantern_lever": {
+    "criteria": {
+      "has_thing": "2025-04-25 03:46:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_table_basic": {
     "criteria": {
       "andesite_table_basic": "2025-04-25 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-25 03:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-25 03:35:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_table_natural": {
+    "criteria": {
+      "deepslate_table_natural": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/soul_lantern_button": {
+    "criteria": {
+      "has_thing": "2025-04-25 03:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-25 03:31:09 +0000"
     },
     "done": true
   },
@@ -5609,6 +5819,24 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_table_dinner": {
+    "criteria": {
+      "deepslate_table_dinner": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-25 03:38:23 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-04-25 03:28:23 +0000"
@@ -5621,9 +5849,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_coffee_table_basic": {
+    "criteria": {
+      "deepslate_coffee_table_basic": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-04-25 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-04-25 03:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:31:09 +0000"
     },
     "done": true
   },
@@ -5633,9 +5891,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/achoria_blocksyouneed_luna_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-25 03:35:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_coffee_table_classic": {
+    "criteria": {
+      "deepslate_coffee_table_classic": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-04-25 03:37:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/sodalite_blocksyouneed_luna_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_table_modern_dinner": {
+    "criteria": {
+      "deepslate_table_modern_dinner": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_chair_modern": {
     "criteria": {
       "andesite_chair_modern": "2025-04-25 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-25 03:35:03 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/diamond_large_button": {
+    "criteria": {
+      "has_thing": "2025-04-25 03:35:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-25 03:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-25 03:35:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:31:09 +0000"
     },
     "done": true
   },
@@ -5645,9 +5975,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-25 03:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-25 03:35:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-04-25 03:24:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-04-25 03:35:03 +0000"
     },
     "done": true
   },
@@ -5657,9 +6017,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-25 03:35:03 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-04-25 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_coffee_table_modern": {
+    "criteria": {
+      "deepslate_coffee_table_modern": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/diamond_button": {
+    "criteria": {
+      "has_thing": "2025-04-25 03:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_chair_modern": {
+    "criteria": {
+      "deepslate_chair_modern": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basic_shower_head": {
+    "criteria": {
+      "has_water_bucket": "2025-04-25 03:37:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-04-25 03:37:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-04-25 03:43:48 +0000"
     },
     "done": true
   },
@@ -5669,9 +6095,45 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-04-25 03:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-04-25 03:45:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-04-25 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_chair_classic": {
+    "criteria": {
+      "deepslate_chair_classic": "2025-04-25 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-25 03:35:03 +0000"
     },
     "done": true
   },
