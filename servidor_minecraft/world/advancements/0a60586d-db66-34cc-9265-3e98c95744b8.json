@@ -1801,6 +1801,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-25 01:04:35 +0000",
+      "apple": "2025-04-25 01:55:59 +0000",
       "bread": "2025-04-25 00:56:18 +0000"
     },
     "done": false
@@ -4674,6 +4675,12 @@
   "pfm:recipes/furniture/dark_oak_simple_bunk_ladder": {
     "criteria": {
       "has_planks": "2025-04-25 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/decorations/mossy_cobblestone_from_mossy_rocks": {
+    "criteria": {
+      "has_mossy_rocks": "2025-04-25 02:02:57 +0000"
     },
     "done": true
   },

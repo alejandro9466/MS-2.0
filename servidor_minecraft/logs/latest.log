@@ -1208,3 +1208,10 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [25Apr2025 01:48:00.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Isn't It Iron Pick]
 [25Apr2025 01:49:00.551] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2079ms or 41 ticks
 [25Apr2025 01:56:45.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z died
+[25Apr2025 01:58:39.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Zombie
+[25Apr2025 01:58:57.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 died because of Zombie
+[25Apr2025 02:03:49.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 fell from a high place
+[25Apr2025 02:03:51.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Suit Up]
+[25Apr2025 02:04:02.139] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25Apr2025 02:04:13.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 has made the advancement [Suit Up]
+[25Apr2025 02:04:18.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Suit Up]
