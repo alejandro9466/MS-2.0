@@ -890,3 +890,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05May2025 23:29:54.352] [Worker-Main-8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1526, y=-50, z=1407}
 [05May2025 23:37:48.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Vindicator
 [05May2025 23:39:06.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Vindicator
+[05May2025 23:43:11.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Vindicator
+[05May2025 23:45:38.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was killed by magic whilst trying to escape Pillager
+[05May2025 23:46:09.778] [Worker-Main-16/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[05May2025 23:46:09.795] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[05May2025 23:46:09.798] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
