@@ -13,3 +13,25 @@
 [05May2025 00:19:00.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CanelitaAnto was shot by Skeleton
 [05May2025 00:21:08.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CanelitaAnto has made the advancement [Stone Age]
 [05May2025 00:22:03.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CanelitaAnto has made the advancement [Getting an Upgrade]
+[05May2025 00:27:56.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Very Berry]
+[05May2025 00:28:49.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CanelitaAnto has made the advancement [Crops of the Wild]
+[05May2025 00:30:46.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [You Are A Pirate]
+[05May2025 00:30:47.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CanelitaAnto has made the advancement [You Are A Pirate]
+[05May2025 00:31:40.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CanelitaAnto has made the advancement [Suit Up]
+[05May2025 00:31:42.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CanelitaAnto has made the advancement [Acquire Hardware]
+[05May2025 00:32:07.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Suit Up]
+[05May2025 00:32:49.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Not Today, Thank You]
+[05May2025 00:32:54.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CanelitaAnto has made the advancement [Not Today, Thank You]
+[05May2025 00:34:58.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Vindicator
+[05May2025 00:35:48.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Vindicator
+[05May2025 00:36:32.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was shot by Pillager
+[05May2025 00:36:58.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CanelitaAnto has made the advancement [Monster Hunter]
+[05May2025 00:41:49.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CanelitaAnto has made the advancement [Isn't It Iron Pick]
+[05May2025 00:41:57.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Isn't It Iron Pick]
+[05May2025 00:44:33.276] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[05May2025 00:44:33.284] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[05May2025 00:44:33.285] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[05May2025 00:44:33.285] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[05May2025 00:44:33.286] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[05May2025 00:44:36.287] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[05May2025 00:44:36.289] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
