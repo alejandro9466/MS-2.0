@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/heal_ball": {
     "criteria": {
       "has_white_apricorn": "2025-05-04 23:57:44 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-05-05 00:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-05 01:03:57 +0000"
     },
     "done": true
   },
@@ -191,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-05 01:04:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-05 00:41:57 +0000"
@@ -213,6 +231,12 @@
   "cobblemon:recipes/balls/premier_ball": {
     "criteria": {
       "has_white_apricorn": "2025-05-04 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-05 01:03:57 +0000"
     },
     "done": true
   },
@@ -249,6 +273,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-05-04 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-05 01:03:57 +0000"
     },
     "done": true
   },
@@ -300,6 +330,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/consumables/remedy": {
     "criteria": {
       "has_root": "2025-05-04 23:56:52 +0000",
@@ -319,6 +355,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-05-05 00:03:47 +0000"
@@ -334,6 +376,12 @@
   "create:recipes/building_blocks/crafting/logistics/magenta_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-04 23:57:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
     },
     "done": true
   },
@@ -578,6 +626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-05 01:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-05-05 00:03:47 +0000"
@@ -611,6 +665,12 @@
   "cobblemon:root": {
     "criteria": {
       "picked_starter": "2025-05-05 00:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-05 01:04:25 +0000"
     },
     "done": true
   },
@@ -661,9 +721,11 @@
       "minecraft:pillager": "2025-05-05 00:38:54 +0000",
       "minecraft:skeleton": "2025-05-05 00:19:07 +0000",
       "minecraft:vindicator": "2025-05-05 00:33:18 +0000",
+      "minecraft:spider": "2025-05-05 01:01:16 +0000",
       "minecraft:creeper": "2025-05-04 23:54:41 +0000",
       "minecraft:enderman": "2025-05-04 23:52:58 +0000",
-      "minecraft:zombie": "2025-05-04 23:54:32 +0000"
+      "minecraft:zombie": "2025-05-04 23:54:32 +0000",
+      "minecraft:drowned": "2025-05-05 01:00:17 +0000"
     },
     "done": false
   },
@@ -700,6 +762,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-05-05 00:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-05 01:04:25 +0000"
     },
     "done": true
   },
@@ -751,6 +819,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2025-05-05 00:03:56 +0000"
@@ -799,6 +873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-05 01:04:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-05-05 00:39:38 +0000"
@@ -814,6 +894,18 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-05 00:03:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
     },
     "done": true
   },
@@ -914,6 +1006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-05 01:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-05-04 23:57:06 +0000"
@@ -974,9 +1072,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-05-04 23:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-05 01:03:57 +0000"
     },
     "done": true
   },
@@ -1016,6 +1126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-05 01:03:57 +0000"
+    },
+    "done": true
+  },
   "cobblemon:any_plant": {
     "criteria": {
       "check_inv": "2025-05-04 23:56:52 +0000"
@@ -1046,6 +1162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-05 01:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-05-05 00:03:59 +0000"
@@ -1067,6 +1189,12 @@
   "create:recipes/building_blocks/crafting/logistics/white_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-04 23:57:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-05 01:03:57 +0000"
     },
     "done": true
   },
@@ -1127,6 +1255,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-04 23:53:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
     },
     "done": true
   },
@@ -1208,6 +1342,18 @@
     },
     "done": false
   },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-05-04 23:33:49 +0000"
@@ -1241,6 +1387,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-05-04 23:57:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
     },
     "done": true
   },
@@ -1280,6 +1432,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-05-04 23:57:06 +0000"
@@ -1298,6 +1456,12 @@
       "has_white_apricorn": "2025-05-04 23:57:44 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-05-05 00:58:27 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
@@ -1365,6 +1529,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-05-05 00:31:36 +0000"
@@ -1388,6 +1564,12 @@
       "has_blue_apricorn": "2025-05-05 00:12:08 +0000"
     },
     "done": false
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
+    },
+    "done": true
   },
   "cobblemon:recipes/balls/azure_ball": {
     "criteria": {
@@ -1434,6 +1616,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-05 00:31:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
     },
     "done": true
   },
@@ -1586,6 +1774,12 @@
       "has_white_apricorn": "2025-05-04 23:57:44 +0000"
     },
     "done": false
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
@@ -1779,6 +1973,7 @@
       "apple": "2025-05-04 23:57:10 +0000",
       "bread": "2025-05-05 00:33:36 +0000",
       "rotten_flesh": "2025-05-04 23:59:04 +0000",
+      "cooked_salmon": "2025-05-05 00:59:23 +0000",
       "carrot": "2025-05-05 00:03:51 +0000"
     },
     "done": false
@@ -1828,6 +2023,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-05-04 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-05 01:03:57 +0000"
     },
     "done": true
   },
@@ -1949,6 +2150,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-05-05 00:03:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-05 01:08:39 +0000"
     },
     "done": true
   },

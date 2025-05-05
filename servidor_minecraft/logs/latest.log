@@ -35,3 +35,15 @@
 [05May2025 00:44:33.286] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
 [05May2025 00:44:36.287] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
 [05May2025 00:44:36.289] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[05May2025 00:49:51.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05May2025 00:49:51.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asdsasdasd<--[HERE]
+[05May2025 01:00:12.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CanelitaAnto> ZZZ
+[05May2025 01:02:08.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CanelitaAnto was slain by Skeleton
+[05May2025 01:03:24.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Skeleton
+[05May2025 01:08:06.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Skeleton
+[05May2025 01:09:00.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05May2025 01:09:00.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05May2025 01:09:00.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CanelitaAnto lost connection: Server closed
+[05May2025 01:09:00.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CanelitaAnto left the game
+[05May2025 01:09:00.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05May2025 01:09:06.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
