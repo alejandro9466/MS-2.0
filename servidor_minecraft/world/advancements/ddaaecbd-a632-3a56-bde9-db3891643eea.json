@@ -2172,9 +2172,135 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2025-05-05 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-05 23:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-05 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-05 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-05-05 23:01:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
       "has_dark_oak_trapdoor": "2025-05-05 22:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-05 23:02:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-05-05 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/electirizer": {
+    "criteria": {
+      "has_redstone": "2025-05-05 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-05 23:02:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-05-05 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-05 23:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-05 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-05 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/magnet": {
+    "criteria": {
+      "has_redstone": "2025-05-05 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-05-05 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-05 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-05 23:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-05 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-05-05 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-05 23:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-05 23:01:22 +0000"
     },
     "done": true
   },
