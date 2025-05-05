@@ -887,3 +887,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05May2025 22:55:07.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
 [05May2025 22:55:12.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6175ms or 123 ticks behind
 [05May2025 22:55:18.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Skeleton
+[05May2025 23:29:54.352] [Worker-Main-8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1526, y=-50, z=1407}
+[05May2025 23:37:48.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Vindicator
+[05May2025 23:39:06.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Vindicator
