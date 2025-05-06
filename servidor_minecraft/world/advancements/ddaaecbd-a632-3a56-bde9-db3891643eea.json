@@ -15,12 +15,15 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-05-05 23:32:03 +0000",
       "minecraft:sunflower_plains": "2025-05-05 00:14:21 +0000",
+      "minecraft:birch_forest": "2025-05-05 23:54:47 +0000",
       "minecraft:beach": "2025-05-05 00:28:08 +0000",
+      "minecraft:dark_forest": "2025-05-05 23:56:02 +0000",
       "minecraft:river": "2025-05-05 00:14:17 +0000",
       "minecraft:stony_shore": "2025-05-05 23:30:44 +0000",
       "minecraft:forest": "2025-05-05 00:02:50 +0000",
       "minecraft:ocean": "2025-05-05 00:29:29 +0000",
       "minecraft:flower_forest": "2025-05-04 23:57:04 +0000",
+      "minecraft:meadow": "2025-05-05 23:55:46 +0000",
       "minecraft:plains": "2025-05-04 23:33:50 +0000"
     },
     "done": false
@@ -713,9 +716,10 @@
   },
   "cobblemon:recipes/balls/heal_ball": {
     "criteria": {
-      "has_white_apricorn": "2025-05-04 23:57:44 +0000"
+      "has_white_apricorn": "2025-05-04 23:57:44 +0000",
+      "has_pink_apricorn": "2025-05-05 23:58:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/dive_ball": {
     "criteria": {
@@ -739,9 +743,10 @@
   },
   "cobblemon:recipes/balls/love_ball": {
     "criteria": {
-      "has_white_apricorn": "2025-05-04 23:57:44 +0000"
+      "has_white_apricorn": "2025-05-04 23:57:44 +0000",
+      "has_pink_apricorn": "2025-05-05 23:58:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:harvest_apricorn": {
     "criteria": {
@@ -1353,7 +1358,8 @@
   },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
-      "has_blue_apricorn": "2025-05-05 00:12:08 +0000"
+      "has_blue_apricorn": "2025-05-05 00:12:08 +0000",
+      "has_pink_apricorn": "2025-05-05 23:58:43 +0000"
     },
     "done": false
   },
@@ -2360,6 +2366,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/level_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2025-05-05 23:58:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-05 23:31:28 +0000"
@@ -2465,6 +2477,12 @@
   "cobblemon:recipes/held/soothe_bell": {
     "criteria": {
       "has_nugget": "2025-05-05 23:36:05 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/roseate_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2025-05-05 23:58:43 +0000"
     },
     "done": true
   },
@@ -2621,6 +2639,12 @@
   "justhammers:recipes/tools/gold_hammer": {
     "criteria": {
       "has_material": "2025-05-05 23:36:02 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-05-05 23:58:43 +0000"
     },
     "done": true
   },
