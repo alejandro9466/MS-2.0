@@ -1548,7 +1548,8 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
-      "obtain_chesto_berry": "2025-05-05 00:27:56 +0000"
+      "obtain_chesto_berry": "2025-05-05 00:27:56 +0000",
+      "obtain_wepear_berry": "2025-05-09 01:42:48 +0000"
     },
     "done": false
   },
@@ -3594,6 +3595,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/berry_juice": {
+    "criteria": {
+      "has_berries": "2025-05-09 01:42:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-09 01:21:12 +0000"
@@ -3816,6 +3823,12 @@
     },
     "done": true
   },
+  "cobblemon:first_catch": {
+    "criteria": {
+      "catch": "2025-05-09 01:41:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-05-09 01:33:27 +0000"
@@ -3873,6 +3886,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-09 01:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-09 01:37:40 +0000"
     },
     "done": true
   },

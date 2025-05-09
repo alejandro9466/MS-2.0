@@ -11,6 +11,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-09 01:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-09 01:36:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-05-09 01:30:56 +0000"
@@ -23,9 +35,33 @@
     },
     "done": true
   },
+  "cobblemon:obtain_berry": {
+    "criteria": {
+      "check_inv": "2025-05-09 01:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-09 01:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-05-09 01:36:02 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/blocks/apricorn_stairs": {
     "criteria": {
       "has_planks": "2025-05-09 01:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-09 01:36:06 +0000"
     },
     "done": true
   },
@@ -59,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-05-09 01:36:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2025-05-09 01:17:04 +0000"
@@ -88,6 +130,12 @@
       "has_item": "2025-05-09 01:20:14 +0000"
     },
     "done": true
+  },
+  "cobblemon:obtain_all_berries": {
+    "criteria": {
+      "obtain_wepear_berry": "2025-05-09 01:41:46 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
@@ -161,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-05-09 01:36:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-05-09 01:12:04 +0000"
@@ -199,7 +253,8 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
-      "premier_ball": "2025-05-09 01:23:33 +0000"
+      "premier_ball": "2025-05-09 01:23:33 +0000",
+      "verdant_ball": "2025-05-09 01:38:35 +0000"
     },
     "done": false
   },
@@ -311,6 +366,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/berry_juice": {
+    "criteria": {
+      "has_berries": "2025-05-09 01:41:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-05-09 01:27:26 +0000"
@@ -359,6 +420,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-09 01:36:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-05-09 01:11:40 +0000"
@@ -404,6 +471,12 @@
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-05-09 01:27:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-09 01:42:39 +0000"
     },
     "done": true
   },
@@ -602,6 +675,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-09 01:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-05-09 01:28:51 +0000"
@@ -635,6 +714,12 @@
   "cobblemon:harvest_apricorn": {
     "criteria": {
       "check_inv": "2025-05-09 01:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-09 01:36:06 +0000"
     },
     "done": true
   },
@@ -791,6 +876,12 @@
   "create:recipes/misc/crafting/materials/transmitter": {
     "criteria": {
       "has_item": "2025-05-09 01:20:14 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/mulch_base": {
+    "criteria": {
+      "has_berry": "2025-05-09 01:41:46 +0000"
     },
     "done": true
   },
@@ -1004,6 +1095,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/blocks/pasture": {
+    "criteria": {
+      "has_pc": "2025-05-09 01:37:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-09 01:12:43 +0000"
@@ -1127,6 +1224,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-05-09 01:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-09 01:36:06 +0000"
     },
     "done": true
   },
@@ -1292,6 +1395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-09 01:35:53 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/agriculture/white_apricorn_smelt_to_dye": {
     "criteria": {
       "has_apricorn": "2025-05-09 01:12:47 +0000"
@@ -1330,6 +1439,7 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "verdant_ball": "2025-05-09 01:38:35 +0000",
       "premier_ball": "2025-05-09 01:23:33 +0000"
     },
     "done": false
@@ -1455,6 +1565,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-05-09 01:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-09 01:36:06 +0000"
     },
     "done": true
   },
@@ -1648,6 +1764,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-05-09 01:15:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-09 01:42:39 +0000"
     },
     "done": true
   },
