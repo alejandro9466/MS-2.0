@@ -1257,3 +1257,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10May2025 06:01:10.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Gave 1 [Netherite Pickaxe] to Peter_rola14]
 [10May2025 06:07:53.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Creative Mode]
 [10May2025 06:08:15.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Survival Mode]
+[10May2025 06:08:24.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Peter_rola14 lost connection: Disconnected
+[10May2025 06:08:24.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 left the game
+[10May2025 06:08:30.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dercsas lost connection: Disconnected
+[10May2025 06:08:30.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas left the game
+[10May2025 06:08:36.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Disconnected
+[10May2025 06:08:36.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
