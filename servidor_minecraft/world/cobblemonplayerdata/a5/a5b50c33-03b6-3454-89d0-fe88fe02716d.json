@@ -8,7 +8,7 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 52,
+    "totalCaptureCount": 53,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 20,
     "totalBattleVictoryCount": 46,
@@ -27,7 +27,7 @@
       "ground": 3,
       "fire": 11,
       "dragon": 5,
-      "normal": 9,
+      "normal": 10,
       "fairy": 1,
       "grass": 3,
       "dark": 2,
