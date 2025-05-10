@@ -1002,3 +1002,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10May2025 03:27:53.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
 [10May2025 03:28:36.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [Cover Me with Diamonds]
 [10May2025 03:28:44.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peter_rola14> zzz
+[10May2025 03:29:02.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [Sweet Dreams]
+[10May2025 03:29:28.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10May2025 03:29:48.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[10May2025 03:29:52.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10May2025 03:29:53.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Gave 3 [PC] to Peter_rola14]
+[10May2025 03:30:10.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Creative Mode]
+[10May2025 03:30:40.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Survival Mode]
+[10May2025 03:30:50.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[10May2025 03:30:59.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Suit Up]
+[10May2025 03:31:50.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [All Along The Watchtower]
+[10May2025 03:32:08.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [A New Friend!]
+[10May2025 03:32:14.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[10May2025 03:32:33.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3824ms or 76 ticks behind
+[10May2025 03:32:55.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was doomed to fall by Pillager
+[10May2025 03:32:56.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[10May2025 03:33:53.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Peter_rola14]
+[10May2025 03:36:08.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Peter_rola14 to Dercsas]
+[10May2025 03:36:36.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [Full House]
+[10May2025 03:36:56.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied enchantment Efficiency V to alejandro946's item]
+[10May2025 03:37:45.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10May2025 03:37:52.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied effect Saturation to 4 targets]
+[10May2025 03:38:07.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[10May2025 03:38:28.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6255ms or 125 ticks behind
+[10May2025 03:38:46.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied enchantment Efficiency V to alejandro946's item]
+[10May2025 03:38:48.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied enchantment Efficiency V to alejandro946's item]
+[10May2025 03:38:50.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied enchantment Efficiency V to alejandro946's item]
+[10May2025 03:38:59.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind

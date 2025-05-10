@@ -14,6 +14,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-05-09 01:58:01 +0000",
+      "minecraft:taiga": "2025-05-10 03:32:09 +0000",
       "minecraft:sunflower_plains": "2025-05-09 01:27:42 +0000",
       "minecraft:cherry_grove": "2025-05-09 01:51:49 +0000",
       "minecraft:beach": "2025-05-09 01:27:47 +0000",
