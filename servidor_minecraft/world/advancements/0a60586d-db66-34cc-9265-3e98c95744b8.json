@@ -1546,6 +1546,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-10 03:46:16 +0000",
       "minecraft:spider": "2025-05-09 01:41:28 +0000",
+      "minecraft:creeper": "2025-05-10 03:48:18 +0000",
       "minecraft:zombie": "2025-05-10 03:22:27 +0000"
     },
     "done": false
@@ -1983,6 +1984,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-10 03:49:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-10 03:22:24 +0000"
@@ -2226,6 +2233,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-10 03:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-10 03:49:20 +0000"
     },
     "done": true
   },
@@ -2516,6 +2529,12 @@
       "has_gunpowder": "2025-05-10 03:23:11 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2025-05-10 03:49:08 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {

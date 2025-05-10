@@ -1064,3 +1064,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10May2025 03:49:11.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Zombie
 [10May2025 03:49:25.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [10May2025 03:49:55.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[10May2025 03:50:12.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
+[10May2025 03:50:39.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11550ms or 231 ticks behind
+[10May2025 03:50:42.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10May2025 03:50:42.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10May2025 03:50:43.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Peter_rola14 lost connection: Server closed
+[10May2025 03:50:43.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 left the game
+[10May2025 03:50:43.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Server closed
+[10May2025 03:50:43.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
+[10May2025 03:50:43.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10May2025 03:50:48.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10May2025 03:51:00.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10May2025 03:51:00.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10May2025 03:51:00.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10May2025 03:51:00.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10May2025 03:51:00.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10May2025 03:51:00.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10May2025 03:51:01.154] [Server thread/INFO] [Framework/]: Unloading server configs...
+[10May2025 03:51:01.156] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[10May2025 03:51:01.177] [Server thread/INFO] [Framework/]: Finished unloading server configs
