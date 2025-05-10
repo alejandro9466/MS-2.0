@@ -5596,9 +5596,21 @@
     },
     "done": true
   },
+  "cobblemon:first_battle_victory": {
+    "criteria": {
+      "win": "2025-05-10 04:38:24 +0000"
+    },
+    "done": true
+  },
   "cobblemon:max_level_baby": {
     "criteria": {
       "level": "2025-05-10 04:22:34 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2025-05-10 04:38:34 +0000"
     },
     "done": true
   },

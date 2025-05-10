@@ -471,6 +471,12 @@
     },
     "done": true
   },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2025-05-10 04:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-10 04:18:24 +0000"
