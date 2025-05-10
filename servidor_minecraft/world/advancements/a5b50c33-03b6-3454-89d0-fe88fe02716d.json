@@ -21,8 +21,10 @@
       "minecraft:river": "2025-05-09 01:27:13 +0000",
       "minecraft:stony_shore": "2025-05-09 01:52:13 +0000",
       "minecraft:forest": "2025-05-09 01:10:07 +0000",
+      "minecraft:jungle": "2025-05-10 04:07:53 +0000",
       "minecraft:flower_forest": "2025-05-09 01:48:01 +0000",
       "minecraft:meadow": "2025-05-09 01:53:38 +0000",
+      "minecraft:savanna": "2025-05-10 04:11:37 +0000",
       "minecraft:plains": "2025-05-09 01:09:31 +0000"
     },
     "done": false
@@ -414,6 +416,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2025-05-09 01:18:24 +0000",
+      "melon_slice": "2025-05-10 04:10:46 +0000",
       "carrot": "2025-05-09 01:12:46 +0000"
     },
     "done": false
@@ -2998,12 +3001,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-05-10 03:45:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-10 03:45:17 +0000"
@@ -3079,6 +3076,72 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-05-10 03:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-10 03:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-10 04:10:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-10 04:10:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-05-10 03:58:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-10 04:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-10 03:58:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-10 03:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-10 03:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-10 04:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-10 04:10:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-05-10 04:00:47 +0000"
     },
     "done": true
   },

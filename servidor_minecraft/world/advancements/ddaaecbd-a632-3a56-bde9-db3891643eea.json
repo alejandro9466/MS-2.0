@@ -5588,5 +5588,11 @@
     },
     "done": true
   },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2025-05-10 04:07:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

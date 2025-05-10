@@ -1,19 +1,19 @@
-[10May2025 03:18:55.797] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[10May2025 03:18:55.809] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[10May2025 03:19:05.064] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[10May2025 03:19:05.220] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MS-2.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[10May2025 03:19:06.369] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
-[10May2025 03:19:06.371] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[10May2025 03:19:06.373] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[10May2025 03:19:06.374] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[10May2025 03:19:07.328] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
-[10May2025 03:19:14.101] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[10May2025 03:19:14.255] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[10May2025 03:19:14.761] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[10May2025 03:19:14.858] [main/WARN] [mixin/]: Reference map 'chiselsandbits.refmap.json' for chisels-and-bits.mixins.json could not be read. If this is a development environment you can ignore this message
-[10May2025 03:19:16.312] [main/WARN] [mixin/]: Error loading class: juuxel/adorn/block/variant/BlockVariantSets (java.lang.ClassNotFoundException: juuxel.adorn.block.variant.BlockVariantSets)
-[10May2025 03:19:16.316] [main/WARN] [mixin/]: @Mixin target juuxel.adorn.block.variant.BlockVariantSets was not found mixins.cobblemon-common.json:invoker.AdornRegisterInvoker
-[10May2025 03:19:17.605] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
+[10May2025 03:55:40.146] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[10May2025 03:55:40.150] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[10May2025 03:55:46.202] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[10May2025 03:55:46.296] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MS-2.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[10May2025 03:55:46.872] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[10May2025 03:55:46.875] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[10May2025 03:55:46.877] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[10May2025 03:55:46.879] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[10May2025 03:55:47.128] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[10May2025 03:55:50.307] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10May2025 03:55:50.400] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[10May2025 03:55:50.654] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[10May2025 03:55:50.733] [main/WARN] [mixin/]: Reference map 'chiselsandbits.refmap.json' for chisels-and-bits.mixins.json could not be read. If this is a development environment you can ignore this message
+[10May2025 03:55:51.441] [main/WARN] [mixin/]: Error loading class: juuxel/adorn/block/variant/BlockVariantSets (java.lang.ClassNotFoundException: juuxel.adorn.block.variant.BlockVariantSets)
+[10May2025 03:55:51.443] [main/WARN] [mixin/]: @Mixin target juuxel.adorn.block.variant.BlockVariantSets was not found mixins.cobblemon-common.json:invoker.AdornRegisterInvoker
+[10May2025 03:55:51.879] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
 java.lang.IllegalStateException: Field f_47437_ is not private and an instance field
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:1069) ~[coremods-5.2.4.jar%2354!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$22$292A$\^eval\_.initializeCoreMod#transformer(<eval>:11) ~[?:?]
@@ -71,10 +71,10 @@ java.lang.IllegalStateException: Field f_47437_ is not private and an instance f
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[10May2025 03:19:17.811] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[10May2025 03:19:17.812] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[10May2025 03:19:18.661] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[10May2025 03:19:36.668] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
+[10May2025 03:55:51.946] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[10May2025 03:55:51.946] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[10May2025 03:55:52.351] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[10May2025 03:56:01.121] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
 java.lang.IllegalStateException: Field f_47437_ is not private and an instance field
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:1069) ~[coremods-5.2.4.jar%2354!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$22$292A$\^eval\_.initializeCoreMod#transformer(<eval>:11) ~[?:?]
@@ -120,47 +120,47 @@ java.lang.IllegalStateException: Field f_47437_ is not private and an instance f
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[10May2025 03:19:37.621] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
-[10May2025 03:19:38.508] [modloading-worker-0/INFO] [scena-forge/]: Initialized scena-forge
-[10May2025 03:19:38.736] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
-[10May2025 03:19:39.711] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[10May2025 03:19:39.898] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Booting LaxPermissionValidator, permissions will be checked using Minecrafts permission level system, see https://minecraft.fandom.com/wiki/Permission_level
-[10May2025 03:19:39.905] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Launching Cobblemon 1.5.2 
-[10May2025 03:19:39.915] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Booting ForgePermissionApiPermissionValidator, player permissions will be checked using MinecraftForge' PermissionAPI, non player command sources will use Minecraft' permission level system, see https://docs.minecraftforge.net/en/latest/ and https://minecraft.fandom.com/wiki/Permission_level
-[10May2025 03:19:40.627] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting the Best Spawner...
-[10May2025 03:19:40.643] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 5 spawning condition types.
-[10May2025 03:19:40.684] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 5 spawning context types.
-[10May2025 03:19:40.707] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 1 spawn detail types.
-[10May2025 03:19:41.796] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[10May2025 03:19:41.797] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[10May2025 03:19:41.806] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[10May2025 03:19:41.809] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[10May2025 03:19:41.812] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[10May2025 03:19:41.817] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[10May2025 03:19:41.822] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[10May2025 03:19:41.828] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[10May2025 03:19:42.324] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
-[10May2025 03:19:43.148] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
-[10May2025 03:19:43.149] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
-[10May2025 03:19:43.356] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[10May2025 03:19:43.373] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.Forge/]: Initialized Chisels&Bits - Forge
-[10May2025 03:19:43.587] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlockEntityTypes/]: Loaded block entity configuration.
-[10May2025 03:19:43.615] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlocks/]: Loaded block configuration.
-[10May2025 03:19:43.635] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModeGroups/]: Loaded chisel mode group configuration.
-[10May2025 03:19:44.911] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModes/]: Loaded chisel mode configuration.
-[10May2025 03:19:44.920] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModContainerTypes/]: Loaded container type configuration.
-[10May2025 03:19:44.930] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModCreativeTabs/]: Loaded item group configuration.
-[10May2025 03:19:45.010] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModItems/]: Loaded item configuration.
-[10May2025 03:19:45.022] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModMetadataKeys/]: Loaded metadata key configuration.
-[10May2025 03:19:45.045] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModelProperties/]: Loaded model property configuration.
-[10May2025 03:19:45.061] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperation/]: Loaded modification operation configuration.
-[10May2025 03:19:45.069] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperationGroups/]: Loaded modification operation group configuration.
-[10May2025 03:19:45.093] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModPatternPlacementTypes/]: Loaded pattern placement type configuration.
-[10May2025 03:19:45.102] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeSerializers/]: Loaded recipe serializer configuration.
-[10May2025 03:19:45.106] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModTags/]: Loaded tag configuration.
-[10May2025 03:19:45.111] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeTypes/]: Registering recipe types.
-[10May2025 03:19:45.112] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModEventHandler/]: Registering event handlers
-[10May2025 03:19:45.251] [modloading-worker-0/ERROR] [mod.chiselsandbits.api.util.ClassUtils/]: Failed to load: mod.chiselsandbits.forge.compat.create.CreateCandBPlugin
+[10May2025 03:56:01.725] [modloading-worker-0/INFO] [scena-forge/]: Initialized scena-forge
+[10May2025 03:56:01.773] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[10May2025 03:56:01.947] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[10May2025 03:56:02.186] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[10May2025 03:56:02.188] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[10May2025 03:56:02.196] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[10May2025 03:56:02.197] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[10May2025 03:56:02.198] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[10May2025 03:56:02.201] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[10May2025 03:56:02.205] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[10May2025 03:56:02.206] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[10May2025 03:56:02.476] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[10May2025 03:56:02.605] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[10May2025 03:56:02.726] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Booting LaxPermissionValidator, permissions will be checked using Minecrafts permission level system, see https://minecraft.fandom.com/wiki/Permission_level
+[10May2025 03:56:02.732] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Launching Cobblemon 1.5.2 
+[10May2025 03:56:02.737] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Booting ForgePermissionApiPermissionValidator, player permissions will be checked using MinecraftForge' PermissionAPI, non player command sources will use Minecraft' permission level system, see https://docs.minecraftforge.net/en/latest/ and https://minecraft.fandom.com/wiki/Permission_level
+[10May2025 03:56:02.832] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[10May2025 03:56:02.832] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[10May2025 03:56:02.986] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[10May2025 03:56:02.988] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.Forge/]: Initialized Chisels&Bits - Forge
+[10May2025 03:56:03.306] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlockEntityTypes/]: Loaded block entity configuration.
+[10May2025 03:56:03.350] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlocks/]: Loaded block configuration.
+[10May2025 03:56:03.381] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModeGroups/]: Loaded chisel mode group configuration.
+[10May2025 03:56:03.591] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting the Best Spawner...
+[10May2025 03:56:03.611] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 5 spawning condition types.
+[10May2025 03:56:03.639] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 5 spawning context types.
+[10May2025 03:56:03.651] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 1 spawn detail types.
+[10May2025 03:56:04.345] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModes/]: Loaded chisel mode configuration.
+[10May2025 03:56:04.348] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModContainerTypes/]: Loaded container type configuration.
+[10May2025 03:56:04.357] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModCreativeTabs/]: Loaded item group configuration.
+[10May2025 03:56:04.428] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModItems/]: Loaded item configuration.
+[10May2025 03:56:04.434] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModMetadataKeys/]: Loaded metadata key configuration.
+[10May2025 03:56:04.459] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModelProperties/]: Loaded model property configuration.
+[10May2025 03:56:04.468] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperation/]: Loaded modification operation configuration.
+[10May2025 03:56:04.475] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperationGroups/]: Loaded modification operation group configuration.
+[10May2025 03:56:04.484] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModPatternPlacementTypes/]: Loaded pattern placement type configuration.
+[10May2025 03:56:04.491] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeSerializers/]: Loaded recipe serializer configuration.
+[10May2025 03:56:04.496] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModTags/]: Loaded tag configuration.
+[10May2025 03:56:04.501] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeTypes/]: Registering recipe types.
+[10May2025 03:56:04.504] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModEventHandler/]: Registering event handlers
+[10May2025 03:56:04.594] [modloading-worker-0/ERROR] [mod.chiselsandbits.api.util.ClassUtils/]: Failed to load: mod.chiselsandbits.forge.compat.create.CreateCandBPlugin
 java.lang.NoClassDefFoundError: com/simibubi/create/content/contraptions/behaviour/MovementBehaviour
 	at java.lang.Class.forName0(Native Method) ~[?:?]
 	at java.lang.Class.forName(Class.java:375) ~[?:?]
@@ -190,12 +190,13 @@ Caused by: java.lang.ClassNotFoundException: com.simibubi.create.content.contrap
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 24 more
-[10May2025 03:19:50.619] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Initializing...
-[10May2025 03:19:51.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[10May2025 03:19:51.757] [Cobblemon Showdown/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting showdown service...
-[10May2025 03:19:52.942] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 2.0.1.124 Target: null
-[10May2025 03:19:52.948] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[10May2025 03:19:53.312] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[10May2025 03:56:07.696] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/MS-2.0/servidor_minecraft/config/chiselsandbits-common.toml is not correct. Correcting
+[10May2025 03:56:07.757] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Initializing...
+[10May2025 03:56:08.288] [Cobblemon Showdown/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting showdown service...
+[10May2025 03:56:08.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[10May2025 03:56:09.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 2.0.1.124 Target: null
+[10May2025 03:56:09.308] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[10May2025 03:56:09.605] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -210,12 +211,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[10May2025 03:19:53.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[10May2025 03:19:53.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[10May2025 03:19:53.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[10May2025 03:19:54.010] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: AHEAD Current: 5.1.4.362 Target: null
-[10May2025 03:19:54.011] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[10May2025 03:19:54.058] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[10May2025 03:56:09.605] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[10May2025 03:56:10.270] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[10May2025 03:56:10.270] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[10May2025 03:56:10.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: AHEAD Current: 5.1.4.362 Target: null
+[10May2025 03:56:10.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[10May2025 03:56:10.323] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -230,35 +231,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[10May2025 03:19:54.064] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[10May2025 03:19:54.395] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
-[10May2025 03:20:04.745] [Cobblemon Showdown/INFO] [com.cobblemon.mod.common.Cobblemon/]: Showdown has been started!
-[10May2025 03:20:04.751] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Note: Cobblemon data registries are only loaded once per server instance as Pokémon species are not safe to reload.
-[10May2025 03:20:04.753] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species_features registry
-[10May2025 03:20:04.757] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:global_species_features registry
-[10May2025 03:20:04.759] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species_feature_assignments registry
-[10May2025 03:20:04.814] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:action_effects registry
-[10May2025 03:20:04.818] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:moves registry
-[10May2025 03:20:04.821] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:abilities registry
-[10May2025 03:20:04.823] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species registry
-[10May2025 03:20:04.823] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species_additions registry
-[10May2025 03:20:04.823] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:pokeballs registry
-[10May2025 03:20:04.827] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:properties_tab_completion registry
-[10May2025 03:20:04.830] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:spawn_detail_presets registry
-[10May2025 03:20:04.850] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:spawn_rules registry
-[10May2025 03:20:04.896] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:mechanics registry
-[10May2025 03:20:04.897] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:bag_items registry
-[10May2025 03:20:04.907] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:dialogues registry
-[10May2025 03:20:04.910] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:natural_materials registry
-[10May2025 03:20:04.913] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:fossils registry
-[10May2025 03:20:04.934] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:spawn_pool_world registry
-[10May2025 03:20:04.952] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:berries registry
-[10May2025 03:20:10.025] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10May2025 03:20:12.856] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23149!/assets/.mcassetsroot' uses unexpected schema
-[10May2025 03:20:12.857] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23149!/data/.mcassetsroot' uses unexpected schema
-[10May2025 03:20:12.961] [main/INFO] [com.simibubi.create.Create/]: Created 154 recipes which will be injected into the game
-[10May2025 03:20:13.003] [main/INFO] [com.simibubi.create.Create/]: Created 0 tags which will be injected into the game
-[10May2025 03:20:16.787] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_drawer
+[10May2025 03:56:10.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[10May2025 03:56:10.441] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[10May2025 03:56:12.270] [Cobblemon Showdown/INFO] [com.cobblemon.mod.common.Cobblemon/]: Showdown has been started!
+[10May2025 03:56:12.273] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Note: Cobblemon data registries are only loaded once per server instance as Pokémon species are not safe to reload.
+[10May2025 03:56:12.274] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species_features registry
+[10May2025 03:56:12.275] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:global_species_features registry
+[10May2025 03:56:12.277] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species_feature_assignments registry
+[10May2025 03:56:12.303] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:action_effects registry
+[10May2025 03:56:12.305] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:moves registry
+[10May2025 03:56:12.307] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:abilities registry
+[10May2025 03:56:12.307] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species registry
+[10May2025 03:56:12.308] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species_additions registry
+[10May2025 03:56:12.308] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:pokeballs registry
+[10May2025 03:56:12.309] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:properties_tab_completion registry
+[10May2025 03:56:12.310] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:spawn_detail_presets registry
+[10May2025 03:56:12.317] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:spawn_rules registry
+[10May2025 03:56:12.335] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:mechanics registry
+[10May2025 03:56:12.336] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:bag_items registry
+[10May2025 03:56:12.341] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:dialogues registry
+[10May2025 03:56:12.342] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:natural_materials registry
+[10May2025 03:56:12.344] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:fossils registry
+[10May2025 03:56:12.352] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:spawn_pool_world registry
+[10May2025 03:56:12.363] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:berries registry
+[10May2025 03:56:15.569] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10May2025 03:56:17.804] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23149!/assets/.mcassetsroot' uses unexpected schema
+[10May2025 03:56:17.804] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MS-2.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23149!/data/.mcassetsroot' uses unexpected schema
+[10May2025 03:56:17.882] [main/INFO] [com.simibubi.create.Create/]: Created 154 recipes which will be injected into the game
+[10May2025 03:56:17.902] [main/INFO] [com.simibubi.create.Create/]: Created 0 tags which will be injected into the game
+[10May2025 03:56:20.551] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_drawer
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_drawer'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -301,7 +302,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23154!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.mdfe4b14$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.mdeb5802$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zbk000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
@@ -312,7 +313,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[10May2025 03:20:16.813] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_kitchen_counter
+[10May2025 03:56:20.565] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_kitchen_counter
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_kitchen_counter'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -355,7 +356,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23154!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.mdfe4b14$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.mdeb5802$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zbk000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
@@ -366,7 +367,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[10May2025 03:20:16.820] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_chair
+[10May2025 03:56:20.568] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_chair
 java.lang.IllegalArgumentException: Can't find block adorn:cobblemon/apricorn_chair
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -415,7 +416,7 @@ java.lang.IllegalArgumentException: Can't find block adorn:cobblemon/apricorn_ch
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23154!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.mdfe4b14$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.mdeb5802$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zbk000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
@@ -426,7 +427,7 @@ java.lang.IllegalArgumentException: Can't find block adorn:cobblemon/apricorn_ch
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[10May2025 03:20:16.962] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_coffee_table
+[10May2025 03:56:20.631] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_coffee_table
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_coffee_table'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -469,7 +470,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23154!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.mdfe4b14$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.mdeb5802$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zbk000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
@@ -480,7 +481,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[10May2025 03:20:17.038] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_table
+[10May2025 03:56:20.691] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_table
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_table'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -523,7 +524,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23154!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.mdfe4b14$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.mdeb5802$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zbk000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
@@ -534,7 +535,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[10May2025 03:20:17.111] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_shelf
+[10May2025 03:56:20.739] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_shelf
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_shelf'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -577,7 +578,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23154!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.mdfe4b14$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.mdeb5802$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zbk000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
@@ -588,7 +589,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[10May2025 03:20:17.138] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_kitchen_cupboard
+[10May2025 03:56:20.754] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_kitchen_cupboard
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_kitchen_cupboard'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -631,7 +632,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23154!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.mdfe4b14$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.mdeb5802$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zbk000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
@@ -642,7 +643,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[10May2025 03:20:17.214] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_kitchen_sink
+[10May2025 03:56:20.797] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_kitchen_sink
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_kitchen_sink'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -685,7 +686,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23154!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.mdfe4b14$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.mdeb5802$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zbk000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
@@ -696,7 +697,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[10May2025 03:20:17.284] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_step
+[10May2025 03:56:20.836] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_step
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_step'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -739,7 +740,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23154!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.mdfe4b14$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.mdeb5802$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zbk000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
@@ -750,7 +751,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[10May2025 03:20:17.305] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_platform
+[10May2025 03:56:20.847] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_platform
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_platform'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -793,7 +794,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23154!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.mdfe4b14$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.mdeb5802$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zbk000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
@@ -804,7 +805,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[10May2025 03:20:17.311] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_bench
+[10May2025 03:56:20.849] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_bench
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_bench'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -847,7 +848,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23154!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.mdfe4b14$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.mdeb5802$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zbk000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
@@ -858,7 +859,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[10May2025 03:20:17.355] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_post
+[10May2025 03:56:20.875] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_post
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_post'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -901,7 +902,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23154!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.mdfe4b14$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.mdeb5802$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zbk000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
@@ -912,174 +913,109 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[10May2025 03:20:18.767] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 25 recipes
-[10May2025 03:20:19.133] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3017 advancements
-[10May2025 03:20:19.151] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[10May2025 03:20:19.161] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[10May2025 03:20:28.026] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 936 moves
-[10May2025 03:20:28.327] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 314 abilities
-[10May2025 03:20:29.309] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Finished additions
-[10May2025 03:20:31.878] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Imported 244 held item IDs from showdown
-[10May2025 03:20:31.879] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 1025 Pokémon species
-[10May2025 03:20:31.900] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 43 spawn detail presets.
-[10May2025 03:20:31.929] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting dummy Showdown battle to force it to pre-load data.
-[10May2025 03:20:31.986] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 15 fossils
-[10May2025 03:20:33.181] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 69 berries
-[10May2025 03:20:34.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[10May2025 03:20:34.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[10May2025 03:20:34.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[10May2025 03:20:34.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[10May2025 03:20:35.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[10May2025 03:20:35.097] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[10May2025 03:20:35.202] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10May2025 03:20:35.203] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[10May2025 03:20:35.203] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10May2025 03:20:35.203] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[10May2025 03:20:35.323] [Server thread/INFO] [Framework/]: Loading server configs...
-[10May2025 03:20:35.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[10May2025 03:20:43.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[10May2025 03:20:53.774] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.778] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.780] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.783] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.784] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.787] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.790] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.791] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.793] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.794] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.796] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.798] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.800] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.802] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.805] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.808] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.811] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.811] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.815] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.816] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.819] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:53.822] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:54.149] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:54.653] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:55.147] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:55.725] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 03:20:56.553] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13407 ms
-[10May2025 03:20:56.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (21.327s)! For help, type "help"
-[10May2025 03:20:56.643] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting Forge permission node registry
-[10May2025 03:20:56.650] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[10May2025 03:21:11.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandro946[/127.160.163.203:46545] logged in with entity id 120 at (217.4041794655784, 63.0, -104.60893055450498)
-[10May2025 03:21:11.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 joined the game
-[10May2025 03:21:52.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied effect Saturation to alejandro946]
-[10May2025 03:21:57.835] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Peter_rola14[/127.227.82.151:35881] logged in with entity id 483 at (-1330.3851982267277, 70.0, -162.50495955276764)
-[10May2025 03:21:58.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 joined the game
-[10May2025 03:22:00.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2378ms or 47 ticks behind
-[10May2025 03:22:13.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.191.25.4:46851] logged in with entity id 845 at (-1325.0810519054694, 71.5625, -162.65592316616198)
-[10May2025 03:22:13.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
-[10May2025 03:22:23.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2974ms or 59 ticks behind
-[10May2025 03:23:10.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Amateur Archaeologist]
-[10May2025 03:23:40.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Diamonds!]
-[10May2025 03:24:38.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Creative Mode]
-[10May2025 03:24:55.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Acquire Hardware]
-[10May2025 03:24:55.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Survival Mode]
-[10May2025 03:25:31.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was blown up by Creeper
-[10May2025 03:25:42.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
-[10May2025 03:25:47.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dercsas[/127.48.163.57:36613] logged in with entity id 2837 at (0.5, 88.0, 10.5)
-[10May2025 03:25:47.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas joined the game
-[10May2025 03:25:51.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied effect Saturation to 4 targets]
-[10May2025 03:25:54.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Dercsas to Peter_rola14]
-[10May2025 03:25:59.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
-[10May2025 03:26:08.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [The First of Many]
-[10May2025 03:26:12.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
-[10May2025 03:26:16.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
-[10May2025 03:26:19.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
-[10May2025 03:26:31.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
-[10May2025 03:26:35.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [The World of Cobblemon!]
-[10May2025 03:26:47.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
-[10May2025 03:27:18.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
-[10May2025 03:27:25.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
-[10May2025 03:27:48.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
-[10May2025 03:27:53.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
-[10May2025 03:28:36.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [Cover Me with Diamonds]
-[10May2025 03:28:44.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peter_rola14> zzz
-[10May2025 03:29:02.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [Sweet Dreams]
-[10May2025 03:29:28.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
-[10May2025 03:29:48.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
-[10May2025 03:29:52.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
-[10May2025 03:29:53.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Gave 3 [PC] to Peter_rola14]
-[10May2025 03:30:10.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Creative Mode]
-[10May2025 03:30:40.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Survival Mode]
-[10May2025 03:30:50.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[10May2025 03:30:59.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Suit Up]
-[10May2025 03:31:50.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [All Along The Watchtower]
-[10May2025 03:32:08.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [A New Friend!]
-[10May2025 03:32:14.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
-[10May2025 03:32:33.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3824ms or 76 ticks behind
-[10May2025 03:32:55.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was doomed to fall by Pillager
-[10May2025 03:32:56.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[10May2025 03:33:53.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Peter_rola14]
-[10May2025 03:36:08.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Peter_rola14 to Dercsas]
-[10May2025 03:36:36.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [Full House]
-[10May2025 03:36:56.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied enchantment Efficiency V to alejandro946's item]
-[10May2025 03:37:45.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[10May2025 03:37:52.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied effect Saturation to 4 targets]
-[10May2025 03:38:07.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[10May2025 03:38:28.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6255ms or 125 ticks behind
-[10May2025 03:38:46.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied enchantment Efficiency V to alejandro946's item]
-[10May2025 03:38:48.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied enchantment Efficiency V to alejandro946's item]
-[10May2025 03:38:50.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied enchantment Efficiency V to alejandro946's item]
-[10May2025 03:38:59.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind
-[10May2025 03:39:28.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[10May2025 03:39:57.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13742ms or 274 ticks behind
-[10May2025 03:40:15.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[10May2025 03:40:55.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1328, y=70, z=-141} BlockPos{x=-1328, y=71, z=-139}
-[10May2025 03:41:12.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[10May2025 03:41:14.876] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
-[10May2025 03:41:14.883] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
-[10May2025 03:41:14.885] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
-[10May2025 03:41:17.411] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
-[10May2025 03:41:17.413] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
-[10May2025 03:41:46.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2367ms or 47 ticks behind
-[10May2025 03:42:22.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Sweet Dreams]
-[10May2025 03:42:41.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[10May2025 03:43:13.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[10May2025 03:43:16.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Disconnected
-[10May2025 03:43:16.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
-[10May2025 03:43:25.566] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.191.25.4:57967] logged in with entity id 20791 at (-2659.6821537417095, 67.0, 935.1551441351255)
-[10May2025 03:43:25.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
-[10May2025 03:44:01.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [Monster Hunter]
-[10May2025 03:44:03.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [There's a Leek in the Boat!]
-[10May2025 03:44:51.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Peter_rola14 to alejandro946]
-[10May2025 03:44:55.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
-[10May2025 03:45:03.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [The Root of Basic Healing]
-[10May2025 03:45:42.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[10May2025 03:46:12.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[10May2025 03:46:48.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was blown up by Creeper
-[10May2025 03:46:54.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [Ice Bucket Challenge]
-[10May2025 03:46:59.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
-[10May2025 03:47:45.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
-[10May2025 03:48:03.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
-[10May2025 03:48:20.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
-[10May2025 03:48:38.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
-[10May2025 03:49:11.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Zombie
-[10May2025 03:49:25.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[10May2025 03:49:55.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[10May2025 03:50:12.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
-[10May2025 03:50:39.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11550ms or 231 ticks behind
-[10May2025 03:50:42.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[10May2025 03:50:42.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[10May2025 03:50:43.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Peter_rola14 lost connection: Server closed
-[10May2025 03:50:43.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 left the game
-[10May2025 03:50:43.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Server closed
-[10May2025 03:50:43.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
-[10May2025 03:50:43.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[10May2025 03:50:48.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[10May2025 03:51:00.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[10May2025 03:51:00.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[10May2025 03:51:00.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10May2025 03:51:00.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10May2025 03:51:00.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10May2025 03:51:00.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[10May2025 03:51:01.154] [Server thread/INFO] [Framework/]: Unloading server configs...
-[10May2025 03:51:01.156] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
-[10May2025 03:51:01.177] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[10May2025 03:56:21.229] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 25 recipes
+[10May2025 03:56:21.427] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3017 advancements
+[10May2025 03:56:21.444] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[10May2025 03:56:21.452] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[10May2025 03:56:27.489] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 936 moves
+[10May2025 03:56:27.617] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 314 abilities
+[10May2025 03:56:28.053] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Finished additions
+[10May2025 03:56:29.519] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Imported 244 held item IDs from showdown
+[10May2025 03:56:29.519] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 1025 Pokémon species
+[10May2025 03:56:29.537] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 43 spawn detail presets.
+[10May2025 03:56:29.557] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting dummy Showdown battle to force it to pre-load data.
+[10May2025 03:56:29.604] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 15 fossils
+[10May2025 03:56:30.370] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 69 berries
+[10May2025 03:56:32.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[10May2025 03:56:32.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10May2025 03:56:32.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10May2025 03:56:32.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10May2025 03:56:32.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10May2025 03:56:32.285] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[10May2025 03:56:32.391] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10May2025 03:56:32.391] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10May2025 03:56:32.392] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10May2025 03:56:32.392] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10May2025 03:56:32.478] [Server thread/INFO] [Framework/]: Loading server configs...
+[10May2025 03:56:32.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10May2025 03:56:34.677] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[10May2025 03:56:34.993] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[10May2025 03:56:36.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10May2025 03:56:40.016] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 03:56:40.041] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 03:56:40.064] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 03:56:40.086] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 03:56:40.100] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 03:56:40.101] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 03:56:40.348] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 03:56:40.413] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 03:56:40.700] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 03:56:41.179] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 03:56:41.677] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 03:56:42.176] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 03:56:42.684] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 03:56:43.178] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 03:56:43.686] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 03:56:44.176] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[10May2025 03:56:44.676] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[10May2025 03:56:45.296] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8621 ms
+[10May2025 03:56:45.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.886s)! For help, type "help"
+[10May2025 03:56:45.359] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting Forge permission node registry
+[10May2025 03:56:45.360] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[10May2025 03:56:54.517] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandro946[/127.160.163.203:57569] logged in with entity id 140 at (-1312.437324332931, 68.17675927506424, -163.1602813856834)
+[10May2025 03:56:54.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 joined the game
+[10May2025 03:56:56.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dercsas[/127.48.163.57:47553] logged in with entity id 141 at (-2062.0908367718703, 61.65377097297458, 427.9379617011669)
+[10May2025 03:56:56.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas joined the game
+[10May2025 03:56:56.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[10May2025 03:57:39.154] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1bb0d80f[id=<null>,name=Peter_rola14,properties={},legacy=false] (/127.227.82.151:60091) lost connection: Disconnected
+[10May2025 03:57:45.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Peter_rola14[/127.227.82.151:40619] logged in with entity id 1105 at (-1691.8738645734875, 66.41999998688698, -168.43369703881353)
+[10May2025 03:57:45.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 joined the game
+[10May2025 03:58:13.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1334, y=68, z=-177} BlockPos{x=-1333, y=67, z=-177}
+[10May2025 03:58:13.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1334, y=68, z=-177} BlockPos{x=-1333, y=67, z=-177}
+[10May2025 04:00:47.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 has made the advancement [All Along The Watchtower]
+[10May2025 04:00:50.116] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.191.25.4:58161] logged in with entity id 4368 at (-2350.96325271778, 48.17675927506424, 1461.8120198079944)
+[10May2025 04:00:50.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
+[10May2025 04:01:05.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 fell from a high place
+[10May2025 04:01:14.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Peter_rola14 to alejandro946]
+[10May2025 04:02:16.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 was blown up by Creeper
+[10May2025 04:02:24.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [Mother Nature's Bounty]
+[10May2025 04:02:56.396] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c597cec3-2532-4938-abfb-e3b5429101a9
+[10May2025 04:02:56.396] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c597cec3-2532-4938-abfb-e3b5429101a9
+[10May2025 04:03:01.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Netherite Shovel] to alejandro946]
+[10May2025 04:03:39.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Gave 2 [Healing Machine] to Peter_rola14]
+[10May2025 04:04:25.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Peter_rola14 to Dercsas]
+[10May2025 04:04:27.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gamerule playersSleepingPercentage is now set to: 50]
+[10May2025 04:05:25.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Peter_rola14 to alejandro946]
+[10May2025 04:05:46.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Peter_rola14 to Dercsas]
+[10May2025 04:07:52.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Peter_rola14 to Och8Z]
+[10May2025 04:07:59.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Full House]
+[10May2025 04:08:37.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[10May2025 04:08:41.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10May2025 04:11:03.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Peter_rola14 to Och8Z]
+[10May2025 04:11:58.500] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[10May2025 04:11:58.501] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[10May2025 04:11:58.521] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[10May2025 04:11:58.521] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[10May2025 04:11:58.521] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[10May2025 04:11:58.522] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[10May2025 04:11:58.522] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[10May2025 04:12:01.439] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[10May2025 04:12:01.525] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[10May2025 04:12:01.526] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[10May2025 04:13:40.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied effect Saturation to 4 targets]
+[10May2025 04:13:43.371] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[10May2025 04:13:43.372] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[10May2025 04:14:03.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Peter_rola14 moved too quickly! 2.8062043059967436,-1.4129092804170114,9.685222559986869
+[10May2025 04:14:03.545] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 0f6528a1-6fc6-4470-bacb-298bdd5e96ce
+[10May2025 04:14:03.545] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 0f6528a1-6fc6-4470-bacb-298bdd5e96ce
+[10May2025 04:14:24.677] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b38a110a-ddbc-473a-95bd-044fd29bca59
+[10May2025 04:14:24.677] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b38a110a-ddbc-473a-95bd-044fd29bca59
+[10May2025 04:14:31.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Peter_rola14 to alejandro946]
+[10May2025 04:14:32.969] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[10May2025 04:14:32.970] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[10May2025 04:14:32.970] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[10May2025 04:14:32.970] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[10May2025 04:14:32.971] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[10May2025 04:14:32.977] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[10May2025 04:14:33.232] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[10May2025 04:14:48.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Dercsas to Peter_rola14]

@@ -17,6 +17,6 @@
 
 	[performance.saving]
 		#mod.scena.config.performance.saving.thread-count.comment
-		#Range: 1 ~ 2
+		#Range: 1 ~ 4
 		thread-count = 1
 
