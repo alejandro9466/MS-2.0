@@ -342,6 +342,12 @@
     },
     "done": true
   },
+  "cobblemon:trade_pokemon": {
+    "criteria": {
+      "trade": "2025-05-10 05:50:03 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/misc/relic_coin_pouch": {
     "criteria": {
       "has_coin": "2025-05-10 04:02:15 +0000"
@@ -522,6 +528,12 @@
   "cobblemon:recipes/held/never_melt_ice": {
     "criteria": {
       "has_the_recipe": "2025-05-10 04:23:49 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/charcoal_stick": {
+    "criteria": {
+      "has_fire": "2025-05-10 05:45:32 +0000"
     },
     "done": true
   },

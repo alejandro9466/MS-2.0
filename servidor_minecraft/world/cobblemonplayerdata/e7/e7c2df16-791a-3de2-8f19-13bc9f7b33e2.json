@@ -8,20 +8,20 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 26,
+    "totalCaptureCount": 27,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 11,
-    "totalBattleVictoryCount": 1,
+    "totalEvolvedCount": 12,
+    "totalBattleVictoryCount": 2,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 2,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 0,
+    "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
       "normal": 2,
       "water": 9,
       "flying": 2,
-      "dark": 4,
+      "dark": 5,
       "ice": 1,
       "electric": 2,
       "fighting": 1,
@@ -34,7 +34,8 @@
       "bug": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:bunnelby": 1
+      "cobblemon:bunnelby": 1,
+      "cobblemon:watchog": 1
     },
     "aspectsCollected": {}
   }
