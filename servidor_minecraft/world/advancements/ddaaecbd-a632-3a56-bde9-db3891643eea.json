@@ -5642,6 +5642,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-10 05:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-10 05:42:21 +0000"
+    },
+    "done": true
+  },
   "cobblemon:first_evolution": {
     "criteria": {
       "evolve": "2025-05-10 04:21:00 +0000"

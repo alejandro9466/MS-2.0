@@ -1224,3 +1224,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10May2025 05:36:18.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
 [10May2025 05:36:36.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
 [10May2025 05:36:38.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Dercsas to Peter_rola14]
+[10May2025 05:37:51.613] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 937f21c3-9a30-43d8-ada5-5c3dd9aabbe5
+[10May2025 05:37:51.614] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 937f21c3-9a30-43d8-ada5-5c3dd9aabbe5
+[10May2025 05:38:12.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gamerule randomTickSpeed is now set to: 5]
+[10May2025 05:38:42.642] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: e55b7f2e-c736-41a8-a9e0-a6bea91eeb05
+[10May2025 05:38:42.642] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: e55b7f2e-c736-41a8-a9e0-a6bea91eeb05
+[10May2025 05:40:18.293] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: a94559d3-19b8-41ab-8aed-23bdc4f9ac0c
+[10May2025 05:40:18.293] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: a94559d3-19b8-41ab-8aed-23bdc4f9ac0c
+[10May2025 05:42:07.700] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 45968ecd-4d5f-4d36-81dd-a36daafd1e32
+[10May2025 05:42:07.700] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 45968ecd-4d5f-4d36-81dd-a36daafd1e32
+[10May2025 05:43:14.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Peter_rola14 to alejandro946]
+[10May2025 05:44:00.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported 4 entities to Peter_rola14]
+[10May2025 05:45:02.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10May2025 05:45:30.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Fire Stone] to alejandro946]
+[10May2025 05:45:57.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Peter_rola14 to alejandro946]
+[10May2025 05:46:01.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Magmarizer] to alejandro946]
+[10May2025 05:46:17.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Magmarizer] to alejandro946]
+[10May2025 05:46:41.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Magmarizer] to alejandro946]
+[10May2025 05:46:41.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Magmarizer] to alejandro946]
+[10May2025 05:46:44.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 64 [Magmarizer] to alejandro946]
+[10May2025 05:46:53.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> godnai
+[10May2025 05:46:55.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Disconnected
+[10May2025 05:46:55.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
+[10May2025 05:47:07.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] maten al agu
+[10May2025 05:47:42.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dercsas> murio agu

@@ -8,9 +8,9 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 24,
+    "totalCaptureCount": 26,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 9,
+    "totalEvolvedCount": 11,
     "totalBattleVictoryCount": 1,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 1,
@@ -26,11 +26,12 @@
       "electric": 2,
       "fighting": 1,
       "grass": 1,
-      "fire": 5,
+      "fire": 7,
       "psychic": 1,
       "ghost": 1,
       "poison": 2,
-      "fairy": 1
+      "fairy": 1,
+      "bug": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1
