@@ -321,9 +321,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 04:18:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-10 04:18:24 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/misc/relic_coin_pouch": {
     "criteria": {
       "has_coin": "2025-05-10 04:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 04:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 04:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 04:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-10 04:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 04:18:24 +0000"
     },
     "done": true
   },
@@ -333,9 +375,33 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/icy_rock": {
+    "criteria": {
+      "has_stone": "2025-05-10 04:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 04:18:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-05-10 04:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 04:18:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:use_candy": {
+    "criteria": {
+      "use_xl_candy": "2025-05-10 04:16:24 +0000"
     },
     "done": true
   },
@@ -357,6 +423,24 @@
     },
     "done": true
   },
+  "cobblemon:max_level_baby": {
+    "criteria": {
+      "level": "2025-05-10 04:16:32 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice_using_stone": {
+    "criteria": {
+      "has_ice": "2025-05-10 04:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 04:18:24 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-05-10 04:07:07 +0000"
@@ -369,9 +453,63 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/never_melt_ice": {
+    "criteria": {
+      "has_the_recipe": "2025-05-10 04:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 04:18:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-10 04:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 04:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 04:18:24 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/chiseled_printer": {
     "criteria": {
       "has_l": "2025-05-10 04:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 04:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 04:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 04:18:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2025-05-10 04:18:36 +0000"
     },
     "done": true
   },

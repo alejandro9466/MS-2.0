@@ -14,9 +14,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-05-05 23:32:03 +0000",
+      "minecraft:eroded_badlands": "2025-05-10 04:19:28 +0000",
       "minecraft:sunflower_plains": "2025-05-05 00:14:21 +0000",
       "minecraft:birch_forest": "2025-05-05 23:54:47 +0000",
       "minecraft:windswept_hills": "2025-05-06 23:35:54 +0000",
+      "minecraft:savanna_plateau": "2025-05-10 04:12:32 +0000",
       "minecraft:beach": "2025-05-05 00:28:08 +0000",
       "minecraft:dark_forest": "2025-05-05 23:56:02 +0000",
       "minecraft:sparse_jungle": "2025-05-06 23:39:38 +0000",
@@ -5591,6 +5593,18 @@
   "cobblemon:full_party": {
     "criteria": {
       "full_party": "2025-05-10 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:max_level_baby": {
+    "criteria": {
+      "level": "2025-05-10 04:22:34 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2025-05-10 04:21:00 +0000"
     },
     "done": true
   },

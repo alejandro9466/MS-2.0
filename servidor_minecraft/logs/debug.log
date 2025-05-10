@@ -6639,3 +6639,198 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10May2025 04:15:19.217] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
 [10May2025 04:15:19.218] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [10May2025 04:15:19.219] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[10May2025 04:15:49.268] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[10May2025 04:15:49.268] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:15:49.269] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[10May2025 04:16:03.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Creative Mode]
+[10May2025 04:16:18.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Survival Mode]
+[10May2025 04:16:19.317] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[10May2025 04:16:19.318] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:16:19.319] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[10May2025 04:16:24.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [Sweet Tooth]
+[10May2025 04:16:32.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has completed the challenge [Darwin? Who's That?]
+[10May2025 04:16:47.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 04:16:47.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 04:16:49.367] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 4 Pokémon stores.
+[10May2025 04:16:49.368] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:16:49.371] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 4 Pokémon stores.
+[10May2025 04:17:19.417] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 5 Pokémon stores.
+[10May2025 04:17:19.418] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:17:19.421] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 5 Pokémon stores.
+[10May2025 04:17:27.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 has completed the challenge [Darwin? Who's That?]
+[10May2025 04:17:38.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was blown up by Creeper
+[10May2025 04:17:47.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Creative Mode]
+[10May2025 04:17:49.467] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 4 Pokémon stores.
+[10May2025 04:17:49.468] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:17:49.471] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 4 Pokémon stores.
+[10May2025 04:18:02.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Survival Mode]
+[10May2025 04:18:05.719] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[10May2025 04:18:05.719] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[10May2025 04:18:05.719] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[10May2025 04:18:05.725] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[10May2025 04:18:05.899] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[10May2025 04:18:05.899] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[10May2025 04:18:05.900] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[10May2025 04:18:05.900] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[10May2025 04:18:05.901] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[10May2025 04:18:05.908] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[10May2025 04:18:05.908] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[10May2025 04:18:13.261] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[10May2025 04:18:13.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[10May2025 04:18:13.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[10May2025 04:18:13.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[10May2025 04:18:13.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[10May2025 04:18:13.282] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[10May2025 04:18:13.283] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[10May2025 04:18:13.283] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[10May2025 04:18:13.284] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[10May2025 04:18:13.284] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[10May2025 04:18:13.288] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[10May2025 04:18:13.288] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[10May2025 04:18:19.527] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[10May2025 04:18:19.527] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:18:19.530] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[10May2025 04:18:24.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [Stone Age]
+[10May2025 04:18:31.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gamerule playersSleepingPercentage is now set to: 1]
+[10May2025 04:18:36.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [Hard Work and Dedication]
+[10May2025 04:18:49.567] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[10May2025 04:18:49.568] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:18:49.570] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[10May2025 04:18:50.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied effect Saturation to 4 targets]
+[10May2025 04:19:19.617] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[10May2025 04:19:19.618] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:19:19.620] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[10May2025 04:19:49.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Och8Z to Peter_rola14]
+[10May2025 04:19:49.809] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[10May2025 04:19:49.809] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:19:49.819] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[10May2025 04:20:19.718] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[10May2025 04:20:19.718] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:20:19.720] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[10May2025 04:20:20.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Creative Mode]
+[10May2025 04:20:49.767] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[10May2025 04:20:49.768] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:20:49.770] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[10May2025 04:21:00.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Hard Work and Dedication]
+[10May2025 04:21:05.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Survival Mode]
+[10May2025 04:21:14.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Creative Mode]
+[10May2025 04:21:19.817] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[10May2025 04:21:19.818] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:21:19.819] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[10May2025 04:21:47.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 04:21:47.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 04:21:49.868] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[10May2025 04:21:49.868] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:21:49.869] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[10May2025 04:22:06.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set the time to 14181]
+[10May2025 04:22:19.917] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[10May2025 04:22:19.918] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:22:19.921] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[10May2025 04:22:34.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has completed the challenge [Darwin? Who's That?]
+[10May2025 04:22:48.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Survival Mode]
+[10May2025 04:22:49.967] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[10May2025 04:22:49.968] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:22:49.971] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[10May2025 04:23:03.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 1294 block(s)]
+[10May2025 04:23:20.017] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[10May2025 04:23:20.018] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:23:20.020] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[10May2025 04:23:39.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Creative Mode]
+[10May2025 04:23:49.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Survival Mode]
+[10May2025 04:23:50.067] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[10May2025 04:23:50.068] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:23:50.070] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[10May2025 04:24:03.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 472 block(s)]
+[10May2025 04:24:08.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 3687 block(s)]
+[10May2025 04:24:11.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 4896 block(s)]
+[10May2025 04:24:20.117] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[10May2025 04:24:20.118] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:24:20.121] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[10May2025 04:24:50.167] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[10May2025 04:24:50.168] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:24:50.170] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[10May2025 04:25:14.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Metal Coat] to alejandro946]
+[10May2025 04:25:20.218] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[10May2025 04:25:20.218] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:25:20.219] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[10May2025 04:25:50.267] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[10May2025 04:25:50.268] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:25:50.271] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[10May2025 04:25:58.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gamerule randomTickSpeed is now set to: 100]
+[10May2025 04:26:06.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gamerule randomTickSpeed is now set to: 200]
+[10May2025 04:26:20.318] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[10May2025 04:26:20.318] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:26:20.320] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[10May2025 04:26:47.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 04:26:47.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 04:26:50.367] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[10May2025 04:26:50.368] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:26:50.370] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[10May2025 04:27:20.418] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[10May2025 04:27:20.418] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:27:20.420] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[10May2025 04:27:50.467] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[10May2025 04:27:50.468] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:27:50.469] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[10May2025 04:28:02.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied effect Saturation to 4 targets]
+[10May2025 04:28:18.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10May2025 04:28:20.517] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[10May2025 04:28:20.518] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:28:20.520] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[10May2025 04:28:47.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 1154 block(s)]
+[10May2025 04:28:50.568] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[10May2025 04:28:50.568] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:28:50.569] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[10May2025 04:29:20.618] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[10May2025 04:29:20.618] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:29:20.621] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[10May2025 04:29:50.668] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[10May2025 04:29:50.668] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:29:50.668] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[10May2025 04:30:20.717] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[10May2025 04:30:20.717] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:30:20.718] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[10May2025 04:30:42.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Creative Mode]
+[10May2025 04:30:47.006] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded service info.u_team.useful_backpacks.config.ForgeCommonConfig$Impl@c715ab0 for class class info.u_team.useful_backpacks.config.CommonConfig
+[10May2025 04:30:50.768] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[10May2025 04:30:50.768] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:30:50.769] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[10May2025 04:31:11.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 117 block(s)]
+[10May2025 04:31:20.817] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[10May2025 04:31:20.818] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:31:20.819] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[10May2025 04:31:39.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 117 block(s)]
+[10May2025 04:31:47.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 04:31:47.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 04:31:50.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 117 block(s)]
+[10May2025 04:31:50.867] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[10May2025 04:31:50.868] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:31:50.869] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[10May2025 04:31:57.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Survival Mode]
+[10May2025 04:32:20.917] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[10May2025 04:32:20.918] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:32:20.918] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[10May2025 04:32:50.968] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[10May2025 04:32:50.968] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:32:50.970] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[10May2025 04:33:21.019] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[10May2025 04:33:21.020] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:33:21.024] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[10May2025 04:33:51.067] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[10May2025 04:33:51.068] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:33:51.069] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[10May2025 04:34:21.117] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[10May2025 04:34:21.118] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:34:21.119] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[10May2025 04:34:51.168] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[10May2025 04:34:51.168] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:34:51.169] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[10May2025 04:35:21.217] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[10May2025 04:35:21.218] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:35:21.220] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[10May2025 04:35:51.267] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[10May2025 04:35:51.268] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:35:51.270] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[10May2025 04:36:21.317] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[10May2025 04:36:21.318] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[10May2025 04:36:21.319] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.

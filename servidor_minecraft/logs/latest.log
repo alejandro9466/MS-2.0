@@ -1019,3 +1019,63 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10May2025 04:14:32.977] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
 [10May2025 04:14:33.232] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
 [10May2025 04:14:48.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Dercsas to Peter_rola14]
+[10May2025 04:16:03.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Creative Mode]
+[10May2025 04:16:18.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Survival Mode]
+[10May2025 04:16:24.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [Sweet Tooth]
+[10May2025 04:16:32.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has completed the challenge [Darwin? Who's That?]
+[10May2025 04:17:27.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peter_rola14 has completed the challenge [Darwin? Who's That?]
+[10May2025 04:17:38.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was blown up by Creeper
+[10May2025 04:17:47.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Creative Mode]
+[10May2025 04:18:02.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Survival Mode]
+[10May2025 04:18:05.719] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[10May2025 04:18:05.719] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[10May2025 04:18:05.719] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[10May2025 04:18:05.725] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[10May2025 04:18:05.899] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[10May2025 04:18:05.899] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[10May2025 04:18:05.900] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[10May2025 04:18:05.900] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[10May2025 04:18:05.901] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[10May2025 04:18:05.908] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[10May2025 04:18:05.908] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[10May2025 04:18:13.261] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[10May2025 04:18:13.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[10May2025 04:18:13.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[10May2025 04:18:13.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[10May2025 04:18:13.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[10May2025 04:18:13.282] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[10May2025 04:18:13.283] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[10May2025 04:18:13.283] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[10May2025 04:18:13.284] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[10May2025 04:18:13.284] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[10May2025 04:18:13.288] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[10May2025 04:18:13.288] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[10May2025 04:18:24.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [Stone Age]
+[10May2025 04:18:31.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gamerule playersSleepingPercentage is now set to: 1]
+[10May2025 04:18:36.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [Hard Work and Dedication]
+[10May2025 04:18:50.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied effect Saturation to 4 targets]
+[10May2025 04:19:49.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Och8Z to Peter_rola14]
+[10May2025 04:20:20.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Creative Mode]
+[10May2025 04:21:00.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Hard Work and Dedication]
+[10May2025 04:21:05.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Survival Mode]
+[10May2025 04:21:14.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Creative Mode]
+[10May2025 04:22:06.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set the time to 14181]
+[10May2025 04:22:34.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has completed the challenge [Darwin? Who's That?]
+[10May2025 04:22:48.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Survival Mode]
+[10May2025 04:23:03.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 1294 block(s)]
+[10May2025 04:23:39.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Creative Mode]
+[10May2025 04:23:49.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Survival Mode]
+[10May2025 04:24:03.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 472 block(s)]
+[10May2025 04:24:08.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 3687 block(s)]
+[10May2025 04:24:11.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 4896 block(s)]
+[10May2025 04:25:14.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Metal Coat] to alejandro946]
+[10May2025 04:25:58.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gamerule randomTickSpeed is now set to: 100]
+[10May2025 04:26:06.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gamerule randomTickSpeed is now set to: 200]
+[10May2025 04:28:02.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied effect Saturation to 4 targets]
+[10May2025 04:28:18.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10May2025 04:28:47.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 1154 block(s)]
+[10May2025 04:30:42.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Creative Mode]
+[10May2025 04:31:11.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 117 block(s)]
+[10May2025 04:31:39.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 117 block(s)]
+[10May2025 04:31:50.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 117 block(s)]
+[10May2025 04:31:57.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Survival Mode]

@@ -3109,15 +3109,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-05-10 04:24:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-05-10 03:58:55 +0000"
     },
     "done": true
   },
+  "cobblemon:recipes/held/icy_rock": {
+    "criteria": {
+      "has_stone": "2025-05-10 04:23:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-10 03:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-10 04:25:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall": {
+    "criteria": {
+      "has_polished_cut_granite": "2025-05-10 04:31:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs": {
+    "criteria": {
+      "has_polished_cut_granite": "2025-05-10 04:31:00 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/light_clay": {
+    "criteria": {
+      "has_clay": "2025-05-10 04:25:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/small_rose_quartz_tiles_from_conversion": {
+    "criteria": {
+      "has_item": "2025-05-10 04:30:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-05-10 04:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-05-10 04:24:58 +0000"
     },
     "done": true
   },
@@ -3133,9 +3187,45 @@
     },
     "done": true
   },
+  "cobblemon:max_level_baby": {
+    "criteria": {
+      "level": "2025-05-10 04:17:27 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice_using_stone": {
+    "criteria": {
+      "has_ice": "2025-05-10 04:23:46 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice": {
+    "criteria": {
+      "has_the_recipe": "2025-05-10 04:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-05-10 04:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-10 04:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-05-10 04:24:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab": {
+    "criteria": {
+      "has_polished_cut_granite": "2025-05-10 04:31:00 +0000"
     },
     "done": true
   },
