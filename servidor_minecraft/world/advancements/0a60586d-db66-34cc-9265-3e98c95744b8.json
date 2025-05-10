@@ -1548,6 +1548,7 @@
       "minecraft:skeleton": "2025-05-10 03:46:16 +0000",
       "minecraft:spider": "2025-05-09 01:41:28 +0000",
       "minecraft:creeper": "2025-05-10 03:48:18 +0000",
+      "minecraft:phantom": "2025-05-10 04:49:05 +0000",
       "minecraft:zombie": "2025-05-10 03:22:27 +0000"
     },
     "done": false
@@ -2621,105 +2622,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/brass_ingot_from_decompacting": {
-    "criteria": {
-      "has_item": "2025-05-10 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/soft_sand": {
-    "criteria": {
-      "has_sand": "2025-05-10 04:09:47 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-10 04:35:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_colorless": "2025-05-10 04:40:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-05-10 03:59:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-10 04:35:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-10 04:35:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-05-10 04:09:47 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-10 04:35:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-10 04:26:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/glass_from_framed_glass": {
-    "criteria": {
-      "has_item": "2025-05-10 04:40:14 +0000"
     },
     "done": true
   },
@@ -2729,39 +2634,45 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+      "has_oxeye_daisy": "2025-05-10 04:05:58 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
-      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+      "has_oxeye_daisy": "2025-05-10 04:05:58 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+  "cobblemon:recipes/held/soft_sand": {
     "criteria": {
-      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+      "has_sand": "2025-05-10 04:09:47 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_glass_colorless": "2025-05-10 04:40:14 +0000"
+      "has_smelts_to_glass": "2025-05-10 04:09:47 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+      "has_sand": "2025-05-10 04:09:47 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+  "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
-      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+      "has_peony": "2025-05-10 04:15:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-10 04:26:17 +0000"
     },
     "done": true
   },
@@ -2777,9 +2688,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "has_stone_types_calcite": "2025-05-10 04:35:33 +0000"
+      "has_porkchop": "2025-05-10 04:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-10 04:26:17 +0000"
     },
     "done": true
   },
@@ -2795,6 +2712,54 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_granite_slab": {
+    "criteria": {
+      "has_polished_cut_granite": "2025-05-10 04:29:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/small_rose_quartz_tiles_from_conversion": {
+    "criteria": {
+      "has_item": "2025-05-10 04:30:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-05-10 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-10 04:35:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-10 04:35:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-10 04:35:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-10 04:35:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-10 04:35:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-10 04:35:33 +0000"
@@ -2807,57 +2772,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/small_rose_quartz_tiles_from_conversion": {
-    "criteria": {
-      "has_item": "2025-05-10 04:30:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-10 04:35:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-05-10 04:05:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-05-10 04:26:17 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-10 04:35:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
-    "criteria": {
-      "has_item": "2025-05-10 04:40:14 +0000"
     },
     "done": true
   },
@@ -2885,24 +2808,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_colorless": "2025-05-10 04:40:14 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-10 04:35:33 +0000"
@@ -2927,33 +2832,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-05-10 04:09:47 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-10 04:35:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
-      "has_porkchop": "2025-05-10 04:26:17 +0000"
+      "has_stone_types_calcite": "2025-05-10 04:35:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
-      "has_oxeye_daisy": "2025-05-10 04:05:58 +0000"
+      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_granite_slab": {
+  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
-      "has_polished_cut_granite": "2025-05-10 04:29:10 +0000"
+      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
     },
     "done": true
   },
@@ -2963,27 +2946,51 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
-    "criteria": {
-      "has_item": "2025-05-10 04:40:14 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2025-05-10 04:15:15 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-05-10 04:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-10 04:40:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2025-05-10 04:40:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-10 04:40:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-05-10 04:40:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-10 04:40:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2025-05-10 04:40:14 +0000"
     },
     "done": true
   },
@@ -2999,9 +3006,117 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat_from_other_seat": {
     "criteria": {
-      "has_stone_types_calcite": "2025-05-10 04:35:33 +0000"
+      "has_seat": "2025-05-10 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-05-10 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-05-10 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-05-10 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-05-10 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-05-10 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-05-10 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-05-10 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-05-10 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-05-10 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-05-10 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-05-10 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-05-10 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-05-10 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-05-10 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-05-10 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-05-10 04:47:02 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-05-10 04:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-05-10 05:05:16 +0000"
     },
     "done": true
   },

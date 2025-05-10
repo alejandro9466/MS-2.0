@@ -8,24 +8,25 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 10,
+    "totalCaptureCount": 14,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 12,
+    "totalEvolvedCount": 8,
+    "totalBattleVictoryCount": 14,
     "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 10,
+    "totalPvWBattleVictoryCount": 12,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "water": 2,
+      "water": 6,
       "psychic": 1,
       "normal": 3,
       "flying": 3,
       "fighting": 1,
-      "electric": 2,
+      "electric": 3,
       "bug": 1,
-      "poison": 1
+      "poison": 2,
+      "ice": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:petilil": 1

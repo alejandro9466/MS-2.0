@@ -20,7 +20,9 @@
       "minecraft:beach": "2025-05-09 01:27:47 +0000",
       "minecraft:river": "2025-05-09 01:27:13 +0000",
       "minecraft:stony_shore": "2025-05-09 01:52:13 +0000",
+      "minecraft:cold_ocean": "2025-05-10 05:01:37 +0000",
       "minecraft:forest": "2025-05-09 01:10:07 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-10 05:09:02 +0000",
       "minecraft:jungle": "2025-05-10 04:07:53 +0000",
       "minecraft:flower_forest": "2025-05-09 01:48:01 +0000",
       "minecraft:meadow": "2025-05-09 01:53:38 +0000",
@@ -3097,9 +3099,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-10 05:08:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2025-05-10 03:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-10 05:08:23 +0000"
     },
     "done": true
   },
@@ -3109,9 +3123,27 @@
     },
     "done": true
   },
+  "cobblemon:first_battle_victory": {
+    "criteria": {
+      "win": "2025-05-10 04:53:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-05-10 04:24:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-10 04:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-05-10 04:48:10 +0000"
     },
     "done": true
   },
@@ -3124,6 +3156,12 @@
   "cobblemon:recipes/held/icy_rock": {
     "criteria": {
       "has_stone": "2025-05-10 04:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-10 04:54:07 +0000"
     },
     "done": true
   },
@@ -3169,6 +3207,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "kelp": "2025-05-10 05:08:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-05-10 04:24:58 +0000"
@@ -3181,9 +3225,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-10 05:08:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-05-10 04:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-10 04:54:07 +0000"
     },
     "done": true
   },
@@ -3214,6 +3270,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-05-10 04:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-10 04:54:07 +0000"
     },
     "done": true
   },
