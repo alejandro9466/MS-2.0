@@ -162,6 +162,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:magma_cube": "2025-05-10 05:25:42 +0000",
       "minecraft:zombie": "2025-05-10 03:44:01 +0000"
     },
     "done": false
@@ -362,7 +363,8 @@
     "criteria": {
       "minecraft:nether_wastes": "2025-05-10 05:18:57 +0000",
       "minecraft:soul_sand_valley": "2025-05-10 05:18:28 +0000",
-      "minecraft:basalt_deltas": "2025-05-10 05:19:05 +0000"
+      "minecraft:basalt_deltas": "2025-05-10 05:19:05 +0000",
+      "minecraft:warped_forest": "2025-05-10 05:27:36 +0000"
     },
     "done": false
   },
