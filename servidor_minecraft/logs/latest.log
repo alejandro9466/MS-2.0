@@ -1137,3 +1137,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10May2025 05:13:47.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully cloned 2106 block(s)]
 [10May2025 05:13:55.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Dercsas to Peter_rola14]
 [10May2025 05:14:30.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Teleported Och8Z to Peter_rola14]
+[10May2025 05:17:16.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[10May2025 05:17:22.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10May2025 05:17:34.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 395 block(s)]
+[10May2025 05:17:37.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[10May2025 05:17:43.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10May2025 05:18:00.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 9594 block(s)]
+[10May2025 05:18:08.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 10805 block(s)]
+[10May2025 05:18:22.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 21862 block(s)]
+[10May2025 05:18:28.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [We Need to Go Deeper]
+[10May2025 05:18:34.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gamerule randomTickSpeed is now set to: 5]
+[10May2025 05:18:42.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gamerule randomTickSpeed is now set to: 200]
+[10May2025 05:19:07.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[10May2025 05:19:25.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2990ms or 59 ticks behind
+[10May2025 05:19:45.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4840ms or 96 ticks behind
+[10May2025 05:20:02.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2560ms or 51 ticks behind
+[10May2025 05:20:19.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Disconnected
+[10May2025 05:20:19.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
+[10May2025 05:20:20.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2698ms or 53 ticks behind
+[10May2025 05:20:27.007] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandro946[/127.160.163.203:39955] logged in with entity id 56969 at (-1317.1406551884759, 71.0, -198.10842548579936)
+[10May2025 05:20:27.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 joined the game
+[10May2025 05:20:39.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[10May2025 05:20:56.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2663ms or 53 ticks behind
+[10May2025 05:21:16.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4669ms or 93 ticks behind
+[10May2025 05:21:21.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Hot Stuff]
+[10May2025 05:21:33.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[10May2025 05:21:40.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Creative Mode]
+[10May2025 05:21:51.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2674ms or 53 ticks behind
+[10May2025 05:22:09.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3527ms or 70 ticks behind
+[10May2025 05:22:29.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[10May2025 05:22:47.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3345ms or 66 ticks behind
+[10May2025 05:23:13.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[10May2025 05:23:31.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2984ms or 59 ticks behind
+[10May2025 05:23:39.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Set own game mode to Survival Mode]
+[10May2025 05:23:49.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3361ms or 67 ticks behind
+[10May2025 05:23:56.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Applied effect Fire Resistance to Dercsas]
+[10May2025 05:24:08.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-315, y=105, z=35} BlockPos{x=-314, y=104, z=35}
+[10May2025 05:24:13.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10May2025 05:24:35.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Applied effect Fire Resistance to 4 targets]
+[10May2025 05:24:47.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[10May2025 05:25:02.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peter_rola14: Applied effect Fire Resistance to 4 targets]
+[10May2025 05:25:12.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[10May2025 05:25:33.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[10May2025 05:26:00.770] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d34f7aba-46f0-4e8f-a040-ff4b14f99077
+[10May2025 05:26:00.770] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d34f7aba-46f0-4e8f-a040-ff4b14f99077
+[10May2025 05:26:28.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[10May2025 05:26:46.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[10May2025 05:27:05.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4771ms or 95 ticks behind
